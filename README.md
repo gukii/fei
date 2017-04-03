@@ -1,6 +1,6 @@
 # fei.gallery
 
-*is still under construction...*
+*is still under construction..*
 
 ---
 
