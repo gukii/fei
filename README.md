@@ -1,6 +1,6 @@
-# fei.gallery
+![one of my paintings](./images/image1.jpg)
 
-*is still under construction....*
+*this gallery is still under construction....*
 
 ---
 
@@ -12,4 +12,6 @@ Facebook: [www.facebook.com/Efei.Fly](https://www.facebook.com/Efei.Fly)
 Email: [fei@fei.gallery](mailto:fei@fei.gallery)
 
 ---
+
+
 
