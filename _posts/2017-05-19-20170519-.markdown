@@ -1,0 +1,31 @@
+---
+layout: post
+title: "20170519 " 
+date: 2017-05-19T08:02:06+0000 
+categories: [] 
+media:
+  - id: NDdqUMr
+    name: GrL6XV4q73t8MBl14gNoFGyQpyM
+    description: "20170519"Screaming to the world"21x 30 cmAcrylic , crayon on wood pad"   
+    height: 720
+    width: 517
+    type: image/jpeg
+    link: https://i.imgur.com/NDdqUMr.jpg
+    prevLoc: AGQWvJk3X8HROrrx0nN9TjMPwxDjMWskMJ1G91Pzu1E0ROX78WurAYVg449niL9zmYlO7lHD3L8LG4o1Tygr4plogPu8rD7g2x2kc6gyGyK004UXrgrKxDN1IqoYXklvmxF3A3BoV1M2HZ2lp6Gj70C8QYQl223mUlKgJM2Ooof3Rjr3JlYXcq3norBZp8uPLpGV65pMSm9VZNq4OjTD8MOPvnkRf8zpZqNkX2u65oxxnMyYFmq5LZrJR6fpOgGOXx9Xc0yB
+    parentId: GrL6XV4q73t8MBl14gNoFGyQpyM
+    postId: RJZ64DOLm0IXg7O38AA0iY9AkqZ4zPtgEJoJPnn8tEmwm86oAjSmQm
+    factor: 1.39
+    portrait: 1
+    mInfo: SlLqRsjLmT0il0x
+message: "20170519  "Screaming to the world"  21x 30 cm  Acrylic , crayon on wood pad"
+---
+
+20170519  
+"Screaming to the world"  
+21x 30 cm  
+Acrylic , crayon on wood pad
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/NDdqUMr.jpg"><img src="https://i.imgur.com/NDdqUMr.jpg" height="300" width="215" /></a> 
+ 
