@@ -1,0 +1,35 @@
+---
+layout: post
+title: "20171109 " 
+date: 2017-11-09T08:31:49+0000 
+categories: [] 
+media:
+  - id: WPS8Dtd
+    name: RJZgV8GQzWCXRYo75E3Gs3YYvNZ
+    description: "20171109Slack on the leaf Crayon and acrylic on wood pad 我就是希望我的一生悠悠哉哉 隨緣飄蕩   離開  不帶走一片雲彩"   
+    height: 522
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/WPS8Dtd.jpg
+    prevLoc: mp28DL4v07TMl11VXAj5s1Dkwj81D6C42orB8rNZu8lwXmgOzWHLDxVqggpwHO7jAVorgoUx28v8BpkECJqDqjN8XBHrvvLDjq2oCyl4GNP4M0Ijp4mP2MRBSBOBAZ5y1MSRwrR4Egq3I5oq73JYwXSLRooE9X34H9NDm9Yj7lCOkk34QlLptZw0q33DmYhmX8xOMPLOI7OxoBZkORcGMmmoOOp5T18DAZXgBVFr1gDNVKB8s7rVNAlA9BcqrZ6wznv3tyn
+    parentId: RJZgV8GQzWCXRYo75E3Gs3YYvNZ
+    postId: zz1p2yvnDEczmJrjv00wHv4q8oONZof2OBl1XB55Ug5yznRKPJcYvZ
+    factor: 1.38
+    portrait: 0
+    mInfo: 0RYCslX69hAzeEI
+message: "20171109  Slack on the leaf     Crayon and acrylic on wood pad     我就是希望我的一生悠悠哉哉   隨緣飄蕩     離開  不帶走一片雲彩"
+---
+
+20171109  
+Slack on the leaf   
+  
+Crayon and acrylic on wood pad  
+  
+ 我就是希望我的一生悠悠哉哉  
+ 隨緣飄蕩    
+ 離開  不帶走一片雲彩
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/WPS8Dtd.jpg"><img src="https://i.imgur.com/WPS8Dtd.jpg" height="217" width="300" /></a> 
+ 
