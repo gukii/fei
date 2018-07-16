@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Painting " 
+date: 2018-05-30T03:33:35+0000 
+categories: [] 
+media:
+  - id: 4wUmmDJ
+    name: W057Go05Z3t4Mkq6vKlxi5X0gBE
+    description: "Painting But not alone. I'm with my inspiration ."   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/4wUmmDJ.jpg
+    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBQNQ3uz1Gk1nPkBF53ZRnOR7Kc2yV02V247SEvp8y92zlFXnN1KG53ViMoyR45vPkhPNXmOGmwMiWx570PwBEuq0qkGok4pSpkQQJ80K1iPvDY9pn50u0EPB2xrG5TA3mv2DAqMuDp5wmJMRjI7Vn9vywVWhKY4ooxkZKc07OzPRznNHRQOmLxnPQFPnrrlxYo2IEDyO4K86Vc99V3JwkE
+    parentId: W057Go05Z3t4Mkq6vKlxi5X0gBE
+    postId: 2NjknQx9PosQEnmDANNZHqn7j93W4XCAVKgLyz5ruxQnNorLEnCwyl
+    factor: 1.33
+    portrait: 0
+    mInfo: O0IorpzVgMbiSNJ
+message: "Painting   But not alone.   I'm with my inspiration ."
+---
+
+Painting   
+But not alone.   
+I'm with my inspiration .
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/4wUmmDJ.jpg"><img src="https://i.imgur.com/4wUmmDJ.jpg" height="225" width="300" /></a> 
+ 
