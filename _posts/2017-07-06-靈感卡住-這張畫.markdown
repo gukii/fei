@@ -1,0 +1,66 @@
+---
+layout: post
+title: "靈感卡住  這張畫" 
+date: 2017-07-06T10:44:10+0000 
+categories: [] 
+media:
+  - id: HRsv4mv
+    name: 43lx2R66KvS81BDOMoAki192p6k
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/HRsv4mv.jpg
+    prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VLAWAvILn2mlOQzyIRo7A4P193U3M7WG3DrAh8Ox3jm7XqcAQ8PJ7AWxcYl7r9o2qpTo510wzQpLCg3vxPlwyjTYOyWLJvD2f8ZOj0QPm0UYW2zYRqEmFNPPDJXlz2FgYMWzz3xRS1on36VJYBTwOMQ7KDK8HlPrXvNK51S507zkDL6KirO4Z7voR1Uj3zVZvGqRUzLKYL6xJNTo2
+    parentId: xxYkyv66jzFXAJj04KgDukP8QoV
+    postId: ODWY1zMZj2Ik2qOBo66ZiME2xP39qkiPYA5xVBzBHqkz6NoWNAUx2m
+    factor: 1.33
+    portrait: 1
+    mInfo: gVBxR5VTuXsyxjD
+  - id: rTSsiJl
+    name: NBVkG9OO1KI6BNpRDzz5tGqwZEV
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/rTSsiJl.jpg
+    prevLoc: lovXBK4rk8CMEOOWGA2osRYQLM8RYPhBKjWGMWE6upW3vjAnOVSDoLjpD0DvTLWO9q4RvZI7oxWXlGBMSY5rAzvYlofXQRz7rpQvhvARP13vomFog6RKEJ35i5N62GoN2wHADprKwg62um21njQWVVizDmQ3vxO6hOXPoOyzJ2IvBBwQA9jOi5xnz33X1ksXMJoR05zJHrvLVoVQNDiyJw35BzYnI0zzVmRJGqfz18zEOow7UV5Mg42xgpSgZY4pBmqOU6m
+    parentId: xxYkyv66jzFXAJj04KgDukP8QoV
+    postId: ODWY1zMZj2Ik2qOBo66ZiME2xP39qkiPYA5xVBzBHqkz6NoWNAUx2m
+    factor: 1.78
+    portrait: 0
+    mInfo: p0Y6nKPcw4cQmaG
+  - id: V2AYl79
+    name: 1NgwMr667phZYpXLrXkRT0oL6ZW
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/V2AYl79.jpg
+    prevLoc: pvRBJO5yo9uwoQQgkvnzTO26Vn4O2MsGlw0x20O9c1ZXoVD6pzuK7Ej8K0KDczko0NGwjBFKRy83MAlLSkwgm4kj9qumlKDOKxm8f4gmrAz41XFXkNpo6OYZiEXk3MDwj3sxKVPMzrX5fn86ZkPQg8frkmlMmn6MFmkrEmOp4zI7NNO50Q4BH9gEZllK0PFyLrO953lBCBwJE7kjJrtA8Bx1p7G4CNpW08PjBPTkRGRJ66PMhpo77pD1Lkt9BDz79p6DU9N
+    parentId: xxYkyv66jzFXAJj04KgDukP8QoV
+    postId: ODWY1zMZj2Ik2qOBo66ZiME2xP39qkiPYA5xVBzBHqkz6NoWNAUx2m
+    factor: 1.33
+    portrait: 1
+    mInfo: RdemIqzacLTjpw6
+story: "胡作霏為 Fei Fei Art added 3 new photos."  message: "靈感卡住  這張畫恐怕難產  Getting stuck"
+---
+
+靈感卡住  
+這張畫恐怕難產  
+Getting stuck
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added 3 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/HRsv4mv.jpg"><img src="https://i.imgur.com/HRsv4mv.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/rTSsiJl.jpg"><img src="https://i.imgur.com/rTSsiJl.jpg" height="168" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/V2AYl79.jpg"><img src="https://i.imgur.com/V2AYl79.jpg" height="300" width="225" /></a> 
+ 
