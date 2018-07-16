@@ -1,0 +1,102 @@
+---
+layout: post
+title: "When the " 
+date: 2018-01-30T16:56:37+0000 
+categories: [] 
+media:
+  - id: wJcaPfI
+    name: LzQgmgwMqvc2Yj16ZJVRuVE37y6
+    description: ""   
+    height: 720
+    width: 405
+    type: image/jpeg
+    link: https://i.imgur.com/wJcaPfI.jpg
+    prevLoc: mp28DL4v07TMl11VXAj5s1Dkwj81D6C42orB8rNZu8lwXmgOzWHLDxVqLJLEcOm27Dw54Mhx5wlOM1z9cJVJNmzM8ECrX96MNvPRt7ENPvAjGlCNr247lyopSBpnOoj9NpfDjl8jAK9vhqEy72VqWluAlOnjvR06u9NDm9Yj7lCOkk34QlLptZw0q33DkDUR7w3ERPzQU7JjPO3zYOsXz84qV0AWu10gpYYyABswo1OWB021U70v5xO1oYuqrZ18l3r8cyn
+    parentId: AlBnEngjVMs51Y8MBRX1flMl4xG
+    postId: mjKZLgOEmnhqREMQGmmPSZGygQrY5Qtl2ymLnY3KTX74G3gQqltr21
+    factor: 1.78
+    portrait: 1
+    mInfo: 3aYgYZYgQlA19lC
+  - id: YjdQaBe
+    name: pmNgWglr3ksZxMrAYnxACoEWoEz
+    description: ""   
+    height: 475
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/YjdQaBe.jpg
+    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvOLNyQqAlT769yJK4k8SDjDmrgXGpILV7wlmYQoiypJkxRlWGFLNjYJO46riWVAlZWOZXiPmWjl3585SNOYoq3x1QFkxXXvKrXOhOlwBORjZgIR11jOr67PHknOwMMoDzF3Xlkwj4ZYs57mn5noXRsDJM9B57k8T9PnLJn9zXh959zw4XLEck0YExyN0OsnrV8kA70EFrw
+    parentId: AlBnEngjVMs51Y8MBRX1flMl4xG
+    postId: mjKZLgOEmnhqREMQGmmPSZGygQrY5Qtl2ymLnY3KTX74G3gQqltr21
+    factor: 1.52
+    portrait: 0
+    mInfo: GPWWwQe0UNlG24d
+  - id: NQzHq7z
+    name: 2NjRlRQz07sQElqQ3RG6SKjo7pj
+    description: ""   
+    height: 313
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/NQzHq7z.jpg
+    prevLoc: pvRBJO5yo9uwoQQgkvnzTO26Vn4O2MsGlw0x20O9c1ZXoVD6pzuK7Ej8rr1zFz0DP3npKnUKPGwGNz09skK4Ko4D9Xtm9Mv5DVq0H4zNAgnmK2TX2XBz7K1ptEZnyy6Xw1uR26QG7B2vCkGEm78jBqUrNxn0wJyYuLgj7Gy4NNi13961jJmqIDRo8Kl1QOCyWogzlnWVCz8rLj1q40iA52OvwLXkCNjPo13ORvslQE7256pPUn5Q9EKW34HwB5zJyg3QuWEO
+    parentId: AlBnEngjVMs51Y8MBRX1flMl4xG
+    postId: mjKZLgOEmnhqREMQGmmPSZGygQrY5Qtl2ymLnY3KTX74G3gQqltr21
+    factor: 2.30
+    portrait: 0
+    mInfo: 2ovZvX71V3jyak9
+  - id: YHnK7xj
+    name: roP0W0ny3muOD95vVA62hMBVMBk
+    description: ""   
+    height: 720
+    width: 508
+    type: image/jpeg
+    link: https://i.imgur.com/YHnK7xj.jpg
+    prevLoc: EMZ1zNo3XKTqx11wyg3WT6Q2Kvl6QWh1DPVyGVq7s2rKlRGxP5HZpRjNZYZ3u7Xgv6D5ALfxgZ8rYLE2cVWVLJVKWvhvL3mzNonWCLpnZzy8JAhqoBK0lrGmfwMg92WNK1TVj0zG6Qv8UkB9G1GqKVTKqxMDOMk4sYjXWYy89KFoPPXzAQjvtnXRxkk5P0cXk6BpLL9lfJEORRyOgpspwkr2OpK7tQjQ30ZxVBH9587m6E34iqDQ2GMDN5u2zGkzpAP2CLJ
+    parentId: AlBnEngjVMs51Y8MBRX1flMl4xG
+    postId: mjKZLgOEmnhqREMQGmmPSZGygQrY5Qtl2ymLnY3KTX74G3gQqltr21
+    factor: 1.42
+    portrait: 1
+    mInfo: bN3WwazvO0JJPcD
+  - id: cBCGyDb
+    name: qnOjWjmw3lcv706Go01lIx6n83W
+    description: ""   
+    height: 389
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/cBCGyDb.jpg
+    prevLoc: 6qmG3rJOxYiWmVVRk1rosAL3vKoAL7tzAP4G74n6C3LXjw0rOGuRNQ7vRDR4tOx89RWorNhqAGMPVR6ES8E8XWl43xcPx0rxLk6GCvWOnGLxgrURLVJ1Kz7Bhvop4EWX0QIQKwG3JZOzfDnXg9QYzmHPQZMZX906Uy35RyzxW9C5QQJE2DXrSV10MLL23nSN8VKVyL9wSjWR015D78U15nYoLOLph3N0vvkWjXskQ97Y8KL2inN496pJZvS9Nr1q6J5lSmn
+    parentId: AlBnEngjVMs51Y8MBRX1flMl4xG
+    postId: mjKZLgOEmnhqREMQGmmPSZGygQrY5Qtl2ymLnY3KTX74G3gQqltr21
+    factor: 1.85
+    portrait: 0
+    mInfo: M7jhkQMEB9HGku6
+story: "胡作霏為 Fei Fei Art added 5 new photos."  message: "When the first painting  was sold, it was an exciting and odd feeling. And when the paintings were made into products like these, I just simply felt touched and thankful; at the same time still a bit odd  not because they might bring me income, but am just simply glad that at least someone thinks it's worth the effort making them.    When you follow your passion, the right things and people also follow.    當我的第一張畫賣出時，那是一種開心到無法自拔，帶點詭異的感覺。而當我的作品被製作成這些產品，卻是純粹的感動和感恩，雖然還是有點詭異 不是因為這些產品也許會帶來收入，而是單純的開心至少某個人認為這是值得努力去做的。    當你追隨自己的熱情，對的人事物也會追隨你。"
+---
+
+When the first painting  was sold, it was an exciting and odd feeling. And when the paintings were made into products like these, I just simply felt touched and thankful;( at the same time still a bit odd ) not because they might bring me income, but am just simply glad that at least someone thinks it's worth the effort making them.  
+  
+When you follow your passion, the right things and people also follow.  
+  
+當我的第一張畫賣出時，那是一種開心到無法自拔，帶點詭異的感覺。而當我的作品被製作成這些產品，卻是純粹的感動和感恩，(雖然還是有點詭異) 不是因為這些產品也許會帶來收入，而是單純的開心至少某個人認為這是值得努力去做的。  
+  
+當你追隨自己的熱情，對的人事物也會追隨你。
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added 5 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/wJcaPfI.jpg"><img src="https://i.imgur.com/wJcaPfI.jpg" height="300" width="168" /></a> 
+  
+
+<a href="https://i.imgur.com/YjdQaBe.jpg"><img src="https://i.imgur.com/YjdQaBe.jpg" height="197" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/NQzHq7z.jpg"><img src="https://i.imgur.com/NQzHq7z.jpg" height="130" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/YHnK7xj.jpg"><img src="https://i.imgur.com/YHnK7xj.jpg" height="300" width="211" /></a> 
+  
+
+<a href="https://i.imgur.com/cBCGyDb.jpg"><img src="https://i.imgur.com/cBCGyDb.jpg" height="162" width="300" /></a> 
+ 
