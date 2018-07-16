@@ -1,0 +1,33 @@
+---
+layout: post
+title: "這個cracked" 
+date: 2017-05-21T04:14:42+0000 
+categories: [] 
+media:
+  - id: 5xEfdC6
+    name: BY7NV9rX91tNloyMm7kAuWOjxN
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/5xEfdC6.jpg
+    prevLoc: JgYz0Vw3KEunwppkO1q8hMO9njxMOrTK7OL93Lkjcp4LQYAxkrSwxrVlwEr3IwzEMvP611hvKrjJQVV9HvwvKyG1zmHN0xG4Rnmqt209nXqA2KfJrjry9mzKuLB8Wjvp5YFvWLmDZpo7IkPV02YXO6CJBOG6o8Y3crE6kBQ9mmi9Jvr9PglDI7gWElzwBXf5POy9rz1AIJKAJ0YEMoc8rEPAzrYjhlXyvzqQWNcYpo3rRrVysOpBGAp2oMhQ7vA7N8lJUnZP
+    parentId: BY7NV9rX91tNloyMm7kAuWOjxN
+    postId: BmDBKjNnA2uNlEnL3ggRUGzJlWyEYNhD2LPYMkkzfXoZnp6glYFLrW
+    factor: 1.78
+    portrait: 0
+    mInfo: ZzHdvnAuHwviMsW
+story: "胡作霏為 Fei Fei Art shared 廈門11's video."  message: "這個cracked wall 系列作品已經辛苦的陪我展來展去了…我很好奇最後它會情歸何處?  The "cracked wall series" has been displayed in several places for me , and i'm curious where it'll be at last?"
+---
+
+這個cracked wall 系列作品已經辛苦的陪我展來展去了…我很好奇最後它會情歸何處?  
+The "cracked wall series" has been displayed in several places for me , and i'm curious where it'll be at last?
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art shared 廈門11's video.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/5xEfdC6.jpg"><img src="https://i.imgur.com/5xEfdC6.jpg" height="168" width="300" /></a> 
+ 
