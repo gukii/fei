@@ -1,0 +1,31 @@
+---
+layout: post
+title: "對話對畫---4 " 
+date: 2018-01-24T14:43:31+0000 
+categories: [] 
+media:
+  - id: h9yiq1Q
+    name: W05nAnvKRyT8yGDwLOm0U5xKAwR
+    description: "對話對畫---4Talking Canvas project ---4https;www.facebook.comEfei.Talking.Canvas"   
+    height: 583
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/h9yiq1Q.jpg
+    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBDDRjuzOnr0JNA9cMyLz08J4QF9R6l022N3UEAlEKZ53KU3GR3LngmJs81k1JGM3oHPN7ORXA88UY11Kk1p3Juqwm857QJ0spEK7YzKA9HP61YJLQ4qc0GL76yy13HAPl6QWRRyI49PN24AYWun9jD1Kg0ptKArxn549ZI4V0YgKVzBFm0j5yBKnxim0Gn5z6mVcOpwgJVwj8TkOZxy63g9
+    parentId: W05nAnvKRyT8yGDwLOm0U5xKAwR
+    postId: 075RlPY9Nmczr6yAlRRgHgwXyOnN5Oc08p84yWlMSzypZ1EE1YhlQW
+    factor: 1.23
+    portrait: 0
+    mInfo: yU3uiHGqwaJclsn
+message: "對話對畫---4  Talking Canvas project ---4    https;www.facebook.comEfei.Talking.Canvas"
+---
+
+對話對畫---4  
+Talking Canvas project ---4  
+  
+https://www.facebook.com/Efei.Talking.Canvas/
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/h9yiq1Q.jpg"><img src="https://i.imgur.com/h9yiq1Q.jpg" height="242" width="300" /></a> 
+ 
