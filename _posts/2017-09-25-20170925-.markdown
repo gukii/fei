@@ -1,0 +1,30 @@
+---
+layout: post
+title: "20170925 " 
+date: 2017-09-25T13:08:51+0000 
+categories: [] 
+media:
+  - id: aoJX1dg
+    name: BmDBK3J7wkIn49k6oEnPtR1Z3Jo
+    description: "20170925DisconnectionAcrylic on wood pad"   
+    height: 513
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/aoJX1dg.jpg
+    prevLoc: wDE2QY4JynINx0056AGLU78gXMW78jS3xM4kG4D7F659koQgVNHvz4Ko8823S1xzG92Ql2tAJ4R4pv9GclDZDg5PAYhRmXDXPo5pH4wg52O1yYI6JNNl2DgpsjYBGYprA1HzV66J5kNzignYpQO3pvc7n7g39KYqfWPow9v5rrtlnwJlPmLNsAZG7qO3LKhRZRB3Qno8tQ9wzLgg7pIEMLMPGAxzF0vqk2WOvOU9MK90W461hVW9W8MnwzCxlM1YDzMDUJ3R
+    parentId: BmDBK3J7wkIn49k6oEnPtR1Z3Jo
+    postId: 1NgwmPW9OnsXEvZQK77BiPL2lYNqBXhvqZVj2gX6TYz6VEB0DktEZp
+    factor: 1.40
+    portrait: 0
+    mInfo: FgyAiwYvNcgt165
+message: "20170925  Disconnection  Acrylic on wood pad"
+---
+
+20170925  
+Disconnection  
+Acrylic on wood pad
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/aoJX1dg.jpg"><img src="https://i.imgur.com/aoJX1dg.jpg" height="213" width="300" /></a> 
+ 
