@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Talking C" 
+date: 2018-01-30T10:05:44+0000 
+categories: [] 
+media:
+  - id: MXqGkSE
+    name: RJZgvgD83KuXRYYkkDQ8I3NQ249
+    description: "Talking Canvas project 5https;www.facebook.comEfei.Talking.Canvas"   
+    height: 720
+    width: 508
+    type: image/jpeg
+    link: https://i.imgur.com/MXqGkSE.jpg
+    prevLoc: lovXBK4rk8CMEOOWGA2osRYQLM8RYPhBKjWGMWE6upW3vjAnOVSDoLjprrZBTL9p6rB0gBH7QrDrgJ4OcYngnNg8G4URpD0Woxp1Tv3gR90l2oUoV5BD0G9xU59QJBLNx3sABxzRA01Zu1AWpq8OEpczDmqXDxgLF1E8vrlJGGiqkrMqmG05cWLA6X3MmKHXALL1WY5Zix6wPBEmR9S787G16qqYt0zzJ1JJPvFzEGA8RGADTVmDoZv5DYfKZQGZPWlgSO7w
+    parentId: RJZgvgD83KuXRYYkkDQ8I3NQ249
+    postId: 9NqrxP12oysjYoOwP55NtDogjPzKkPC24MLDG5AKtx4OEg4lN9t1m9
+    factor: 1.42
+    portrait: 1
+    mInfo: NXqhDmRel1XrP9q
+message: "Talking Canvas project 5    https;www.facebook.comEfei.Talking.Canvas"
+---
+
+Talking Canvas project #5  
+  
+https://www.facebook.com/Efei.Talking.Canvas/
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/MXqGkSE.jpg"><img src="https://i.imgur.com/MXqGkSE.jpg" height="300" width="211" /></a> 
+ 
