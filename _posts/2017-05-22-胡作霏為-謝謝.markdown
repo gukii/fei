@@ -1,0 +1,33 @@
+---
+layout: post
+title: "胡作霏為   謝謝" 
+date: 2017-05-22T04:03:37+0000 
+categories: [] 
+media:
+  - id: vRm5wxb
+    name: jKEZ67LlJ5COqYm17zGpskryQjq
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/vRm5wxb.jpg
+    prevLoc: ZBwv2lQ7GZIjgPP1vD5MuOP6m45OPWsGLxqNVq64cR9vZK8VYmiDAgNwD9gBFQKmP8oqWWHNYMpzyPPrSVqVYZBDzAHXwYk73xNptm5806642xSYLoX6oM5RHLRAzAvWDYu4o3QYNJVWiDAMm6OxKVUl1nBYPm7wIng1AzXvNNU0wpy0V3Z4cJQLjDNp2yfz8E8jMpZgsvJ2RQ7YxRUJ9oYq7RlOHrz47LOrOrIRE3xx02ZmcEWyWpzVYVU7YMRqgXyMhvOM
+    parentId: jKEZ67LlJ5COqYm17zGpskryQjq
+    postId: qnOxPm72qrcv7m2MGppkt5Z86NwgBQiAgNL3GGpOCXZ4x22xOmt1ll
+    factor: 1.78
+    portrait: 0
+    mInfo: KyH885JJiqk2IVb
+story: "胡作霏為 Fei Fei Art shared 玩美新視界青少兒多元影像教學團隊's video."  message: "胡作霏為   謝謝廈門11的剪輯。"
+---
+
+胡作霏為   
+謝謝廈門11的剪輯。
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art shared 玩美新視界青少兒多元影像教學團隊's video.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/vRm5wxb.jpg"><img src="https://i.imgur.com/vRm5wxb.jpg" height="168" width="300" /></a> 
+ 
