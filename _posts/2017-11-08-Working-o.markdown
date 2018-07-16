@@ -1,0 +1,113 @@
+---
+layout: post
+title: "Working o" 
+date: 2017-11-08T11:50:51+0000 
+categories: [] 
+media:
+  - id: itmQzCE
+    name: roP0lg4zDMSmk55oN6WJhMNMVAP
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/itmQzCE.jpg
+    prevLoc: gjx8wB4mD7hByPPv6mAlfD74JgRD70hNDYpwkp54Cm6AOM2rjvipZ40qpVpWhRyQMV5AKPuOLNJz1K3GiPZDnWl0XvCp14RvjRZgt71oMjwnqLtYoE5VX8R6fKxWvgkg1BtvA8BMVN6rc6wkqMQPgnhN6YjlkprJcqgp8qm57xtX116r7VpBsBYqJyywPwUyXgkpjpLphLyzGqx42ys266nlQqNqtAxEBLWzE1U9MQXOlo3xix15YKOzkqfQw4Y4GZ5BF97
+    parentId: KyPOVAxwq5c1XjjpYDPYu1G1m0O
+    postId: 6Nn8r4X0lvsJGQW4xnn0u4przxRNWxf2WLLZ3vj5tjD0BPYk48tVlJ
+    factor: 1.33
+    portrait: 1
+    mInfo: qZxbPkAI8ZZlm7L
+  - id: rLkEURh
+    name: KyPOVAxwq5c1XlgqzQ1jC1ZwBjJ
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/rLkEURh.jpg
+    prevLoc: BJ8OwK03X1TnKPPxqM7VhZ1gPwxZ15hGLp3Ny3E1cRAvlN63MoiOA6J7ODOjIzM17YR5BOFYn9wNALBGfZM1X2wEYEHngynWPWvDHAl2Or67PlcM2MAzgYrEH6WDqKPjn0uLrOq1kyxphYqxrk4PRvsXYmqgzPRGIjZVWjAOBNuDxxO06kwEhzYqNvv0o1cxL1qXO068tgOoy22EY1H3B7l1mBYDIWMpmDXLzVFqP0Zj4kM4SL74xD0kq2f3vww49n1JTx5
+    parentId: KyPOVAxwq5c1XjjpYDPYu1G1m0O
+    postId: 6Nn8r4X0lvsJGQW4xnn0u4przxRNWxf2WLLZ3vj5tjD0BPYk48tVlJ
+    factor: 1.33
+    portrait: 1
+    mInfo: DMSqsWEkFCGr5wT
+  - id: PcL37gL
+    name: 9Nq8E3MVZLSOlvPDZwR4HrDR8ON
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/PcL37gL.jpg
+    prevLoc: 8voWjwLQzXukqOOm3z6jcpwx4Q7pwrTG4APkgP3xcJA0r2z68wS8wYyv878xI8w9k6GpV1uZgG0KDzO4hOXqjz4pvXcwxvkl0EYyuxXn8oR180fwNwkEG3PncGK4mwYzvGtDmylRrA8muoGPGnNRWWhKlEY0rLkMcgzJAg028qfWjjANYgO0tJW1Evvqw0SqNnDG7zzzT9kG0V8MRQHg3xYjwqO3tp3EWlGjkjI7E0RR57x6HO6PoLy43Pclw3JQvzXyhxW
+    parentId: KyPOVAxwq5c1XjjpYDPYu1G1m0O
+    postId: 6Nn8r4X0lvsJGQW4xnn0u4przxRNWxf2WLLZ3vj5tjD0BPYk48tVlJ
+    factor: 1.33
+    portrait: 1
+    mInfo: G2W8apX9XtsJrEw
+  - id: TelqHG5
+    name: Ymj69VPOLlH9nQxjnGZjskZk1pK
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/TelqHG5.jpg
+    prevLoc: OnELN1B3XJsOx55DY0pAhz5BYQ4z57s4VjyzBy9xumZ9q5NzQYirP8BnrXrmiD6KlBLZG0c6n7K5AJEOTP0z2w4NXZimq4G1N61Ns7O4XMjRy6Forx6v28PNsDXzrmOyRjcwYk4Gjn6LtrJnBPXG6nUowGxN5NKBh2EWq2D5R8slGGJL6wQyIo2JAEEG4OTzpQEOxMrPI2r5Ox1N32CgJB1P4qQZho9p13jV8LCAWGl82gBqSBRnVMWPKxf3nr5RJ85zuqN
+    parentId: KyPOVAxwq5c1XjjpYDPYu1G1m0O
+    postId: 6Nn8r4X0lvsJGQW4xnn0u4przxRNWxf2WLLZ3vj5tjD0BPYk48tVlJ
+    factor: 1.33
+    portrait: 1
+    mInfo: gpJQ3UXmaoVAQML
+  - id: DfdDcmN
+    name: Vj4mVJMLG0CZW7AN6R7ESpqLQwP
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/DfdDcmN.jpg
+    prevLoc: jmv5zG4pgAhOmllzE3njhmnqgl0mnvhwnxVKAVNouLjxn1ZOVDiqWxnpqAqkuLPNWVxYy5I9A6zJvWrQtW89NwPw9ZuDN1zxLK51CQ9XoOBm2WTMz6BZzEymt9lEMYzgnDu9OJVpv1lETwqEY0jAnKuqxl00nOpKsOBy8OrDjPIQPPR149pLS0oPD55Zk9HjXjpjZmpwuVWJXxXkmPT9VRBM86K8hw8BkK0GZNHQOAwRjmLwCDxKM6qE4VfqyQBWB6N7FP6
+    parentId: KyPOVAxwq5c1XjjpYDPYu1G1m0O
+    postId: 6Nn8r4X0lvsJGQW4xnn0u4przxRNWxf2WLLZ3vj5tjD0BPYk48tVlJ
+    factor: 1.33
+    portrait: 1
+    mInfo: IpfeQczvfNCZtaZ
+  - id: zLlmKi8
+    name: zz1mwqjLOxUrk3vlEyyMsLvyEK8
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/zLlmKi8.jpg
+    prevLoc: AGQWvJk3X8HROrrx0nN9TjMPwxDjMWskMJ1G91Pzu1E0ROX78WurAYVgrBrMiLXW9E4AwgIDZk6g5PW7SyX23Lj5YlS8XNGk4rMRC6w1PmkYPKUK5KMvPjXRsqnGW7ZMwvH2J3m02QzLhZGW6Kgz1Bc838lNykY1u1xB01jEOPINPP6kv97wFvYKDBBr7QSPDYOOD67VhBwrXmKvz2UD867JWk1oSOrGJnqLmoswnjMowkJEhG1YPLWQK3u5OBZR18YYCvn
+    parentId: KyPOVAxwq5c1XjjpYDPYu1G1m0O
+    postId: 6Nn8r4X0lvsJGQW4xnn0u4przxRNWxf2WLLZ3vj5tjD0BPYk48tVlJ
+    factor: 1.33
+    portrait: 1
+    mInfo: wF9ijkHBcjNjheN
+story: "胡作霏為 Fei Fei Art added 6 new photos."  message: "Working on a new piece...  Wait for it....."
+---
+
+Working on a new piece...  
+Wait for it.....
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added 6 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/itmQzCE.jpg"><img src="https://i.imgur.com/itmQzCE.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/rLkEURh.jpg"><img src="https://i.imgur.com/rLkEURh.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/PcL37gL.jpg"><img src="https://i.imgur.com/PcL37gL.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/TelqHG5.jpg"><img src="https://i.imgur.com/TelqHG5.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/DfdDcmN.jpg"><img src="https://i.imgur.com/DfdDcmN.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/zLlmKi8.jpg"><img src="https://i.imgur.com/zLlmKi8.jpg" height="300" width="225" /></a> 
+ 
