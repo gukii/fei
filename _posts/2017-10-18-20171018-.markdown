@@ -1,0 +1,30 @@
+---
+layout: post
+title: "20171018 " 
+date: 2017-10-18T12:28:32+0000 
+categories: [] 
+media:
+  - id: GGmFlgU
+    name: JxO6GDnWO0to4MVG8rWzCJ6gMvL
+    description: "20171018甦醒Crayon on wood pad"   
+    height: 720
+    width: 499
+    type: image/jpeg
+    link: https://i.imgur.com/GGmFlgU.jpg
+    prevLoc: KjYzJWx37Ah1W88QKB2qugG8kDRgG0hmJK1wB15VFYMmPJvBLkfk1wWKQQYBIB4q8gy6KyivnQrQj3POHJ4K4K7vJySKkRLpXN7xsE8NOv7lL1fgV00Qp57NiylP2NKBgGf4Np95mM37FYJzDJ2rD9F7nZY90Ak0HzQy95NKWWC6mMR6E35Gu7MgzY3ONVf0o5qKWlxwH0nAjqzE8GcBxNZKq25pFW0YyAp97Yhmz9gvmyKOSPNlmlgRgQfZ7mvrZkMJT0k9
+    parentId: JxO6GDnWO0to4MVG8rWzCJ6gMvL
+    postId: 1NgwmPW9OnsXEvZQK77BiPL2lYNqBXhvB7jK3wPNIYO4V78q70SX9o
+    factor: 1.44
+    portrait: 1
+    mInfo: vpL9Gq2DsBqGFFR
+message: "20171018  甦醒  Crayon on wood pad"
+---
+
+20171018  
+甦醒  
+Crayon on wood pad
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/GGmFlgU.jpg"><img src="https://i.imgur.com/GGmFlgU.jpg" height="300" width="207" /></a> 
+ 
