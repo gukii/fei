@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Starting " 
+date: 2018-04-17T11:45:31+0000 
+categories: [] 
+media:
+  - id: 0ZAAhdZ
+    name: xr6y6wKJjEcjZKGWj3n9URXl8G
+    description: ""   
+    height: 600
+    width: 600
+    type: image/jpeg
+    link: https://i.imgur.com/0ZAAhdZ.jpg
+    prevLoc: orv8GN4xnAIwYllA9BrXTXoMEx4XowT9KwvWqvPnc05YNk3x9MS8JX0m8DXZizGZ4Eo0v7Fxz6jM2gG4sZA2jxOYxWIKo0wooWAxUy1yPpRQ33CNB9Ggvw3mcGj3yZ17ZwiyOKO92yDQfr5jEmvgDpc3OJ61Kv9Ri5ZpokL5ywcgN75Az3BNHPJKqzwMOjHYXL6X48BDIzQgPLOqkMSyELVZvLyVH5W2zkM2xoTAkBqQYnMgs4Ep1K1nR
+    parentId: xr6y6wKJjEcjZKGWj3n9URXl8G
+    postId: Znk6lNYWxocYoOjWy338ClzB7xnQGPuEZpQ0jGl1iZQ8kXrlP3unAp
+    factor: 1.00
+    portrait: 0
+    mInfo: casdOJOw4IHbXfM
+story: "胡作霏為 Fei Fei Art shared 胡作霏為之  對話  對畫's post."  message: "Starting to have a conversation with myself   開始與自己的"對話對畫""
+---
+
+Starting to have a conversation with myself  
+ 開始與自己的"對話對畫"
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art shared 胡作霏為之  對話  對畫's post.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/0ZAAhdZ.jpg"><img src="https://i.imgur.com/0ZAAhdZ.jpg" height="300" width="300" /></a> 
+ 
