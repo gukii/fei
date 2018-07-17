@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "心河    i r" 
+title: '心河    i r' 
 date: 2017-01-08T12:59:36+0000 
-categories: [] 
+categories: ["canvas"] 
 media:
   - id: 2B452GG
     name: RJZY9MXy9YuXVnN067MvH34229A
-    description: "心河i really love this painting although att first it was a failure.I placed the canvas on my work table for a long time, and i just didn't want to look at it until one afternoon, i picked up my brush and finished it.There was no new inspiration or anything. It was just this feeling --- like your child  calling you, and you go toward her, and you just know what to do. No force and no pain. Not like before...the finishing process was an enjoyable one. It's always like magic to see an art work come into form...The more i look at it, the more it makes me feel at ease. i love the dark blue, the bright green...the red part somehow disturbs me a little, but it's a must on the painting. i don't know what it is...let's call it my passion. Let it be a reminder of my soul.27 x 22"   
+    description: '心河i really love this painting although att first it was a failure.I placed the canvas on my work table for a long time, and i just didn't want to look at it until one afternoon, i picked up my brush and finished it.There was no new inspiration or anything. It was just this feeling --- like your child  calling you, and you go toward her, and you just know what to do. No force and no pain. Not like before...the finishing process was an enjoyable one. It's always like magic to see an art work come into form...The more i look at it, the more it makes me feel at ease. i love the dark blue, the bright green...the red part somehow disturbs me a little, but it's a must on the painting. i don't know what it is...let's call it my passion. Let it be a reminder of my soul.27 x 22'   
     height: 594
     width: 720
     type: image/jpeg
@@ -17,7 +17,8 @@ media:
     factor: 1.21
     portrait: 0
     mInfo: khf6t6fem3sm73J
-story: "胡作霏為 Fei Fei Art added a new photo."  message: "心河    i really love this painting although att first it was a failure.    I placed the canvas on my work table for a long time, and i just didn't want to look at it until one afternoon, i picked up my brush and finished it.    There was no new inspiration or anything. It was just this feeling --- like your child  calling you, and you go toward her, and you just know what to do.     No force and no pain. Not like before...the finishing process was an enjoyable one. It's always like magic to see an art work come into form...    The more i look at it, the more it makes me feel at ease. i love the dark blue, the bright green...the red part somehow disturbs me a little, but it's a must on the painting. i don't know what it is...let's call it my passion. Let it be a reminder of my soul.    27 x 22"
+story: '胡作霏為 Fei Fei Art added a new photo.'  
+message: '心河    i really love this painting although att first it was a failure.    I placed the canvas on my work table for a long time, and i just didn't want to look at it until one afternoon, i picked up my brush and finished it.    There was no new inspiration or anything. It was just this feeling --- like your child  calling you, and you go toward her, and you just know what to do.     No force and no pain. Not like before...the finishing process was an enjoyable one. It's always like magic to see an art work come into form...    The more i look at it, the more it makes me feel at ease. i love the dark blue, the bright green...the red part somehow disturbs me a little, but it's a must on the painting. i don't know what it is...let's call it my passion. Let it be a reminder of my soul.    27 x 22'  
 ---
 
 心河  
