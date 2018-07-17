@@ -2,7 +2,7 @@
 layout: post
 title: "20160801 " 
 date: 2016-08-02T03:39:43+0000 
-categories: ["healing","healing"] 
+categories: ["healing"] 
 media:
   - id: CN6NAdo
     name: DoXpODBmrKCxVBYBPJwWuD0J0gz
@@ -17,7 +17,8 @@ media:
     factor: 1.41
     portrait: 1
     mInfo: tbV11TwXitNhicf
-story: "胡作霏為 Fei Fei Art added a new photo."  message: "20160801  The Healing Series  NO. 3; " Thank you"  療癒系列 編號3;  " 謝謝你"  21 x 30 cm"
+story: '胡作霏為 Fei Fei Art added a new photo.'  
+message: '20160801  The Healing Series  NO. 3; " Thank you"  療癒系列 編號3;  " 謝謝你"  21 x 30 cm'
 ---
 
 20160801  
