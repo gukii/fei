@@ -1,0 +1,81 @@
+---
+layout: post
+title: "20161101 " 
+date: 2016-11-01T07:31:30+0000 
+categories: [] 
+media:
+  - id: 5Yqxuwm
+    name: LzQ6P2jnZyU2on8rpYmYSVlZWE6
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/5Yqxuwm.jpg
+    prevLoc: gjx8wB4mD7hByPPv6mAlfD74JgRD70hNDYpwkp54Cm6AOM2rjvipZ40qpVpWhRyQMV5AKPuOLNJz1K3GiPnqZOP1QWI9Z8PxnEpQslXkD2nVNQsYoY32ZMopuK85DQVEoYFp2JE16wDzh6wn6zZJ1kFNlPBKB84PCqgp8qm57xtX116r7VpBsBYqJyywPpsylPjz2MMyf6Z9AAAnkGTQ8KlzNqDDCNyRz8ljG7hDqxkEzpPYIxnyBNEzgZHQwB4J3X54UA0
+    parentId: DoGN02XPqnTZ6llLAG5kcDmojyP
+    postId: nkL5Mjxz0ohV6MWRQJJ3Hg9kBmGMY9I9lXwwO46YC0GrqkzWkycO1O
+    factor: 1.33
+    portrait: 1
+    mInfo: 2824nA8udYVgvBX
+  - id: xBzMibm
+    name: RJZYL0pwlGiXKqg593OPf3YM7o5
+    description: ""   
+    height: 613
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/xBzMibm.jpg
+    prevLoc: orv8GN4xnAIwYllA9BrXTXoMEx4XowT9KwvWqvPnc05YNk3x9MS8JX0m8Z8BIzwkGY3qmnFry1M9Rp0QsAzgOND60ohJ1KNNYE9ytlvJ3QjgmWhzPBXMVJ8AfkY23LQ0wZIyZrYq6pORur9B13OWXJCKA9MkLOO4I7qME7lB2JiEKKNk2GMZC6MEX33j5wC10nxPnAEkF2PjmqLJm0iQ6L0PGE2Mig7gE73rr2IN5ODwzn1yiPAy3WYwA2U40gGmwB9NHjQ
+    parentId: DoGN02XPqnTZ6llLAG5kcDmojyP
+    postId: nkL5Mjxz0ohV6MWRQJJ3Hg9kBmGMY9I9lXwwO46YC0GrqkzWkycO1O
+    factor: 1.17
+    portrait: 0
+    mInfo: WPwlzmCWLKABAUJ
+  - id: YFct7om
+    name: 1Ng19n0Q6ASXjNNKxlOKt0WLPZD
+    description: ""   
+    height: 571
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/YFct7om.jpg
+    prevLoc: EMZ1zNo3XKTqx11wyg3WT6Q2Kvl6QWh1DPVyGVq7s2rKlRGxP5HZpRjNZYZ3u7Xgv6D5ALfxgZ8rYLE2cV71W5prPyTvA8VY09N9Cr02mNX9BQHlGYLrGLROTzW9MEyWkZUVj0X78OyqFk14OEjn6JI5OW1B1O7JhYjXWYy89KFoPPXzAQjvtnXRxkk5AOF9zv3JLpvvFJyJ5N9g1LcK6rRrv5OYuqnODEzDvOFV0MGzEvjDSy268P938ZH2zrrmgljATLK
+    parentId: DoGN02XPqnTZ6llLAG5kcDmojyP
+    postId: nkL5Mjxz0ohV6MWRQJJ3Hg9kBmGMY9I9lXwwO46YC0GrqkzWkycO1O
+    factor: 1.26
+    portrait: 0
+    mInfo: dZx75KYhcfQCuvi
+  - id: leOV46s
+    name: 70o8AwEO9KHYP1WvPMLpIpXzlRJ
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/leOV46s.jpg
+    prevLoc: jmv5zG4pgAhOmllzE3njhmnqgl0mnvhwnxVKAVNouLjxn1ZOVDiqWxnpqAqkuLPNWVxYy5I9A6zJvWrQtWNr81OGg3C1myJERykPcg46JY1ZxvfMP53VwgQDSvwKzE5p4Af9723jV6ZxT82wPgjj9mcYBqyLWBMjuOBy8OrDjPIQPPR149pLS0oPD55Z9ETkRKmJN22pf1XPxvV4k7I9JO2Q5xpGsLEByLxM5qSAg6pAlyKwiExjPG8OxBhqy2QM7wOYtAV
+    parentId: DoGN02XPqnTZ6llLAG5kcDmojyP
+    postId: nkL5Mjxz0ohV6MWRQJJ3Hg9kBmGMY9I9lXwwO46YC0GrqkzWkycO1O
+    factor: 1.33
+    portrait: 1
+    mInfo: 3cKgWmGD0UqOzOz
+story: "胡作霏為 Fei Fei Art added 4 new photos."  message: "20161101  The source 源頭"
+---
+
+20161101  
+The source 源頭
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added 4 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/5Yqxuwm.jpg"><img src="https://i.imgur.com/5Yqxuwm.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/xBzMibm.jpg"><img src="https://i.imgur.com/xBzMibm.jpg" height="255" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/YFct7om.jpg"><img src="https://i.imgur.com/YFct7om.jpg" height="237" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/leOV46s.jpg"><img src="https://i.imgur.com/leOV46s.jpg" height="300" width="225" /></a> 
+ 
