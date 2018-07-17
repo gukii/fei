@@ -1,0 +1,35 @@
+---
+layout: post
+title: "20160801 " 
+date: 2016-08-02T03:39:43+0000 
+categories: ["healing","healing"] 
+media:
+  - id: CN6NAdo
+    name: DoXpODBmrKCxVBYBPJwWuD0J0gz
+    description: "20160801The Healing Series  NO. 3; " Thank you"療癒系列 編號3;  " 謝謝你"21 x 30 cm"   
+    height: 720
+    width: 509
+    type: image/jpeg
+    link: https://i.imgur.com/CN6NAdo.jpg
+    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnAqPqMuAGo2Eq18ZS41W0N5ZGwcoNQYr5zzghj40lk6MQOI8k3NlEWjzurqjE5BWypiJRygxnWQ7T84Z21lL59F02K03wMOkhQ1L7B1ZoLsNlMLNZgYmF7GGzZ0YvQH9Pp4DD2jRSYqX8w2BkJulVRgVLGZNfKyR7PjqwQuAvqVGvW1vSjWG2LqBO9trE5xDWNK5f2LXMEgxZ6hMX
+    parentId: DoXpODBmrKCxVBYBPJwWuD0J0gz
+    postId: gEAJBNZkOGCJYVBznLLwuQNlWEz8rrCZ3mw8ElNnTO2JEVV7OyT7O9
+    factor: 1.41
+    portrait: 1
+    mInfo: tbV11TwXitNhicf
+story: "胡作霏為 Fei Fei Art added a new photo."  message: "20160801  The Healing Series  NO. 3; " Thank you"  療癒系列 編號3;  " 謝謝你"  21 x 30 cm"
+---
+
+20160801  
+The Healing Series  NO. 3: " Thank you"  
+療癒系列 編號3:  " 謝謝你"  
+21 x 30 cm
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added a new photo.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/CN6NAdo.jpg"><img src="https://i.imgur.com/CN6NAdo.jpg" height="300" width="212" /></a> 
+ 
