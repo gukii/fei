@@ -5,8 +5,7 @@ date: 2018-04-17T11:45:31+0000
 categories: [] 
 media:
   - id: 0ZAAhdZ
-    name: xr6y6wKJjEcjZKGWj3n9URXl8G
-    description: ''   
+    name: xr6y6wKJjEcjZKGWj3n9URXl8G   
     height: 600
     width: 600
     type: image/jpeg
