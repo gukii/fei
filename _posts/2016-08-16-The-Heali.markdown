@@ -1,0 +1,34 @@
+---
+layout: post
+title: 'The Heali' 
+date: 2016-08-16T08:01:44+0000 
+categories: ["healing"] 
+media:
+  - id: IES0QQJ
+    name: 3XzBqAvWzYI4lD3qK74RhJ4kDj5
+    description: 'The Healing Series NO;4; "I Love You"療癒系列 4號作品;"我愛你"20x27cm'   
+    height: 720
+    width: 526
+    type: image/jpeg
+    link: https://i.imgur.com/IES0QQJ.jpg
+    prevLoc: AGQWvJk3X8HROrrx0nN9TjMPwxDjMWskMJ1G91Pzu1E0ROX78WurAYVgrBrMiLXW9E4AwgIDZk6g5PW7Sy36NOQ688U8X0EA0wOmh6QNA77gwJTXVOOE6mr9iqp5Vq33qni30zqVq0WyUZ2lpD6kG9iAkrr8oYXXu1xB01jEOPINPP6kv97wFvYKDBBr77TxJmMKVOyLtmk3XLEVxXTDWq0D7JQ9I8GyPMJX5rcwolR4z1vwum2AE9628nt5OB8zDLEVIv3
+    parentId: 3XzBqAvWzYI4lD3qK74RhJ4kDj5
+    postId: PE0N2A7Yk9Cn5y6Lq77NtgzLN67Pl1T04DDEyvWOF8ZWgjWlQmTmjE
+    factor: 1.37
+    portrait: 1
+    mInfo: UY5USo2gT2QaqcC
+story: '胡作霏為 Fei Fei Art added a new photo.'      message: 'The Healing Series NO;4; "I Love You"  療癒系列 4號作品;"我愛你"  20x27cm"  
+---
+
+The Healing Series NO:4: "I Love You"  
+療癒系列 4號作品:"我愛你"  
+20x27cm
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added a new photo.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/IES0QQJ.jpg"><img src="https://i.imgur.com/IES0QQJ.jpg" height="300" width="219" /></a> 
+ 
