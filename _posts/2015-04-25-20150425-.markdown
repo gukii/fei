@@ -1,0 +1,36 @@
+---
+layout: post
+title: '20150425 ' 
+date: 2015-04-25T15:42:36+0000 
+categories: ["crayon","acrylic","wood"] 
+media:
+  - id: XPHs0qg
+    name: wq8Vo7Z7pOTnpA8Dv361U1LBlA
+    description: '20150425Dancing in the woodsacrylic and crayon29 x 41cm'   
+    height: 720
+    width: 492
+    type: image/jpeg
+    link: https://i.imgur.com/XPHs0qg.jpg
+    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvOLNyQqAlT769yJK4k8SDl75WgZn8hoEP8y9M63cyw2KyD8WKtOP0B72AqnSloo0rPBlGHPm3vgYEy3ILpWoQOLnQFkX7glvVWOcOKmg8ppRVsR2W8pOooVuklP5NknP5S3kM171WQWt6XYKVED8WF8gnrXG46YHK5BX370gBu9g4NXrDEEcJ0DWQoDEzcnp8AZVZJr
+    parentId: wq8Vo7Z7pOTnpA8Dv361U1LBlA
+    postId: EpJRNm8PE2Ij6RqZKQQ0t1NGzZYqOVfkAqkVpOqlulGDqBB1QQFY8
+    factor: 1.46
+    portrait: 1
+    mInfo: d8KfRykEiX5uYsN
+story: '胡作霏為 Fei Fei Art added a new photo.'  
+message: '20150425  Dancing in the woods  acrylic and crayon  29 x 41cm'  
+---
+
+20150425  
+Dancing in the woods  
+acrylic and crayon  
+29 x 41cm
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added a new photo.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/XPHs0qg.jpg"><img src="https://i.imgur.com/XPHs0qg.jpg" height="300" width="205" /></a> 
+ 
