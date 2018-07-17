@@ -2,7 +2,7 @@
 layout: post
 title: 'Painted a' 
 date: 2015-09-18T17:13:02+0000 
-categories: [] 
+categories: ['Gone'] 
 media:
   - id: eGdlOkR
     name: VVy5pjOY6EIZA0j7B38kHQA5M5
