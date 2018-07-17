@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "20160418 " 
+title: '20160418 ' 
 date: 2016-04-18T05:41:50+0000 
-categories: ["canvas"] 
+categories: ["canvas","acrylic"] 
 media:
   - id: twsM8D6
     name: KVvx8nvzOYikJ9vvOgrQSpOE0m
-    description: "20160418邑想天開Acrylic on canvas130 x 80 cm"   
+    description: '20160418邑想天開Acrylic on canvas130 x 80 cm'   
     height: 440
     width: 720
     type: image/jpeg
@@ -17,7 +17,8 @@ media:
     factor: 1.64
     portrait: 0
     mInfo: sNC6YtA8YJZr09i
-story: "胡作霏為 Fei Fei Art added a new photo."  message: "20160418  邑想天開  Acrylic on canvas  130 x 80 cm"
+story: '胡作霏為 Fei Fei Art added a new photo.'  
+message: '20160418  邑想天開  Acrylic on canvas  130 x 80 cm'  
 ---
 
 20160418  
