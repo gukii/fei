@@ -1,0 +1,48 @@
+---
+layout: post
+title: "2017 09- " 
+date: 2017-10-18T12:31:23+0000 
+categories: [] 
+media:
+  - id: Cs5zTY1
+    name: GrL6ynkK62T8R9kMEy4qtG3JE2v
+    description: ""   
+    height: 512
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/Cs5zTY1.jpg
+    prevLoc: OnELN1B3XJsOx55DY0pAhz5BYQ4z57s4VjyzBy9xumZ9q5NzQYirP8BnrXrmiD6KlBLZG0c6n7K5AJEOTP0zXDXAKVsvXGGQGXAmI7rGWo4GnyuoAZ4wzxBlfDOq6y4EVDTkQ96X4WN5CrGwDJADqoFo1vQ6O234F2B680OODASlnrAzLRREUo73rYo355flKDQX3gDAf0PKADODyDTgVMYzL7qKFoKoYBNl1gsAPPB2lJPMiNWmo7Amj5s36nNzMXWm
+    parentId: JxO6GDnX62Tnv9lnypN6sJ2Bpwl
+    postId: AlBDJgNmz2h517RDMvvli0GEzQZ1vYh8MV7KXrkwiRx5jAEJKQt2ZV
+    factor: 1.41
+    portrait: 0
+    mInfo: Pt9ZbWpmLWqs6dq
+  - id: jehxD7g
+    name: 3Xk1BRqJ1pF4lDoxkD2MuZNK5JR
+    description: ""   
+    height: 513
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/jehxD7g.jpg
+    prevLoc: lovXBK4rk8CMEOOWGA2osRYQLM8RYPhBKjWGMWE6upW3vjAnOVSDoLjpD0DvTLWO9q4RvZI7oxWXlGBMSY1L0x10OpFXA0VGDXg5SvnlPwjl2YFoEXlzAy0gfgrQ3kEQ85IpzDXlNQEPU1AN78Qgk2szDpXZ5DJvIOQW29jjyBsvgD4zQqqrF5VGOR5MVGtl05Brq8zGUr9yNmjGJAI7LoQWxZGQHPRQqQKZDqC5AQjR4vWAIPwLqk9LXrTgqR0QlWPY
+    parentId: JxO6GDnX62Tnv9lnypN6sJ2Bpwl
+    postId: AlBDJgNmz2h517RDMvvli0GEzQZ1vYh8MV7KXrkwiRx5jAEJKQt2ZV
+    factor: 1.40
+    portrait: 0
+    mInfo: 8sv0YT4BuREEf4T
+story: "胡作霏為 Fei Fei Art added 2 new photos."  message: "2017 09-"
+---
+
+2017 09-
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added 2 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/Cs5zTY1.jpg"><img src="https://i.imgur.com/Cs5zTY1.jpg" height="213" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/jehxD7g.jpg"><img src="https://i.imgur.com/jehxD7g.jpg" height="213" width="300" /></a> 
+ 
