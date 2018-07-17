@@ -1,0 +1,38 @@
+---
+layout: post
+title: '20150204 ' 
+date: 2015-02-03T17:13:13+0000 
+categories: ["acrylic"] 
+media:
+  - id: Tn9bU5H
+    name: W9BG58PKnJF8kzW11vAZtmy47m
+    description: '20150204Almost AbandonedAcrylic on cardboard40 x 48 cm Sold '   
+    height: 720
+    width: 602
+    type: image/jpeg
+    link: https://i.imgur.com/Tn9bU5H.jpg
+    prevLoc: JgYz0Vw3KEunwppkO1q8hMO9njxMOrTK7OL93Lkjcp4LQYAxkrSwxrVlw3wXIwyBzK1LJQF1E9J3Nm56tvly6kYPk8Ixg8mAQONGh2wQ9LJ9k3tzD2yRGDZNfDV7vKR14mTvyPX747r7ukPLXBg7wQtJkwEJx7y3IpNPyA55g0fXqQ58099vSY2nV4YpR3hrJQnmOnWkUJ0qX6ABYOC8LrpY0yPDS2W9kNNPMWFYOYqOgBpptO1pDrRp9VSr9XVKpvEX
+    parentId: W9BG58PKnJF8kzW11vAZtmy47m
+    postId: NBVkZyL8g2FpMv6g122PfvmQkrJpMjCB254yxNq4HGDGBL0lqNUn2
+    factor: 1.20
+    portrait: 1
+    mInfo: QUhomuxy3nIb374
+story: '胡作霏為 Fei Fei Art added a new photo.'  
+message: '20150204  Almost Abandoned  Acrylic on cardboard  40 x 48 cm     Sold '  
+---
+
+20150204  
+Almost Abandoned  
+Acrylic on cardboard  
+40 x 48 cm  
+  
+( Sold )
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added a new photo.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/Tn9bU5H.jpg"><img src="https://i.imgur.com/Tn9bU5H.jpg" height="300" width="250" /></a> 
+ 
