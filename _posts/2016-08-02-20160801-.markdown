@@ -6,7 +6,7 @@ categories: ["healing"]
 media:
   - id: CN6NAdo
     name: DoXpODBmrKCxVBYBPJwWuD0J0gz
-    description: "20160801The Healing Series  NO. 3; " Thank you"療癒系列 編號3;  " 謝謝你"21 x 30 cm"   
+    description: '20160801The Healing Series  NO. 3; " Thank you"療癒系列 編號3;  " 謝謝你"21 x 30 cm'  
     height: 720
     width: 509
     type: image/jpeg
