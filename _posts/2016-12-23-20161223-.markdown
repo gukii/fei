@@ -1,0 +1,33 @@
+---
+layout: post
+title: "20161223 " 
+date: 2016-12-23T10:53:39+0000 
+categories: [] 
+media:
+  - id: 4GfStkt
+    name: EpJO48zLLBSjAXq9RlZXT8qYY2V
+    description: "20161223A full moon night"   
+    height: 594
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/4GfStkt.jpg
+    prevLoc: 8voWjwLQzXukqOOm3z6jcpwx4Q7pwrTG4APkgP3xcJA0r2z68wS8wYyv878xI8w9k6GpV1uZgG0KDzO4hOjvzD80ODFJknEkBWE2hk8wAPrxpkCwLP8AjLKlIG6jKxP2XEsYj8JOq035cojyNxnrD6sKMJlDKLWPhgzJAg028qfWjjANYgO0tJW1Evvq8YizQEwXKYqPT5mmKqGogpfZBG2040EPh86PmVOW47fgvm08ZAgPFrARxG7kpwUlw3BroKNwFxV
+    parentId: EpJO48zLLBSjAXq9RlZXT8qYY2V
+    postId: 9NqrxP12oysjYoOwP55NtDogjPzKkEs602Y4kZDlhxAjgXAB4khXgp
+    factor: 1.21
+    portrait: 0
+    mInfo: Dtjg9F5TIfScyYX
+story: "胡作霏為 Fei Fei Art added a new photo."  message: "20161223  A full moon night"
+---
+
+20161223  
+A full moon night
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added a new photo.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/4GfStkt.jpg"><img src="https://i.imgur.com/4GfStkt.jpg" height="247" width="300" /></a> 
+ 
