@@ -1,0 +1,28 @@
+---
+layout: post
+title: 'How come ' 
+date: 2016-03-07T10:52:19+0000 
+categories: [] 
+media:
+  - id: WszcwVX
+    name: EVmEQEj1ARfqDJz1NA3YuZ204V
+    description: 'How come artists are always explaining themselves?'   
+    height: 720
+    width: 490
+    type: image/jpeg
+    link: https://i.imgur.com/WszcwVX.jpg
+    prevLoc: MlENLYz3K7IJ3xxpPRq5uL1XNlvL1rTWjMkKZkD5hgKQXy7jnAcM5gmzM7MDcg2LY7xQvqi7PEjJGoqYS87OAxlm9vfPEXB8z1m2fAW7rpvABPIgqwjPABBPfywmDGZWVjHREZAypDZWtJowj4GXYkcR7mxQZv3LUKxzlo99k5FEP5k1Q22wcBxKOwBLV5CmvVOOy2rmIYNJ6P8R4BcRmRjovKZ8HylG64N7gpsMlzxMwZ6vivY68Nj6PmFPx75kjRZE
+    parentId: EVmEQEj1ARfqDJz1NA3YuZ204V
+    postId: W056gXL8rlT8yl4nvAAXIX6qYmE2xQs39pXW7OQZI4A92Y3WXLtM6
+    factor: 1.47
+    portrait: 1
+    mInfo: eGq56NYkptmTpnQ
+message: 'How come artists are always explaining themselves?'  
+---
+
+How come artists are always explaining themselves?
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/WszcwVX.jpg"><img src="https://i.imgur.com/WszcwVX.jpg" height="300" width="204" /></a> 
+ 
