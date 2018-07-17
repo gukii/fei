@@ -1,0 +1,51 @@
+---
+layout: post
+title: 'Getting r' 
+date: 2015-12-21T13:22:21+0000 
+categories: ["wall"] 
+media:
+  - id: 46riGun
+    name: rlnlyMYN0yCOxXkmkDK0Fj22mx
+    description: ''   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/46riGun.jpg
+    prevLoc: 1lYEXmAJpVIZGnnrgkMph91EWgv91xugB2XkpXP0srwjYE0R3BHM46pAllP2IExKvx50K0tDN7lvKL3wt1oxPLX43Wc46VrZQzZmcB5A5KVZnJS5qmLMEXAzT8wwv3o667uny8VK7LDoTp9GkEqlPDCj4GKjEqOQFrOG6xNNnjHx7YwNGVVOuYRNM7YNOgCDEkmRxOBnurgN29WOpkh0VKOpq63yHl4wPqWpARipgJVRk4gLuMvOPKyOYqSNkKPoqgG2
+    parentId: DVlVpJ07RpSZ6AQDGPqwUlXl82
+    postId: pmNYOl8zpquZxXwRPjjOtEPLmJQpDwCVMXEx6oLocomOg2jYGXfBy
+    factor: 1.33
+    portrait: 0
+    mInfo: vIuRAcnyTO3TCg6
+  - id: YmTfeP1
+    name: pjljrXz6grSZl33vJZ2OHJ5Jxw
+    description: ''   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/YmTfeP1.jpg
+    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnALLJkIA2Qv2PGQGirqBD8yMV1soRLD7OVkvhjqq556DR0u826EXNWApir54GwVWlquJqn6YXpBRfngrAn39JPC025ELwBr5cQjZPmZQAzcNlMLNZgYmF7GGzZ0YvQH9Pp4DD2jjhplBqq3Rx7ClJBojW3wgCYk44KNyj9tl453POMPOtP2pBzq8WKFBz7Y8GY5Wf2LQX71kj6CMK
+    parentId: DVlVpJ07RpSZ6AQDGPqwUlXl82
+    postId: pmNYOl8zpquZxXwRPjjOtEPLmJQpDwCVMXEx6oLocomOg2jYGXfBy
+    factor: 1.33
+    portrait: 0
+    mInfo: aYtf81sSmbeJPRA
+story: '胡作霏為 Fei Fei Art added 2 new photos.'  
+message: 'Getting ready for the art show next Feb.   My "cracked walled series" are finally framed.  為了明年二月畫展作準備。我的"裂牆系列"十張作品終於裱好框了。'  
+---
+
+Getting ready for the art show next Feb.   
+My "cracked walled series" are finally framed.  
+為了明年二月畫展作準備。我的"裂牆系列"十張作品終於裱好框了。
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added 2 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/46riGun.jpg"><img src="https://i.imgur.com/46riGun.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/YmTfeP1.jpg"><img src="https://i.imgur.com/YmTfeP1.jpg" height="225" width="300" /></a> 
+ 
