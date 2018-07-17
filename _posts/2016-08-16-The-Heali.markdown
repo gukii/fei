@@ -17,8 +17,7 @@ media:
     factor: 1.37
     portrait: 1
     mInfo: UY5USo2gT2QaqcC
-story: '胡作霏為 Fei Fei Art added a new photo.'  
-  message: 'The Healing Series NO;4; "I Love You"  療癒系列 4號作品;"我愛你"  20x27cm'  
+story: '胡作霏為 Fei Fei Art added a new photo.'  message: 'The Healing Series NO;4; "I Love You"  療癒系列 4號作品;"我愛你"  20x27cm'  
 ---
 
 The Healing Series NO:4: "I Love You"  
