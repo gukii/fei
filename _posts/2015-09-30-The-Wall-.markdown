@@ -1,0 +1,35 @@
+---
+layout: post
+title: 'The Wall ' 
+date: 2015-09-30T08:13:36+0000 
+categories: ["wall","acrylic"] 
+media:
+  - id: TsmgKz3
+    name: 7B7nx6BOAwuRKrrL5mD2TqG5K8
+    description: 'The Wall Man112x146cmacrylic'   
+    height: 720
+    width: 562
+    type: image/jpeg
+    link: https://i.imgur.com/TsmgKz3.jpg
+    prevLoc: 6qmG3rJOxYiWmVVRk1rosAL3vKoAL7tzAP4G74n6C3LXjw0rOGuRNQ7vRDR4tOx89RWorNhqAGMPVR6ES8NQoxkwBETPxOlg0WxjcgmgYnR4RwTRqE9WjKgxhpVv96roLySjgGorlj6RFDnXOB8921CP55WPLVm6symq9E88zlf5KZA8E44qsVmAOJVKwVtNvXvBlPLNuj1NGZlApWfJRLjXNXnmiXQrv8XvGkHkEA3rPLxVt1Z4MWE4QlU9EOEZrPjq
+    parentId: 7B7nx6BOAwuRKrrL5mD2TqG5K8
+    postId: KyPrWv16N2Ckr31R0jjMiZMzPpLVvLSNBRVn8RzxUPv9LAgXO1Soy
+    factor: 1.28
+    portrait: 1
+    mInfo: ohpHkZfHQaDBeJ1
+story: '胡作霏為 Fei Fei Art added a new photo.'  
+message: 'The Wall Man  112x146cm  acrylic'  
+---
+
+The Wall Man  
+112x146cm  
+acrylic
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added a new photo.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/TsmgKz3.jpg"><img src="https://i.imgur.com/TsmgKz3.jpg" height="300" width="234" /></a> 
+ 
