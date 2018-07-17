@@ -1,0 +1,66 @@
+---
+layout: post
+title: '即將參加529 "' 
+date: 2016-05-17T03:19:17+0000 
+categories: [] 
+media:
+  - id: UPdMYuY
+    name: zzrV868DmRuzxALO53wmULwDwBQ
+    description: ''   
+    height: 720
+    width: 405
+    type: image/jpeg
+    link: https://i.imgur.com/UPdMYuY.jpg
+    prevLoc: AGQWvJk3X8HROrrx0nN9TjMPwxDjMWskMJ1G91Pzu1E0ROX78WurAYVg449niL9zmYlO7lHD3L8LG4o1Tygr4Pz52PF82vZzX0nncXRY6rN2LrcXpP4Lo8YRCqvGD3oPnZI2z0prnNWpuxyw6v7oqwhAwvyV13o6u1xB01jEOPINPP6kv97wFvYKDBBr7GCxm1ADglWXfKEgLRQ1y4fgQ51GAm1mfBnKPQVnokSBZKV4VG6Pf8jjg2DL7vC5OBZ4yAwksvX
+    parentId: lgZjyRylOzSlAv70ZRJoSnmyloO
+    postId: 9NqrxP12oysjYoOwP55NtDogjPzKkkh6RB2znlvzuxYjQzqDA6H1P0
+    factor: 1.78
+    portrait: 1
+    mInfo: pEsBT6BhruWsSp6
+  - id: ww8IsyS
+    name: ol3pBZBoYDcmB04rympZCRogoWx
+    description: ''   
+    height: 720
+    width: 455
+    type: image/jpeg
+    link: https://i.imgur.com/ww8IsyS.jpg
+    prevLoc: LkY0KXy31AC39NN0qmRPuvgJAQRvgpT0xB9MD9oVtlQM4YrEROijwl4kvvY1cJwovBq64qC014q47Bzxc3MDWj7oY8hw0NwmvXl4um39G1jvL1ClV5B1JxROcM088VX7A4tNjQ945NYOh2mBJ1ZLBgcxYlxkAK3BT9RKrwxJmmFwM3ywoVBqTGwkMvNj3DcZNZX6vB74U5Jw2A6yN6sx1XQnOKQyIJQ7gmj0nGuD7ALyLWEJu4ZL7AZ4xLtj9GkymZrXhyPq
+    parentId: lgZjyRylOzSlAv70ZRJoSnmyloO
+    postId: 9NqrxP12oysjYoOwP55NtDogjPzKkkh6RB2znlvzuxYjQzqDA6H1P0
+    factor: 1.58
+    portrait: 1
+    mInfo: 3J8nXEfnXj0HSXd
+  - id: QWeuOrN
+    name: pm4rDZDpgEFZvBDD2P7mtoAQvvE
+    description: ''   
+    height: 720
+    width: 692
+    type: image/jpeg
+    link: https://i.imgur.com/QWeuOrN.jpg
+    prevLoc: vBYRPX4GxmIl8OOJ127Wf45VWGm45xsry9RjlRVnS3EropJAjMuXLjD6XnXvIzB4WXRMj1FXkDLYQ9Gqf7QEk6XmjRtXmvBj5GOzhQwJErOLlRI0gzOX33qysp3yJE6n90FLl6GPQyR1f5GzlEmwZ9f4NDJAD0m7izvV8zqw9YT0VVWEM4xpuAL2NDD7ggsn72J3wrGBsjWzxBp03GF5oqwwBmQqTP1M168Ov2hlGwn2zAD6TKjznBGEDzH8VyyQWX5yum8
+    parentId: lgZjyRylOzSlAv70ZRJoSnmyloO
+    postId: 9NqrxP12oysjYoOwP55NtDogjPzKkkh6RB2znlvzuxYjQzqDA6H1P0
+    factor: 1.04
+    portrait: 1
+    mInfo: kc2j35hC2corDQ6
+story: '胡作霏為 Fei Fei Art added 3 new photos.'  
+message: '即將參加529 "上古藝術畫廊"第13屆 的拍賣展。  本周六下午2;00舉辦開展茶會，歡迎一起來共襄盛舉。'  
+---
+
+即將參加5/29 "上古藝術畫廊"第13屆 的拍賣展。  
+本周六下午2:00舉辦開展茶會，歡迎一起來共襄盛舉。
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added 3 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/UPdMYuY.jpg"><img src="https://i.imgur.com/UPdMYuY.jpg" height="300" width="168" /></a> 
+  
+
+<a href="https://i.imgur.com/ww8IsyS.jpg"><img src="https://i.imgur.com/ww8IsyS.jpg" height="300" width="189" /></a> 
+  
+
+<a href="https://i.imgur.com/QWeuOrN.jpg"><img src="https://i.imgur.com/QWeuOrN.jpg" height="300" width="288" /></a> 
+ 
