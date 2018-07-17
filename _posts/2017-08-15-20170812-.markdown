@@ -1,0 +1,30 @@
+---
+layout: post
+title: "20170812 " 
+date: 2017-08-15T01:39:38+0000 
+categories: [] 
+media:
+  - id: Mu8Fv9n
+    name: pmNYOl8rnDTZlJ9JEmvQToE05NM
+    description: "20170812悶Crayon, acrylic on wood pad"   
+    height: 513
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/Mu8Fv9n.jpg
+    prevLoc: BJ8OwK03X1TnKPPxqM7VhZ1gPwxZ15hGLp3Ny3E1cRAvlN63MoiOA6J7vvXQIz7L6lVW8VUY6k0kPvQouZOJVBxzNxu84GnVABz8UAx9qzRjNKTrxp0jMApPSoDoDNjPPqtLAon97pOwCYzXwBmjmltXY618KxBrCJ5wq1KB22fnPXNn389lhKkJw0vQAliDEoYNgQoLiqj1K3oRzPc38rP53yvgiA6omDNwLBtYxkvB4WLJHNn5LA1NKBijvK2PolNNcgpJ
+    parentId: pmNYOl8rnDTZlJ9JEmvQToE05NM
+    postId: 54myqXQWkrs1WqlrOVVpHqzZmxWQv2sjqRrJDRA6fGxMrqEl1Ni7VJ
+    factor: 1.40
+    portrait: 0
+    mInfo: BB2HbxXwTwRGDix
+message: "20170812  悶  Crayon, acrylic on wood pad"
+---
+
+20170812  
+悶  
+Crayon, acrylic on wood pad
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/Mu8Fv9n.jpg"><img src="https://i.imgur.com/Mu8Fv9n.jpg" height="213" width="300" /></a> 
+ 
