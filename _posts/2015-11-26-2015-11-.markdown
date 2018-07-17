@@ -1,0 +1,30 @@
+---
+layout: post
+title: '2015 11  ' 
+date: 2015-11-26T07:57:15+0000 
+categories: ["canvas","acrylic"] 
+media:
+  - id: opRHuF8
+    name: yvxvzoY835h3yXvgjRJEfNLpp4
+    description: '2015 11A way to InspirationAcrylic on canvas'   
+    height: 462
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/opRHuF8.jpg
+    prevLoc: 5plV2qGNwATl9ggy8xZ0fK8LjrXK8gH31MOBqOnmFomzOxQ9KLhj9Y1JjxjEiR7N31nwMXumLEJk7qBPi9EArnVBqKUV2NkXXR08FvjlnNW9RKcq9072R18pIMPW5goDjPfQP3jvggPJCpj9o2kmB3TJBKnD9q7jsk12R53qZGiMRkygxMqoT1G8y29RP2CZ11y4D67rTX3DyLLp1qsYZWyZG0XEUmp6xWJNgEi7EM5ZJjWmIRQP6NgDy1iK4m5VpYG
+    parentId: yvxvzoY835h3yXvgjRJEfNLpp4
+    postId: XlgDj2LMv0hZMp9L3xxDtR6qJmpGVpC2LY3Y33ZgHNRZ7nkwXQU5M
+    factor: 1.56
+    portrait: 0
+    mInfo: Yj61DD7htQ6X67P
+message: '2015 11  A way to Inspiration  Acrylic on canvas'  
+---
+
+2015 11  
+A way to Inspiration  
+Acrylic on canvas
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/opRHuF8.jpg"><img src="https://i.imgur.com/opRHuF8.jpg" height="192" width="300" /></a> 
+ 
