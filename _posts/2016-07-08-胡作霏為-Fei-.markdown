@@ -1,0 +1,28 @@
+---
+layout: post
+title: '胡作霏為 Fei ' 
+date: 2016-07-08T09:13:55+0000 
+categories: [] 
+media:
+  - id: 36sKA4y
+    name: MAkOqmj59MHY6Wzq67zjT540vNY
+    description: '20160627birthcrayon on paper40 x 27.5 cm'   
+    height: 501
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/36sKA4y.jpg
+    prevLoc: 1lYEXmAJpVIZGnnrgkMph91EWgv91xugB2XkpXP0srwjYE0R3BHM46pAMNMRcE0LxR73BwcYwn2m0ABqf1Jqj5YQy6h4NYpZrw1vsBLPBZ32V3t9vDG90Nzpi9xKmN6K3gFny7yw0wP1upgmm9Xx9GHjMwG3g7rZhrpBVrnoR6Ix44LGME3qFYoX0ggEynivMz9jvRq0F8P3ZYKNmLhXm96LZZD4sjVvwPWQM7FvXvkO3p7YUV0qMMX90zUNW9q0xRPgIm5
+    parentId: MAkOqmj59MHY6Wzq67zjT540vNY
+    postId: 1NgwmPW9OnsXEvZQK77BiPL2lYNqBBTv8jR9pOq3SYO6E2WrvKtENM
+    factor: 1.44
+    portrait: 0
+    mInfo: nuecmHeAZ7x0565
+story: '胡作霏為 Fei Fei Art added 2 new photos.'  
+---
+
+胡作霏為 Fei Fei Art added 2 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/36sKA4y.jpg"><img src="https://i.imgur.com/36sKA4y.jpg" height="208" width="300" /></a> 
+ 
