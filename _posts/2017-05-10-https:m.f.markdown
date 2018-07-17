@@ -1,0 +1,32 @@
+---
+layout: post
+title: "https:m.f" 
+date: 2017-05-10T11:07:50+0000 
+categories: [] 
+media:
+  - id: ECxtQk6
+    name: Q8qnoJ9QOXCRWXPRDM0WTrVLrA
+    description: "「胡作霏為」沒有離經叛道，展現在生活丶創作上的態度，成就施邑霏個人的風格，小幅作品由前副總統呂秀蓮收藏，本次展出為100號作品（162x112cm）。"   
+    height: 720
+    width: 493
+    type: image/jpeg
+    link: https://i.imgur.com/ECxtQk6.jpg
+    prevLoc: ZBwv2lQ7GZIjgPP1vD5MuOP6m45OPWsGLxqNVq64cR9vZK8VYmiDAgNwDBDZTQxZKpWJGMU4WrzJjQD1cVAzlpkqJ9ixVKDEQ9EBcmW6PQL7Zghq5VoEXngKIj16nJjE9oi4oEGB8woAfW0KzwZPnJtlGoJM2w7xcMKQX1xBZvc85RowP8zvtv3wL0PQ5xIVQJpZk89qUmAA8V13DGcok3ymVzzNfXrkjo6rXLIR1YYwNw6gFlp15KAGAgSoR3ArpDR
+    parentId: Q8qnoJ9QOXCRWXPRDM0WTrVLrA
+    postId: 70o3v21AmwTYW3RB9OOVCX8Loqx4VBHM3XNp5lY4s1yyvEqjV9iLNq
+    factor: 1.46
+    portrait: 1
+    mInfo: czlbWEgsVxLrzlN
+story: "胡作霏為 Fei Fei Art shared 廈門11's photo."  message: "https;m.facebook.comstory.php?story_fbid=813761172113222substory_index=0id=539258472896828"
+---
+
+https://m.facebook.com/story.php?story_fbid=813761172113222&substory_index=0&id=539258472896828
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art shared 廈門11's photo.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/ECxtQk6.jpg"><img src="https://i.imgur.com/ECxtQk6.jpg" height="300" width="205" /></a> 
+ 
