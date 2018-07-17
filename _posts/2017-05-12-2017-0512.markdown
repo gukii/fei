@@ -1,0 +1,29 @@
+---
+layout: post
+title: "2017 0512" 
+date: 2017-05-12T11:43:59+0000 
+categories: [] 
+media:
+  - id: IouQmxH
+    name: xxYkzr47N6Sjz50gAvD2ukOERMO
+    description: "2017 0512在廈門11 作此次展覽的錄製。"   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/IouQmxH.jpg
+    prevLoc: WywpYgN3KWS4qzz13P5jH7plr437pGSVAjrxkrn8HN2V91DAg3tlLKJrl0l1tqX1BXkPjVfRwGkyXoQVFw5LWEXPjJUnm80XZ1voI09kNPx3qkspoWWlp32giQ3rlODAx6so2OB9XpmMCMQWwvzX95UK7xP8AnkmskMWDkZJj7HEJJomNQLvCZvnV99BjPSLjKrYwXEmFLWx22yNXMhxBMM6EKxwhmlDE95VK6UN1MlnNqp7fyZPw38wRXcjQEK25JlRFxO
+    parentId: xxYkzr47N6Sjz50gAvD2ukOERMO
+    postId: NBVkZyL8g2FpMv6g122PfvmQkrJpNjUBQn73nGpVhrn6OkAG1ptvDj
+    factor: 1.33
+    portrait: 0
+    mInfo: 0BnSLnLy8mE6TAF
+message: "2017 0512在廈門11   作此次展覽的錄製。"
+---
+
+2017 0512在廈門11   
+作此次展覽的錄製。
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/IouQmxH.jpg"><img src="https://i.imgur.com/IouQmxH.jpg" height="225" width="300" /></a> 
+ 
