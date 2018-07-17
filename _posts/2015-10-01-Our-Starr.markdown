@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Our Starr' 
+date: 2015-10-01T01:19:14+0000 
+categories: ["crayon","wood"] 
+media:
+  - id: 7eVDcmH
+    name: qkXVEjEWgEFvz3Dg0lPouN9DDz
+    description: 'Our Starry Night2014, spring , crayon on wood pads2 pieces'   
+    height: 263
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/7eVDcmH.jpg
+    prevLoc: 2mg2YnBKqGhm3KKLrRpkuJMEpwRJMkhK4pqx3qOncknMv4gQoKcKBPEGAAVDFpjwgqRzxRtvOQ0QLkyKHk3Opy0DxAc9WvpPR5VWULX899zxPpSQJYpBE7PxtwoJ0z141rsPlo0R3QBJCwEvkxXlYNC7yD0qMKyEu54wp5nBLjUKkkpBPy9Vi3jZ5nnkgYSWKAm2klVwS7jP4MYzVnS0nrJMxkJ1cJ8W3oR0ZpHko16MzpJ9s1NL99ZPNGFzmqx9Z9KNfn8
+    parentId: qkXVEjEWgEFvz3Dg0lPouN9DDz
+    postId: 2NjknQx9PosQEnmDANNZHqn7j93WAguAVYwwQmkZCx4OZ7DNgnH9q
+    factor: 2.74
+    portrait: 0
+    mInfo: Fl8a4KZ5u8Q8W04
+message: 'Our Starry Night  2014, spring , crayon on wood pads2 pieces'  
+---
+
+Our Starry Night  
+2014, spring , crayon on wood pads(2 pieces)
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/7eVDcmH.jpg"><img src="https://i.imgur.com/7eVDcmH.jpg" height="109" width="300" /></a> 
+ 
