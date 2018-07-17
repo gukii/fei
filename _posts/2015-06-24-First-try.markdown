@@ -1,0 +1,65 @@
+---
+layout: post
+title: 'First try' 
+date: 2015-06-24T10:25:25+0000 
+categories: ["wall"] 
+media:
+  - id: vZ6ZD4n
+    name: k0Vrn6GGQwUwQOJ6DQjnhJ3Pjj
+    description: ''   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/vZ6ZD4n.jpg
+    prevLoc: xEV8RZ4KzohXvmmp891Ji6WmxKr6W1h1pWnLEnJZsBlV7O5mYxiGA217NN9ZhgOn0OKNnNixzrXNJPj3SB0QQ4wRRksxM99l3opgs2oy92nOJ5Tk2RKp7myvcOlgnzGm7lT7KL84qQrnhJX0rK6OprhDxQVxrkxRSQBpKQGVnXiP55VkoOrjuWZ0NwwMOKu3x24zBg7lU8Knv8LlWzh4LjvE09w0CJBXJklXXwsGNGyq6EQniKR4rMOpr2iov7LqVxxjIWE
+    parentId: yvO9GpZZl6H484KGn0PrHNLpJ2
+    postId: pmNYOl8zpquZxXwRPjjOtEPLmJQqg4FVMOqVr16PTYKPzDQ2WQTBy
+    factor: 1.33
+    portrait: 0
+    mInfo: p7d9qtWuEvF2ybg
+  - id: dmjD4Jw
+    name: 6A7BqYnnomiWKoJDLDVLSxknnJ
+    description: ''   
+    height: 720
+    width: 405
+    type: image/jpeg
+    link: https://i.imgur.com/dmjD4Jw.jpg
+    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvOLNyQqAlT769yJK4k8SDl75mlYn4Co2mO6YOE4h1L53von8ZULWKMDRyZ1ilooE5KglxfP34QmzDo6tLqyMJ2LPPU8Pmp2KYGNTOKmg8ppRVsR2W8pOooVuklP5NkLVxHVJxNlQ6ZVSoXo17Xypph6v6LgV1DWT9P4LkjxxNIA0jx14VnGSJ0DWQoDEzcn3rK6NOXB
+    parentId: yvO9GpZZl6H484KGn0PrHNLpJ2
+    postId: pmNYOl8zpquZxXwRPjjOtEPLmJQqg4FVMOqVr16PTYKPzDQ2WQTBy
+    factor: 1.78
+    portrait: 1
+    mInfo: tIvoWKcTGa8FMIb
+  - id: dbTMDAR
+    name: J9jNgEOODYinY8oz8WNAHvWAE2
+    description: ''   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/dbTMDAR.jpg
+    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvOLNyQqAlT769yJK4k8SDL2Y9YY3jhLxAnV9O0oc1L53von89hL88jyJQ7vUlo4OMB7M1ipqpDPrYvXcLXVVPxD2qH8P5R59k97HOKmg8ppRVsR2W8pOooVuklP5NkP39U3wNRzoQM7T57J7PY034u6xQmm1QDMt13xpAWOlXSAplP7AXZLuJ0DWQoDEzcnXQ21j29j
+    parentId: yvO9GpZZl6H484KGn0PrHNLpJ2
+    postId: pmNYOl8zpquZxXwRPjjOtEPLmJQqg4FVMOqVr16PTYKPzDQ2WQTBy
+    factor: 1.78
+    portrait: 0
+    mInfo: ENt1mcPaeJuH6Gf
+story: '胡作霏為 Fei Fei Art added 3 new photos.'  
+message: 'First try painting on the wall.'  
+---
+
+First try painting on the wall.
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added 3 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/vZ6ZD4n.jpg"><img src="https://i.imgur.com/vZ6ZD4n.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/dmjD4Jw.jpg"><img src="https://i.imgur.com/dmjD4Jw.jpg" height="300" width="168" /></a> 
+  
+
+<a href="https://i.imgur.com/dbTMDAR.jpg"><img src="https://i.imgur.com/dbTMDAR.jpg" height="168" width="300" /></a> 
+ 
