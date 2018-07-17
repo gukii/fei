@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'More and ' 
+date: 2013-10-02T16:01:30+0000 
+categories: [] 
+media:
+  - id: rgLz3wg
+    name: J9P5OqGONDso4ZLk480Xiv7M9M
+    description: ''   
+    height: 400
+    width: 500
+    type: image/jpeg
+    link: https://i.imgur.com/rgLz3wg.jpg
+    prevLoc: 1lYEXmAJpVIZGnnrgkMph91EWgv91xugB2XkpXP0srwjYE0R3BHM46pAMNMRcE0Lx8Xn23iDNg4X0BAxUrnnkynmkNH8xDZD96ljHp1gW87oLAi5GDjQrRrxS8ok1VKkK8C2v3lMYM8quGEJQq87E2tPMkXvNExDCMgDQGOP9wu94xx89nL6SYoA1vKP30IxLDq8qnyEhjYrpqONRjfXpgYBBPyQfmjym4r
+    parentId: J9P5OqGONDso4ZLk480Xiv7M9M
+    postId: jKERGNZnjkF0ypOxk77GTwWXN1VG9phYgkqyDxrwHzOL9gj1gpIAB
+    factor: 1.25
+    portrait: 0
+    mInfo: NQGYbM3D14ZuxNo
+story: '胡作霏為 Fei Fei Art shared The Art People's photo.'  
+message: 'More and more often i feel i am like this....'  
+---
+
+More and more often i feel i am like this....
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art shared The Art People's photo.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/rgLz3wg.jpg"><img src="https://i.imgur.com/rgLz3wg.jpg" height="240" width="300" /></a> 
+ 
