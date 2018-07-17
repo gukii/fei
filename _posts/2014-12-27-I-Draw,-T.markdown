@@ -1,0 +1,42 @@
+---
+layout: post
+title: 'I Draw, T' 
+date: 2014-12-26T16:18:03+0000 
+categories: [] 
+media:
+  - id: VSwW4Ts
+    name: 3xJN8kVy03UvpngkzyV4iQollx
+    description: 'I Draw, Therefore I Am29 x 41cmBy Efei Shih20141216There are times when only diving in colors and paints can wash away the pain. And there are times when it brings you more frustration and migraine.I welcome it, either way.'   
+    height: 720
+    width: 491
+    type: image/jpeg
+    link: https://i.imgur.com/VSwW4Ts.jpg
+    prevLoc: knwBAJ4qj6swBYYDlrOnTW8xyMmW8LCPJ6V5nVWBcxkBy95OY4fPEj4APWP8cgNG3r1Bkvi4EMyYKW9xc1xk36k3y8iwjr5pg0GJCX5glXkzjGh6NXpr89lyH67RnZ9wp9CWvRyqjjOqcz7nQPN3XnfNOPrDwoN6ixLKo2669JHmwZBMGooJs3r91B39l1Sp3ypZDA91iJwR65PnX0sMo0lVRV5GHl1ovXG6zPT98xO37v5MHwR5QVj5OWsNgEnRN287
+    parentId: 3xJN8kVy03UvpngkzyV4iQollx
+    postId: RJZ64DOLm0IXg7O38AA0iY9AkqZ4x9I3vxZMmoPXH8W1ZjJlY5tVm
+    factor: 1.47
+    portrait: 1
+    mInfo: S5cYJecbgqsKfU4
+story: '胡作霏為 Fei Fei Art added a new photo.'  
+message: 'I Draw, Therefore I Am  29 x 41cm  By Efei Shih  20141216    There are times when only diving in colors and paints can wash away the pain.     And there are times when it brings you more frustration and migraine.    I welcome it, either way.'  
+---
+
+I Draw, Therefore I Am  
+29 x 41cm  
+By Efei Shih  
+20141216  
+  
+There are times when only diving in colors and paints can wash away the pain.   
+  
+And there are times when it brings you more frustration and migraine.  
+  
+I welcome it, either way.
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added a new photo.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/VSwW4Ts.jpg"><img src="https://i.imgur.com/VSwW4Ts.jpg" height="300" width="204" /></a> 
+ 
