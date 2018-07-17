@@ -1,0 +1,49 @@
+---
+layout: post
+title: '20150928 ' 
+date: 2015-09-30T08:13:37+0000 
+categories: [] 
+media:
+  - id: deiiOTq
+    name: LVlYpgVnP2h3rBqAKDlBCjGqxB
+    description: ''   
+    height: 720
+    width: 469
+    type: image/jpeg
+    link: https://i.imgur.com/deiiOTq.jpg
+    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBQNQ3uz1lOMR5wpF5QGPXjO2qSYolLX59qgIE7MgPjg28sO6OkojZk2SMoX2kzRJlUDqVKz3PyYc7g4W9Aj9XFKQ0EWMARRspE0Dq5q9LtWvAgVrr0NtvW18jg006Fp6Y1BpYBEs6xgxyX7YxuryDqnXR2gSXxWRjXEg8cBp4wWvwB4HRQNGP1Pj6CM672qB7xlSG0xVGKzpK
+    parentId: GV7YkZVg92h8RKqZRvPySkONDV
+    postId: RJZ64DOLm0IXg7O38AA0iY9AkqZ4mBS3LQ2lw2KxC8KL621zBwUw4
+    factor: 1.54
+    portrait: 1
+    mInfo: v9WaZx8hrbxRoY8
+  - id: Z6aLchQ
+    name: RVrMygVwL0hO1wvokRn0fqjVA6
+    description: ''   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/Z6aLchQ.jpg
+    prevLoc: MlENLYz3K7IJ3xxpPRq5uL1XNlvL1rTWjMkKZkD5hgKQXy7jnAcM5gmzM7MDcg2LY7xQvqi7PEjJGoqYS87OAMynEjCPpQ36glVrIAWAZ5NL3OHgM79r6W3AhywmqnRPElTRWODE2ZB2fJ6MgPkvjkTRZonjBmnLiKxzlo99k5FEP5k1Q22wcBxKOwBLnNImQQzQ7LlQcRV5OZNryXUR7V7kRlJksqW2433OnxcMn5oVvEz1TvY68Nj6PmFP8KM5GV6g
+    parentId: GV7YkZVg92h8RKqZRvPySkONDV
+    postId: RJZ64DOLm0IXg7O38AA0iY9AkqZ4mBS3LQ2lw2KxC8KL621zBwUw4
+    factor: 1.78
+    portrait: 0
+    mInfo: GS30YCxPX19nzWA
+story: '胡作霏為 Fei Fei Art added 2 new photos.'  
+message: '20150928'  
+---
+
+20150928
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added 2 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/deiiOTq.jpg"><img src="https://i.imgur.com/deiiOTq.jpg" height="300" width="195" /></a> 
+  
+
+<a href="https://i.imgur.com/Z6aLchQ.jpg"><img src="https://i.imgur.com/Z6aLchQ.jpg" height="168" width="300" /></a> 
+ 
