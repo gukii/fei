@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "女全的冥想  20" 
+title: '女全的冥想  20' 
 date: 2016-02-16T03:55:44+0000 
-categories: ["canvas","crayon"] 
+categories: ["canvas","crayon","acrylic"] 
 media:
   - id: H8AFlTH
     name: DVlO5A6B74sZXMMYWX03Fl7GwK
-    description: "女全的冥想20160216Acrylic  crayon on canvas22 x 27 cm"   
+    description: '女全的冥想20160216Acrylic  crayon on canvas22 x 27 cm'   
     height: 581
     width: 720
     type: image/jpeg
@@ -17,7 +17,8 @@ media:
     factor: 1.24
     portrait: 0
     mInfo: CvRiF8HYbwp2Gun
-story: "胡作霏為 Fei Fei Art added a new photo."  message: "女全的冥想  20160216  Acrylic  crayon on canvas  22 x 27 cm"
+story: '胡作霏為 Fei Fei Art added a new photo.'  
+message: '女全的冥想  20160216  Acrylic  crayon on canvas  22 x 27 cm'  
 ---
 
 女全的冥想  
