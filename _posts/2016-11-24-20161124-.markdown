@@ -1,0 +1,30 @@
+---
+layout: post
+title: "20161124 " 
+date: 2016-11-24T05:08:37+0000 
+categories: [] 
+media:
+  - id: poWqego
+    name: 8Np89LjJqnUk2777Amz0SPLXBm5
+    description: "20161124Let It Go the healing series 8Pastel and acrylic on wood pad"   
+    height: 720
+    width: 501
+    type: image/jpeg
+    link: https://i.imgur.com/poWqego.jpg
+    prevLoc: wDE2QY4JynINx0056AGLU78gXMW78jS3xM4kG4D7F659koQgVNHvz4Kov0vGf14ExLwZRMiAm0OkqMg2Sl3MQpnpKJcRzJGKXQNMh4qMyKv50js6W9yKQpV7UxwrmwRWLASznWz5GBl6ugnNXyqWYDh7n9qgWpMpcnyg1nOA5DFXyy9vAG5rs5JngOOqB4HRO24PK9N3u08DKqoGrxiEDwXPNOMqcwR3AYr5gkurgAAlnY53fVnY1lEn2Gtpl52oEggWhkZ
+    parentId: 8Np89LjJqnUk2777Amz0SPLXBm5
+    postId: gEAJBNZkOGCJYVBznLLwuQNlWEz8rNFZ3Q65Ro6YT3L3XjW0njf7Pg
+    factor: 1.44
+    portrait: 1
+    mInfo: juugKjD2SiHzWaR
+message: "20161124  Let It Go the healing series 8  Pastel and acrylic on wood pad"
+---
+
+20161124  
+Let It Go (the healing series 8)  
+Pastel and acrylic on wood pad
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/poWqego.jpg"><img src="https://i.imgur.com/poWqego.jpg" height="300" width="208" /></a> 
+ 
