@@ -6,7 +6,7 @@ categories: ["healing","canvas"]
 media:
   - id: x2re8Eh
     name: W0xkEWn310i8kxgx1EzDf5NEBAL
-    description: '2016年5月我再次回到以往的繪畫模式---設定好想連結的主題，然後放手去畫。這次我選擇了.I tried to go back to my original painting mode this time-- connecting with the subject i choose, and let my hand go and paint. This time, the subject was, " the birth"開始作畫前我靜心了片刻。我盼望創作除了「表達自己」之外，還能有更深一層的目的--尋找自身生命的答案，甚至，也許有一天，能用這樣的經驗來幫助其他的人。Before i started, i meditated for a while. "Expressing the self" is always an important purpose of painting, but i hope there's more than that. I hope it's a chance for me to find a deeper meaning of or answer to life, and maybe one day, I can use these experiences to help others.真正的療癒不在於用畫畫來發洩或舒壓，而是在於你與它的對話和投入，和你所設定的主題連結之後得到的一個啟示。The true healing when painting doesn't lie on relieving your stress or making yourself feel relaxed. It only happens when you truly converse and connect with it, which leads you to an inspiration or enlightenment.  靜心之後，我開始連結這個主題。所謂的連結，其實就是放開自己的小我，敞開自己，讓這個主題進入大我。然後，其它的，就是看看，我的心到底要和我說什麼。'   
+    description: '2016年5月我再次回到以往的繪畫模式---設定好想連結的主題，然後放手去畫。這次我選擇了.I tried to go back to my original painting mode this time-- connecting with the subject i choose, and let my hand go and paint. This time, the subject was, " the birth"開始作畫前我靜心了片刻。我盼望創作除了「表達自己」之外，還能有更深一層的目的--尋找自身生命的答案，甚至，也許有一天，能用這樣的經驗來幫助其他的人。Before i started, i meditated for a while. "Expressing the self" is always an important purpose of painting..'   
     height: 720
     width: 549
     type: image/jpeg
@@ -17,7 +17,7 @@ media:
     factor: 1.31
     portrait: 1
     mInfo: LjCsJOHlmJ5uYYc
-message: '2016年5月    我再次回到以往的繪畫模式---設定好想連結的主題，然後放手去畫。這次我選擇了. I tried to go back to my original painting mode this time-- connecting with the subject i choose, and let my hand go and paint. This time, the subject was, " the birth"    開始作畫前我靜心了片刻。我盼望創作除了「表達自己」之外，還能有更深一層的目的--尋找自身生命的答案，甚至，也許有一天，能用這樣的經驗來幫助其他的人。  Before i started, i meditated for a while. "Expressing the self" is always an important purpose of painting, but i hope there's more than that. I hope it's a chance for me to find a deeper meaning of or answer to life, and maybe one day, I can use these experiences to help others.    真正的療癒不在於用畫畫來發洩或舒壓，而是在於你與它的對話和投入，和你所設定的主題連結之後得到的一個啟示。  The true healing when painting doesn't lie on relieving your stress or making yourself feel relaxed. It only happens when you truly converse and connect with it, which leads you to an inspiration or enlightenment.      靜心之後，我開始連結這個主題。所謂的連結，其實就是放開自己的小我，敞開自己，讓這個主題進入大我。然後，其它的，就是看看，我的心到底要和我說什麼。'  
+message: '2016年5月    我再次回到以往的繪畫模式---設定好想連結的主題，然後放手去畫。這次我選擇了. I tried to go back to my original painting mode this time-- connecting with the subject i choose, and let my hand go and paint. This time, the subject was, " the birth"    開始作畫前我靜心了片刻。我盼望創作除了「表達自己」之外，還能有更深一層的目的--尋找自身生命的答案，甚至，也許有一天，能用這樣的經驗來幫助其他的人。  Before i started, i meditated for a while. "Expressing the self" is always an important purpose of painting..'  
 ---
 
 2016年5月  
