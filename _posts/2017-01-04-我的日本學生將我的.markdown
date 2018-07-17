@@ -1,25 +1,12 @@
 ---
 layout: post
-title: "我的日本學生將我的" 
+title: '我的日本學生將我的' 
 date: 2017-01-04T06:47:12+0000 
 categories: [] 
 media:
-  - id: ATMn9XN
-    name: DoGN4YWVkPfZ6AQ6JgWYtgOYA9E
-    description: ""   
-    height: 720
-    width: 540
-    type: image/jpeg
-    link: https://i.imgur.com/ATMn9XN.jpg
-    prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VLAWAvILn2mlOQzyIRo7A4P193U3M9R9DQp8h8W4rAgKnqtvyB84OknzSVND6l92Z6so510VYKVLfRkVVD9AgETY28XRmYrOC8ZyWy40RnUYW2zYRqEmFNPPDJXlz2FgYMWzz3K3iNl1XOZqx7IwlY2MLQjMtl0Oj6Am3WTDE6JzvLkBCrgEG1ypjOcxVY3QN7qYCzLKQLQR8QU5V
-    parentId: 2Nj4VgDwkOuQx3Aj3B2zHKyoV89
-    postId: qnOxPm72qrcv7m2MGppkt5Z86NwgBXhxnYzRWAlkSXMl2xjoNvtq7N
-    factor: 1.33
-    portrait: 1
-    mInfo: nnS3Das4cbehTJV
   - id: Znu7Bwb
     name: roPZOEVlkXfONZX26pgMfqJA4rD
-    description: ""   
+    description: ''   
     height: 720
     width: 540
     type: image/jpeg
@@ -30,7 +17,21 @@ media:
     factor: 1.33
     portrait: 1
     mInfo: Yh8klENJuTPsFpm
-story: "胡作霏為 Fei Fei Art added 2 new photos."  message: "我的日本學生將我的畫印成賀卡送給親朋好友。  卡哇一內<3  My Japanese student made my art works into cards for his family and friends.  So kawaiiii~~"
+  - id: ATMn9XN
+    name: DoGN4YWVkPfZ6AQ6JgWYtgOYA9E
+    description: ''   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/ATMn9XN.jpg
+    prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VLAWAvILn2mlOQzyIRo7A4P193U3M9R9DQp8h8W4rAgKnqtvyB84OknzSVND6l92Z6so510VYKVLfRkVVD9AgETY28XRmYrOC8ZyWy40RnUYW2zYRqEmFNPPDJXlz2FgYMWzz3K3iNl1XOZqx7IwlY2MLQjMtl0Oj6Am3WTDE6JzvLkBCrgEG1ypjOcxVY3QN7qYCzLKQLQR8QU5V
+    parentId: 2Nj4VgDwkOuQx3Aj3B2zHKyoV89
+    postId: qnOxPm72qrcv7m2MGppkt5Z86NwgBXhxnYzRWAlkSXMl2xjoNvtq7N
+    factor: 1.33
+    portrait: 1
+    mInfo: nnS3Das4cbehTJV
+story: '胡作霏為 Fei Fei Art added 2 new photos.'  
+message: '我的日本學生將我的畫印成賀卡送給親朋好友。  卡哇一內<3  My Japanese student made my art works into cards for his family and friends.  So kawaiiii~~'  
 ---
 
 我的日本學生將我的畫印成賀卡送給親朋好友。  
@@ -44,8 +45,8 @@ So kawaiiii~~
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/ATMn9XN.jpg"><img src="https://i.imgur.com/ATMn9XN.jpg" height="300" width="225" /></a> 
+<a href="https://i.imgur.com/Znu7Bwb.jpg"><img src="https://i.imgur.com/Znu7Bwb.jpg" height="300" width="225" /></a> 
   
 
-<a href="https://i.imgur.com/Znu7Bwb.jpg"><img src="https://i.imgur.com/Znu7Bwb.jpg" height="300" width="225" /></a> 
+<a href="https://i.imgur.com/ATMn9XN.jpg"><img src="https://i.imgur.com/ATMn9XN.jpg" height="300" width="225" /></a> 
  
