@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "20170208 " 
+title: '20170208 ' 
 date: 2017-02-09T08:52:25+0000 
-categories: [] 
+categories: ["canvas","crayon","acrylic"] 
 media:
   - id: ZWQHKWT
     name: 3XkRWPZYrmSvGl5W8yVOUZRX1LP
-    description: "20170208Blessing 2017Crayon  acrylic on canvas22x27cm"   
+    description: '20170208Blessing 2017Crayon  acrylic on canvas22x27cm'   
     height: 720
     width: 587
     type: image/jpeg
@@ -17,7 +17,8 @@ media:
     factor: 1.23
     portrait: 1
     mInfo: wnxBV94JtiXHOj6
-story: "胡作霏為 Fei Fei Art added a new photo."  message: "20170208  Blessing 2017  Crayon  acrylic on canvas  22x27cm"
+story: '胡作霏為 Fei Fei Art added a new photo.'  
+message: '20170208  Blessing 2017  Crayon  acrylic on canvas  22x27cm'  
 ---
 
 20170208  
