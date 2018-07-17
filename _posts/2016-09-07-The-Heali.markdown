@@ -17,7 +17,8 @@ media:
     factor: 1.40
     portrait: 1
     mInfo: yFOyWs3a53uHAI4
-story: "胡作霏為 Fei Fei Art added a new photo."  message: "The Healing Series NO.5; One with All  療癒系列  5號;合一  20 x 27 cm"
+story: "胡作霏為 Fei Fei Art added a new photo."  
+message: "The Healing Series NO.5; One with All  療癒系列  5號;合一  20 x 27 cm"
 ---
 
 The Healing Series NO.5: One with All  
