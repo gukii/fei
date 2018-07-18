@@ -1,0 +1,34 @@
+---
+layout: post
+title: '20120226 ' 
+date: 2012-02-25T18:01:22+0000 
+categories: ["crayon","paper"] 
+media:
+  - id: 7rmHpT3
+    name: pmOl5WDoN8FZxlXQERR2SJZODv
+    description: '20120226crayon on paper  $US 200'   
+    height: 491
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/7rmHpT3.jpg
+    prevLoc: wDE2QY4JynINx0056AGLU78gXMW78jS3xM4kG4D7F659koQgVNHvz4Kov0vGf14ExLwZRMiAm0OkqMg2SQZXOjY2Qzt5NK40X54pF4GEmRRLEWU6OVYq1Dj0uxr8AjgpNmC4p2QBGD2EhN7knNrQpEsWDDMYyw3OCWVLMvvAkkHGqvjEr1Q1INvo9ZrG4lfRoqB9BYEksQ9KYAMVEpcBlNG8V4JxS0vlKGOK2ZSlGm4JNm8Qspm
+    parentId: pmOl5WDoN8FZxlXQERR2SJZODv
+    postId: 1NgwmPW9OnsXEvZQK77BiPL2lYNqYzcEKEQLJWAoCYjqQYZJWYC8x
+    factor: 1.47
+    portrait: 0
+    mInfo: NVm7dWzRrR2ITBR
+story: '胡作霏為 Fei Fei Art added a new photo.'  
+message: '20120226  crayon on paper  $US 200'  
+---
+
+20120226  
+crayon on paper  ($US 200)
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added a new photo.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/7rmHpT3.jpg"><img src="https://i.imgur.com/7rmHpT3.jpg" height="204" width="300" /></a> 
+ 
