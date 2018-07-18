@@ -1,0 +1,28 @@
+---
+layout: post
+title: 'happy sum' 
+date: 2011-07-09T16:14:15+0000 
+categories: [] 
+media:
+  - id: NAvYJka
+    name: JxO6VByADAIoXpOGlp43IvDRzL
+    description: 'happy summer time  drawn with left hand '   
+    height: 480
+    width: 640
+    type: image/jpeg
+    link: https://i.imgur.com/NAvYJka.jpg
+    prevLoc: EMZ1zNo3XKTqx11wyg3WT6Q2Kvl6QWh1DPVyGVq7s2rKlRGxP5HZpRjNZYZ3u7Xgv1X5P7H6RDMkBgADC3Yzy5M730uzXYww6zwmsLpYn6qop7HqNNjVRkAEcK0pqK8Wxyc8224ZYVEPsYq5wMM12EUGMXJg8YpLSNAOy5vWoPIoVMQBGMJXCo5jM1zMDMuXkDq2981yS2v1qKO8X3fq436rR1RAcNr
+    parentId: JxO6VByADAIoXpOGlp43IvDRzL
+    postId: PE0N2A7Yk9Cn5y6Lq77NtgzLN67PljUjN4BMmEjvF8o0DD18D7CMB
+    factor: 1.33
+    portrait: 0
+    mInfo: Bjy9ueaf4ADMvlV
+message: 'happy summer time  drawn with left hand '  
+---
+
+happy summer time ( drawn with left hand )
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/NAvYJka.jpg"><img src="https://i.imgur.com/NAvYJka.jpg" height="225" width="300" /></a> 
+ 

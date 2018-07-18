@@ -1,0 +1,44 @@
+---
+layout: post
+title: '胡作霏為 Fei ' 
+date: 2011-09-25T17:50:48+0000 
+categories: [] 
+media:
+  - id: IIWEStL
+    name: MARQp84pJvfY6V8Y2Z6wIQYElq
+    description: 'Prayer for you39 x 27 CMacrylic on paperShih-Efei, 2011    $US 150'   
+    height: 431
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/IIWEStL.jpg
+    prevLoc: PoMgO2D3K6C6XvvBgoK4CMrpQOKMr5TpwBv2lvK5ImPnkYzJ6Zi2Jr7j2p28ulpORop9pjFroXpO8R89IDBJAQX35PtE0LxkqJrDHkl17Nrvr2c41vgNpqwns1O2gkjLLVTmkwnB6OZVHKPZwG9OGASBk1Qv526As703M2LzWNFyDQ3l3ZkwukVGgkwj3mtpQE080W85SBkONoRKnNfJk4OVQNqLcBV6P0
+    parentId: MARQp84pJvfY6V8Y2Z6wIQYElq
+    postId: KyPrWv16N2Ckr31R0jjMiZMzPpLNJnFk6NYZq718TxpvgK4QjNsZl
+    factor: 1.67
+    portrait: 0
+    mInfo: 8gC1qDdCAY3fxNG
+  - id: vt4ywmM
+    name: 9Nq1YAOqgBsj8xXqY4E3cPw5YA
+    description: 'Monkey 39 x 27 CMcrayon on paperShih-Efei, 2011     $US 300Prints are available'   
+    height: 720
+    width: 499
+    type: image/jpeg
+    link: https://i.imgur.com/vt4ywmM.jpg
+    prevLoc: 1lYEXmAJpVIZGnnrgkMph91EWgv91xugB2XkpXP0srwjYE0R3BHM46pAMNMRcE0Lx8NW5MtDnWgm38njC1ZrpALwNAf8EQ6Grz9jFp1gW8GPKyi9B58wpmgEh8ok1VKkK8C2v3lMYM8quGEJQq87E2tPMk2wNo90Crgl37qNxotxPXxNWwQqIYoQ7Y7mO8Sx7zG92gG8cj464x7BW2SXpgYBBP4mcm1VlQ5
+    parentId: 9Nq1YAOqgBsj8xXqY4E3cPw5YA
+    postId: KyPrWv16N2Ckr31R0jjMiZMzPpLNJnFk6NYZq718TxpvgK4QjNsZl
+    factor: 1.44
+    portrait: 1
+    mInfo: BNna9wY9bl5leRE
+story: '胡作霏為 Fei Fei Art added 2 new photos.'  
+---
+
+胡作霏為 Fei Fei Art added 2 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/IIWEStL.jpg"><img src="https://i.imgur.com/IIWEStL.jpg" height="179" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/vt4ywmM.jpg"><img src="https://i.imgur.com/vt4ywmM.jpg" height="300" width="207" /></a> 
+ 

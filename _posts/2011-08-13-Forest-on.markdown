@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'Forest on' 
+date: 2011-08-12T16:23:10+0000 
+categories: ["water","paper"] 
+media:
+  - id: JObA3g2
+    name: EpJ90GLw3lFjPgMv24zMsZJv6Q
+    description: 'Forest on Fire39 x27 CMwater color on paperShih-Efei, 2011     $US 200-- Drawn when being drunk'   
+    height: 480
+    width: 640
+    type: image/jpeg
+    link: https://i.imgur.com/JObA3g2.jpg
+    prevLoc: ZBwv2lQ7GZIjgPP1vD5MuOP6m45OPWsGLxqNVq64cR9vZK8VYmiDAgNwDBDZTQxZK4xgznFNEEJmAZYLhVq998gEJZCxDvvyPLj3IXNVQWMNXOSY6ZKprGg9INKg8NAnzJun88Qgx46jhDVn0885NpslnzmAP86XInqW0MXLvlF8NDqMEr4ZcJDogQQY9RHzXgqnxoZxivOn4GoOwNiql9M7E9vWuOq
+    parentId: EpJ90GLw3lFjPgMv24zMsZJv6Q
+    postId: PE0N2A7Yk9Cn5y6Lq77NtgzLN67Plrf04DD628KQF8JXXZg44ocpD
+    factor: 1.33
+    portrait: 0
+    mInfo: DdeeFl3V8pUQTCa
+story: '胡作霏為 Fei Fei Art added a new photo.'  
+message: 'Forest on Fire  39 x27 CM  water color on paper  Shih-Efei, 2011     $US 200      -- Drawn when being drunk'  
+---
+
+Forest on Fire  
+39 x27 CM  
+water color on paper  
+Shih-Efei, 2011    ( $US 200)  
+  
+  
+-- Drawn when being drunk
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added a new photo.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/JObA3g2.jpg"><img src="https://i.imgur.com/JObA3g2.jpg" height="225" width="300" /></a> 
+ 

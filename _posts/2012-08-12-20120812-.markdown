@@ -1,0 +1,33 @@
+---
+layout: post
+title: '20120812 ' 
+date: 2012-08-12T14:34:30+0000 
+categories: [] 
+media:
+  - id: 5Z1WkB1
+    name: PVNRwR1vr8fnloGyVBAmH68Lkp
+    description: '20120812 -- The dreamers'   
+    height: 557
+    width: 474
+    type: image/jpeg
+    link: https://i.imgur.com/5Z1WkB1.jpg
+    prevLoc: gjx8wB4mD7hByPPv6mAlfD74JgRD70hNDYpwkp54Cm6AOM2rjvipZ40qpVpWhRyQMw8W2Ah7r89QErPrSWko61xl0Pc9XNYvOy8Kc7qmNqWoNBiVL7vxQO8LiplGKqArrmfNYzvwoEDguMrLgKD2KAfNz12Gyl9zt32M4gDoZDSVR0nArrwzIDGBYRz1vWUWxmqlpKp6H6ZJ2lGzBYH2m6AGgwn7Hj5v7n
+    parentId: PVNRwR1vr8fnloGyVBAmH68Lkp
+    postId: mjKZLgOEmnhqREMQGmmPSZGygQrYwvflnrV9Mm8PUXqVDwxW5Jfz8
+    factor: 1.18
+    portrait: 1
+    mInfo: 612alhnccwIbrko
+story: '胡作霏為 Fei Fei Art added a new photo.'  
+message: '20120812 -- The dreamers'  
+---
+
+20120812 -- The dreamers
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added a new photo.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/5Z1WkB1.jpg"><img src="https://i.imgur.com/5Z1WkB1.jpg" height="300" width="255" /></a> 
+ 

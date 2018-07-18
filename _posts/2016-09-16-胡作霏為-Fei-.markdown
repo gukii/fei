@@ -1,0 +1,28 @@
+---
+layout: post
+title: '胡作霏為 Fei ' 
+date: 2016-09-16T00:56:12+0000 
+categories: [] 
+media:
+  - id: 2Ida9KZ
+    name: BmVlMzyOQ2fNZ2nx6xL2hRBKM4Y
+    description: 'The Healing Series NO.2; Please Forgive me療癒系列 二請原諒我21 x 30 cm'   
+    height: 720
+    width: 504
+    type: image/jpeg
+    link: https://i.imgur.com/2Ida9KZ.jpg
+    prevLoc: 4okV1p0MvWC85YYZPmBJSrMK5nlrMwuJQLxDGxgyF1VqyLJ3pGu06v780R0Efy1YmGZp3ETxAgzYovV9cl5X0EBDn7Hp0zZ0Kro3sv6vV0mK6jfKW8qJkwVpCOwEMEgyMLULl5YEYNz8fp8YJzQDA3H3xm3jnXMZhpz5BpOyoNTXvvyNMJnOs7QY9553RXu6LwEKo4rQHGLRPXR5OJtBolroQDMqfZgr7ZqpA4twjk14O5omFqzLrEvjKPiL1G02PmywtNk
+    parentId: BmVlMzyOQ2fNZ2nx6xL2hRBKM4Y
+    postId: zz1p2yvnDEczmJrjv00wHv4q8oONZZImvZ8G160ySwM4mBDRoNTkwy
+    factor: 1.43
+    portrait: 1
+    mInfo: FdkyPYPKS5FIdZp
+story: '胡作霏為 Fei Fei Art added 2 new photos.'  
+---
+
+胡作霏為 Fei Fei Art added 2 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/2Ida9KZ.jpg"><img src="https://i.imgur.com/2Ida9KZ.jpg" height="300" width="210" /></a> 
+ 

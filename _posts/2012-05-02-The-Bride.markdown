@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'The Bride' 
+date: 2012-05-02T02:20:09+0000 
+categories: ["acrylic","paper"] 
+media:
+  - id: qfNaXSd
+    name: Y9EzA8wkEoUX68zx1qm2SMW6JB
+    description: 'The Bride20 x 30 CMacrylic on paperShih, Efei 20120502-------------------------------------This painting was inspired by a dream in which I was a bride wearing a wedding gown..however, it was a wedding that i must go alone..without a groom.'   
+    height: 720
+    width: 567
+    type: image/jpeg
+    link: https://i.imgur.com/qfNaXSd.jpg
+    prevLoc: PoMgO2D3K6C6XvvBgoK4CMrpQOKMr5TpwBv2lvK5ImPnkYzJ6Zi2Jr7j2p28ulpOR069MqIMNRWJq5j9tDvng790oQUlMk9jO6RPtwQ6J0ZG7KSz718pRx8gHGMP5Yw7nrin2O021wLkf0J94Gjj3VfmDloQGggLs7vR1w782gc781V5kPrGS3WZqRDDmxh6vw8oKAmlHEJn7zMWGQuJpEQrM3GAFKRDE3ADgZsYZDlpZx4A
+    parentId: Y9EzA8wkEoUX68zx1qm2SMW6JB
+    postId: BmDBKjNnA2uNlEnL3ggRUGzJlWyEP4cD6ZZqVAzGulg58rrZoyi9W
+    factor: 1.27
+    portrait: 1
+    mInfo: 7bEbt6VFTtN8EWj
+message: 'The Bride  20 x 30 CM  acrylic on paper  Shih, Efei 20120502      -------------------------------------    This painting was inspired by a dream in which I was a bride wearing a wedding gown..however, it was a wedding that i must go alone..without a groom.'  
+---
+
+The Bride  
+20 x 30 CM  
+acrylic on paper  
+Shih, Efei 20120502  
+  
+  
+-------------------------------------  
+  
+This painting was inspired by a dream in which I was a bride wearing a wedding gown..however, it was a wedding that i must go alone..without a groom.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/qfNaXSd.jpg"><img src="https://i.imgur.com/qfNaXSd.jpg" height="300" width="236" /></a> 
+ 

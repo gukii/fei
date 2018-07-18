@@ -1,0 +1,36 @@
+---
+layout: post
+title: '20120205-' 
+date: 2012-02-04T22:54:42+0000 
+categories: [] 
+media:
+  - id: negVBnh
+    name: EpNBm8o8kXFjBn734n5RfZDJlW
+    description: '20120205-- my mandala----------------------------After painting it, i had a dream i was stuck in it.'   
+    height: 518
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/negVBnh.jpg
+    prevLoc: jmv5zG4pgAhOmllzE3njhmnqgl0mnvhwnxVKAVNouLjxn1ZOVDiqWxnpqAqkuLPNWVxYy5I9A6zJvWrQtEBpZGEGOkCMB3JXAjVRCQvGO6xDXZHMnv4xqxXzc9lO28v1Bvu9RPnGm2AxFJVMovQQ3PiDLWxGjPPJIJ1XP9JX2EiQPVznyEDycWzy94OJLOf0YMovOrr3s1B1oZOzD3cqNz3V3gOYI7NPBmQPvJczZ0lmDAqZ
+    parentId: EpNBm8o8kXFjBn734n5RfZDJlW
+    postId: nkL5Mjxz0ohV6MWRQJJ3Hg9kBmGMmWI93JqlD29jS0XVWD9mzrf7W
+    factor: 1.39
+    portrait: 0
+    mInfo: ekHyeZFGt52bvGD
+story: '胡作霏為 Fei Fei Art added a new photo.'  
+message: '20120205-- my mandala    ----------------------------  After painting it, i had a dream i was stuck in it.'  
+---
+
+20120205-- my mandala  
+  
+----------------------------  
+After painting it, i had a dream i was stuck in it.
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added a new photo.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/negVBnh.jpg"><img src="https://i.imgur.com/negVBnh.jpg" height="215" width="300" /></a> 
+ 

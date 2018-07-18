@@ -1,0 +1,44 @@
+---
+layout: post
+title: '胡作霏為 Fei ' 
+date: 2012-12-14T13:04:30+0000 
+categories: [] 
+media:
+  - id: 3ozZMO0
+    name: VVOggKEJDRi8MXXDm61ktQ8JKE
+    description: '20121204-- The Dance'   
+    height: 480
+    width: 640
+    type: image/jpeg
+    link: https://i.imgur.com/3ozZMO0.jpg
+    prevLoc: 5plV2qGNwATl9ggy8xZ0fK8LjrXK8gH31MOBqOnmFomzOxQ9KLhj9Y1JjxjEiR7N3VkOklsDlrp7nkRxUYDokOBARAHxGV1vEvErfvLGA000NKcqAlN6AAG9ivpgyWwmm6f2MjQDPOgKUg4vJzPLzKUJDjq64wXEix0MBLKn5GHP4AV77ONltlRE5RA5GyCZ9ZqvOl1pC7RLBY2WWnTYMQ87kloAhzLzrD
+    parentId: VVOggKEJDRi8MXXDm61ktQ8JKE
+    postId: 075RlPY9Nmczr6yAlRRgHgwXyOnNpyt0Lrp32z6PTzP8xPK5VMHNm
+    factor: 1.33
+    portrait: 0
+    mInfo: jgpicm69rLV8zUS
+  - id: AV7olMv
+    name: 0rRvvPxAnKUzpzAKMqKDiOjw6A
+    description: '20121214-- UnsettledAcrylic on paper15 x 21 cm'   
+    height: 640
+    width: 463
+    type: image/jpeg
+    link: https://i.imgur.com/AV7olMv.jpg
+    prevLoc: OnELN1B3XJsOx55DY0pAhz5BYQ4z57s4VjyzBy9xumZ9q5NzQYirP8BnrXrmiD6Kl8p1PZhDzr9PMrR3un3QAKw8x3ImqojqQ7JAI7LyxKWW62uvEvg7Qg14HgqpGJ9p9gFk7qV1R1ZES83mx4Vk37fn1pEMyWDGfnw4JEGoYGilG0A0n53YCZ38vXOwVRulRgG1Qyx0U0XWQR8X0kCgy5NqqXoycnv8A8x
+    parentId: 0rRvvPxAnKUzpzAKMqKDiOjw6A
+    postId: 075RlPY9Nmczr6yAlRRgHgwXyOnNpyt0Lrp32z6PTzP8xPK5VMHNm
+    factor: 1.38
+    portrait: 1
+    mInfo: l5mFVd9uvXM5X2K
+story: '胡作霏為 Fei Fei Art added 2 new photos.'  
+---
+
+胡作霏為 Fei Fei Art added 2 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/3ozZMO0.jpg"><img src="https://i.imgur.com/3ozZMO0.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/AV7olMv.jpg"><img src="https://i.imgur.com/AV7olMv.jpg" height="300" width="217" /></a> 
+ 

@@ -1,0 +1,42 @@
+---
+layout: post
+title: 'Drama Que' 
+date: 2012-01-15T16:49:23+0000 
+categories: ["paper"] 
+media:
+  - id: Rf72WKZ
+    name: OD12Wr5qQQtkpW9Q0B9wHPNpGq
+    description: 'Drama Queen39 x 27 CMhard pastel on paperShih-Efei, 2012        $US300--------------------------------I was too naive,wanting to create some peace,with hard pastel that i hatewhen i'm nothing but a drama queen.'   
+    height: 448
+    width: 323
+    type: image/jpeg
+    link: https://i.imgur.com/Rf72WKZ.jpg
+    prevLoc: 6qmG3rJOxYiWmVVRk1rosAL3vKoAL7tzAP4G74n6C3LXjw0rOGuRNQ7vRDR4tOx892nP35fW96kx6wV7Ul2jv9401lsPQpgMLMqlSv1qzWDok0TRqk0NDgJrCpA04ky0yptQAwgpmpRzHkWA8mPYW5fBYvjZE57gf1WEPKyYAGi5Eq6NmJVGTvz02zGr2KtorJjPB5r8UjqyryOmrMHBGgkKKmylhqKvr2O
+    parentId: OD12Wr5qQQtkpW9Q0B9wHPNpGq
+    postId: 075RlPY9Nmczr6yAlRRgHgwXyOnNOXH0Vw7lOJBEizypZDjDkktNR
+    factor: 1.39
+    portrait: 1
+    mInfo: ADTcPZQra8Hjew2
+story: '胡作霏為 Fei Fei Art added a new photo.'  
+message: 'Drama Queen  39 x 27 CM  hard pastel on paper  Shih-Efei, 2012        $US300    --------------------------------  I was too naive,  wanting to create some peace,  with hard pastel that i hate  when i'm nothing but a drama queen.'  
+---
+
+Drama Queen  
+39 x 27 CM  
+hard pastel on paper  
+Shih-Efei, 2012       ( $US300)  
+  
+--------------------------------  
+I was too naive,  
+wanting to create some peace,  
+(with hard pastel that i hate)  
+when i'm nothing but a drama queen.
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added a new photo.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/Rf72WKZ.jpg"><img src="https://i.imgur.com/Rf72WKZ.jpg" height="300" width="216" /></a> 
+ 

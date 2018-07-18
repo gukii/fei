@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'the whisp' 
+date: 2012-11-15T17:00:34+0000 
+categories: ["acrylic","paper"] 
+media:
+  - id: 9yzVSJn
+    name: 8D2PgzWp66igJDM9AmjytognBk
+    description: 'the whisper of fallacrylic on paper30.5 x 23 cmEfei shih'   
+    height: 454
+    width: 605
+    type: image/jpeg
+    link: https://i.imgur.com/9yzVSJn.jpg
+    prevLoc: KjYzJWx37Ah1W88QKB2qugG8kDRgG0hmJK1wB15VFYMmPJvBLkfk1wWKkZkOIBG14VgYPPczQ0X9Jn1OIonw3lVNYNtKBXo1PAA6hEK7JG8KGwHlzBz7PomgfvDYyg4jjBfEvL4R7rVYUxMDAV9mV8s7LrJ4LgXxIzB8Ey0PL1tOYjGP7WVNhXG8qYjME9CmAJmkqJymHO1Gx6vl5QiLkKxy45W1hJKDOr
+    parentId: 8D2PgzWp66igJDM9AmjytognBk
+    postId: Znk6lNYWxocYoOjWy338ClzB7xnQm5IELMW5OB2Zs6mN2MWK5yiBl
+    factor: 1.33
+    portrait: 0
+    mInfo: 5wCojMTsMoglP5Q
+story: '胡作霏為 Fei Fei Art added a new photo.'  
+message: 'the whisper of fall  acrylic on paper  30.5 x 23 cm  Efei shih'  
+---
+
+the whisper of fall  
+acrylic on paper  
+30.5 x 23 cm  
+Efei shih
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added a new photo.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/9yzVSJn.jpg"><img src="https://i.imgur.com/9yzVSJn.jpg" height="225" width="300" /></a> 
+ 

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Talking C" 
+title: 'Talking C' 
 date: 2018-01-30T10:05:44+0000 
-categories: [] 
+categories: ["talking","canvas"] 
 media:
   - id: MXqGkSE
     name: RJZgvgD83KuXRYYkkDQ8I3NQ249
-    description: "Talking Canvas project 5https;www.facebook.comEfei.Talking.Canvas"   
+    description: 'Talking Canvas project 5https;www.facebook.comEfei.Talking.Canvas'   
     height: 720
     width: 508
     type: image/jpeg
@@ -17,7 +17,7 @@ media:
     factor: 1.42
     portrait: 1
     mInfo: NXqhDmRel1XrP9q
-message: "Talking Canvas project 5    https;www.facebook.comEfei.Talking.Canvas"
+message: 'Talking Canvas project 5    https;www.facebook.comEfei.Talking.Canvas'  
 ---
 
 Talking Canvas project #5  

@@ -1,0 +1,44 @@
+---
+layout: post
+title: '胡作霏為 Fei ' 
+date: 2011-10-12T17:07:33+0000 
+categories: [] 
+media:
+  - id: LPt94wE
+    name: XlgLp4nl94sZM0Kp1jR4cmoqwQ
+    description: 'No Name39 x 27 cmmarker on paperShih-Efei, 2011     $US 150'   
+    height: 430
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/LPt94wE.jpg
+    prevLoc: PoMgO2D3K6C6XvvBgoK4CMrpQOKMr5TpwBv2lvK5ImPnkYzJ6Zi2Jr7j2p28ulpOR069MqIMNRWJq5j9tDoWQooGBQilMnD6vYDwTkoXXl6jKziz9xxxrvERUGqKlpJVp4Sn6xMwE7jGt0BDp03PX4hmqqAGVBMPt70WKzzOjOckYOx1O3MZc3jPKXo2GpFpGnXgyOjkSE1QAOqOxJSJVDYr8GgKSL8mJOB1JkiYEBjv34XoUgp
+    parentId: XlgLp4nl94sZM0Kp1jR4cmoqwQ
+    postId: Vj4O8KANqkh8POZp1DDkI2GnqQ754ETlm3ogx8ERiMvVOjwmOos5g
+    factor: 1.67
+    portrait: 0
+    mInfo: 6sI0re4N5owj0ra
+  - id: dpvuf0l
+    name: KyP1EZNVOlfk2gJ4OD81Cp84AP
+    description: 'Anger53.5 x 38.7 CMcrayon on paperShih-Efei, 2011'   
+    height: 431
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/dpvuf0l.jpg
+    prevLoc: WywpYgN3KWS4qzz13P5jH7plr437pGSVAjrxkrn8HN2V91DAg3tlLKJrl0l1tqXJ0Yj97DtRwGk47rqLU4jNnyq9BNuYwPzomwBxC0GYZV3V38CpX499487AiQJAoBzNlouoxrVoZXPoFEoyZrM7WPSE58RrxEOLTkmpgRAQMGHQNggolggECZOllJ5W9jhLm355g96vf5D89Lpz56hxVnJn9JxwIOwlQA0v8Gcnzmvp2qP
+    parentId: KyP1EZNVOlfk2gJ4OD81Cp84AP
+    postId: Vj4O8KANqkh8POZp1DDkI2GnqQ754ETlm3ogx8ERiMvVOjwmOos5g
+    factor: 1.67
+    portrait: 0
+    mInfo: zDkItcNYEvVfcE9
+story: '胡作霏為 Fei Fei Art added 2 new photos.'  
+---
+
+胡作霏為 Fei Fei Art added 2 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/LPt94wE.jpg"><img src="https://i.imgur.com/LPt94wE.jpg" height="179" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/dpvuf0l.jpg"><img src="https://i.imgur.com/dpvuf0l.jpg" height="179" width="300" /></a> 
+ 

@@ -1,0 +1,44 @@
+---
+layout: post
+title: '胡作霏為 Fei ' 
+date: 2011-09-03T17:15:28+0000 
+categories: [] 
+media:
+  - id: xEg0bum
+    name: BmDL6N708GuNl6Q0E6v7CW939J
+    description: ''   
+    height: 720
+    width: 430
+    type: image/jpeg
+    link: https://i.imgur.com/xEg0bum.jpg
+    prevLoc: OnELN1B3XJsOx55DY0pAhz5BYQ4z57s4VjyzBy9xumZ9q5NzQYirP8BnrXrmiD6Kl8om3BcDg1VZWy8VHnRxY4rGwvhmqqD3qKroH7zO7X91KZhoAZyDZ949c14Mq1AxypuEYY0J6kPOf9ylJOOPZqfor2gZ1OYvtxwDAOMDyjtwnl7lKV3Rc9kzDXQ4jkSNMYgkXZ84T0VJEN9pV1SNDjOjBwWnir3
+    parentId: BmDL6N708GuNl6Q0E6v7CW939J
+    postId: qnOxPm72qrcv7m2MGppkt5Z86NwgBqCx3MG0LVggcXZqYqO3p0FY1
+    factor: 1.67
+    portrait: 1
+    mInfo: 0yfLJmjpTSoKV8Q
+  - id: 6QXQyzj
+    name: qnOY3LmoDrcvz3pW6K72fN7gRw
+    description: '20110904 My prayer for U  $US  150'   
+    height: 452
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/6QXQyzj.jpg
+    prevLoc: MlENLYz3K7IJ3xxpPRq5uL1XNlvL1rTWjMkKZkD5hgKQXy7jnAcM5gmzM7MDcg2LYG2Q2miyvKr8zXR5U86n4Zrnn6HP3GmG6B5BCMpVmlzNV9I2yvv4AG3of63zA6DqJnsY99n28R0qCMgykAAVQ4iJQqp7w6vYijK8VN5zzVSmPmpEJrqpfERR0QkDgVt54n3NBLQJhVgJRL5YEni3G8KrQvmXf97
+    parentId: qnOY3LmoDrcvz3pW6K72fN7gRw
+    postId: qnOxPm72qrcv7m2MGppkt5Z86NwgBqCx3MG0LVggcXZqYqO3p0FY1
+    factor: 1.59
+    portrait: 0
+    mInfo: bCh25C2PJGghGnY
+story: '胡作霏為 Fei Fei Art added 2 new photos.'  
+---
+
+胡作霏為 Fei Fei Art added 2 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/xEg0bum.jpg"><img src="https://i.imgur.com/xEg0bum.jpg" height="300" width="179" /></a> 
+  
+
+<a href="https://i.imgur.com/6QXQyzj.jpg"><img src="https://i.imgur.com/6QXQyzj.jpg" height="188" width="300" /></a> 
+ 

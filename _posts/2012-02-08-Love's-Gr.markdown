@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'Love's Gr' 
+date: 2012-02-07T16:35:37+0000 
+categories: ["acrylic","paper"] 
+media:
+  - id: as0PbDd
+    name: AlJgPKVLOnhRw8rEvERXTQ5OEQ
+    description: 'Love's Growing39 x 27 CMacrylic on paperShih-Efei, 20120207   $ US 350'   
+    height: 320
+    width: 215
+    type: image/jpeg
+    link: https://i.imgur.com/as0PbDd.jpg
+    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnAqPqMuAGo29kx1lirK3qlYLQ2sonklZVwGxUjK98BAG9Pc8E4Z37XWVCr5VJOgWOLcQgMvryMyQh89DxN7NQ0IpGjP1DzGxfX5AMx7q5zFVWDQPZxXvC7856YgRDOF9P1MWYqgmsLrXMv79g7tLrVoXNJ2AtKpr4yyL8YFp9ANwE
+    parentId: AlJgPKVLOnhRw8rEvERXTQ5OEQ
+    postId: AlBDJgNmz2h517RDMvvli0GEzQZ1QLfDyzlPB57LcRXJPZorJDUjN
+    factor: 1.49
+    portrait: 1
+    mInfo: mKTo29rD8pVLTax
+story: '胡作霏為 Fei Fei Art added a new photo.'  
+message: 'Love's Growing  39 x 27 CM  acrylic on paper  Shih-Efei, 20120207   $ US 350'  
+---
+
+Love's Growing  
+39 x 27 CM  
+acrylic on paper  
+Shih-Efei, 20120207  ( $ US 350)
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added a new photo.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/as0PbDd.jpg"><img src="https://i.imgur.com/as0PbDd.jpg" height="300" width="201" /></a> 
+ 

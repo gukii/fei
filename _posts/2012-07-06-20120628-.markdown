@@ -1,0 +1,33 @@
+---
+layout: post
+title: '20120628-' 
+date: 2012-07-05T16:13:27+0000 
+categories: [] 
+media:
+  - id: 6MfHMve
+    name: VVO1pzEpVyH8MMEmzLD7tQmW3N
+    description: '20120628-- Here she comes..'   
+    height: 480
+    width: 610
+    type: image/jpeg
+    link: https://i.imgur.com/6MfHMve.jpg
+    prevLoc: WywpYgN3KWS4qzz13P5jH7plr437pGSVAjrxkrn8HN2V91DAg3tlLKJrl0l1tqXJ03yMRxiyvKPLn0KDIwGovnqgKECRlAqzpjEEsko27xLX26UpXP4z8P65Fg7OKVrOrgFoXEvDpDVytKwDRkm0wrH1wZq1ZvK5C6v6BAgOEYHEKvN3mDjYIl4BDo2N2KHLmz8O88pVfL3MlX3RvDH1rJPwwMxZsRjXEyA
+    parentId: VVO1pzEpVyH8MMEmzLD7tQmW3N
+    postId: olM2NkVOo0hmKxwyJ77Pfv1QqOprEwsOLKN9jlJnFNlNXJ58q9sD7
+    factor: 1.27
+    portrait: 0
+    mInfo: cO9yboBsUwOELkv
+story: '胡作霏為 Fei Fei Art added a new photo.'  
+message: '20120628-- Here she comes..'  
+---
+
+20120628-- Here she comes..
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added a new photo.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/6MfHMve.jpg"><img src="https://i.imgur.com/6MfHMve.jpg" height="236" width="300" /></a> 
+ 

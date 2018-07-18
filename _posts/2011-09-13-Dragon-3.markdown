@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'Dragon  3' 
+date: 2011-09-13T15:58:37+0000 
+categories: ["acrylic","paper"] 
+media:
+  - id: M9T45zH
+    name: 9NqQKV4PW8Fjky1ANjEQhPKDjz
+    description: 'Dragon39 x 27 CMacrylic on paperShih-Efei , 2011    $US 350'   
+    height: 720
+    width: 418
+    type: image/jpeg
+    link: https://i.imgur.com/M9T45zH.jpg
+    prevLoc: WywpYgN3KWS4qzz13P5jH7plr437pGSVAjrxkrn8HN2V91DAg3tlLKJrl0l1tqXJ03yrmriyvYjKRO3RU4XEkwvmP0HR8ROXV3lEtk1DzQXRqWTpvkQxlLRLHg7OKVrOrgFoXEvDpDVytKwDRkm0wrH1wZPj7NDVH6A8KRkwmWFQ7GR00zVDhl4Bl7lpPJURj9YGDYjLumDPNMJ1qBc1rJPwwMNvcRjXzwW
+    parentId: 9NqQKV4PW8Fjky1ANjEQhPKDjz
+    postId: 54myqXQWkrs1WqlrOVVpHqzZmxWQvNCj8OExZryyuOgOMNmwkySZP
+    factor: 1.72
+    portrait: 1
+    mInfo: Y2CKe3vIusCW6iR
+story: '胡作霏為 Fei Fei Art added a new photo.'  
+message: 'Dragon  39 x 27 CM  acrylic on paper  Shih-Efei , 2011    $US 350'  
+---
+
+Dragon  
+39 x 27 CM  
+acrylic on paper  
+Shih-Efei , 2011   ( $US 350)
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added a new photo.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/M9T45zH.jpg"><img src="https://i.imgur.com/M9T45zH.jpg" height="300" width="174" /></a> 
+ 
