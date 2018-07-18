@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /exibitions/
-title: Exibitions
+title: Eexxibitions
 ---
 Apart from being the agent (Taiwan) for Sakai Fishfarm, IKI has direct access to the following japanese Koi farms:  
 

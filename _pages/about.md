@@ -4,7 +4,29 @@ permalink: /about/
 title: About-Fei
 ---
 
-We are an expert-center for education, research and trade, based on the island of Taiwan.  
+
+### My Process
+
+Creating something new out of broken surroundings. Cracked tiles. Broken floor boards. Cracks in the wall. We have a lot of earthquakes on the island. For me these imperfections are the start of silhouetts, outlines of things to come that slowly step into this world, as painting progresses.
+
+Some lines, some paintings are without sense at the outset. Sometimes it takes time and I put paintings away. Later at some point, when the feeling is right, the same lines start telling a story, more and more capture what is on my deep mind. At some point it is hard to say what controls the flow. The lines. The thoughts. The flow. Often I m surprised by the outcome as well.
+
+Generally I like the idea of starting from a broken out-set. Where others might see imperfection, even a need to repair, I see a way forward. All it requires is a shift in perspective and thinking and a willingness to create and experiment. 
+
+Reflections on my past, people and abstract patterns surrounding myself such as the cracked wall tiles in the bathroom. 
+
+
+### Cracked Wall Series
+
+Abstract paintings and pictures that want to come into this world. Recently I started painting reflections of strangers within the talking canvas series. 
+
+Reflections on my past, people and abstract patterns surrounding myself such as the cracked wall tiles in the bathroom. Creating something new out of broken surroundings. All it requires is a shift in perspective and thinking and a willingness to create and experiment. 
+
+We are an expert-center for education, research and trade, based on the island of Taiwan.
+
+
+### Talking Canvas Series
+
 
 ### Education  
 
