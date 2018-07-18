@@ -1,0 +1,44 @@
+---
+layout: post
+title: '胡作霏為 Fei ' 
+date: 2012-02-24T09:18:19+0000 
+categories: [] 
+media:
+  - id: rL3Vctl
+    name: 1NmPWjWJ38UXlrjG8jvkTY3jVB
+    description: 'Headaches30 x 21 cmacrylic on paperShih-Efei, 20120218   $US 100'   
+    height: 496
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/rL3Vctl.jpg
+    prevLoc: pvRBJO5yo9uwoQQgkvnzTO26Vn4O2MsGlw0x20O9c1ZXoVD6pzuK7Ej8K0KDczko0NGwjBFKRy83MAlLS84RmjOk5XU10vMWADDGs4LBgpw9MMfXOERok9QnCE0ozEgk91FxMmEnLx1OImZE3mpAY7HDZZKpWrM6tLXJnyypPzcQgxvORrZAT4QqkVZ2rYiJ57Dg7rjqIQO1KM2rz6SVWjOkOllRHZk3NpW1yRf5QWRQVGmJiDJ
+    parentId: 1NmPWjWJ38UXlrjG8jvkTY3jVB
+    postId: 54myqXQWkrs1WqlrOVVpHqzZmxWQx6sxRAwZZMKJfOJm7YVA0ksx7
+    factor: 1.45
+    portrait: 0
+    mInfo: QDa5ttIL3rKicdd
+  - id: Qxg9ZO4
+    name: zz2yjo7VKpizmNBQQo8giopRRP
+    description: 'Freedomwater colors on paper20120224 Shih-Efei   $US 300_Prints are available'   
+    height: 523
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/Qxg9ZO4.jpg
+    prevLoc: 5plV2qGNwATl9ggy8xZ0fK8LjrXK8gH31MOBqOnmFomzOxQ9KLhj9Y1JjxjEiR7N31nwMXumLEJk7qBPiYkjKkAKJ8HDrKQmGW68IWzL1nVJ89Hmlp22ljJWtyGyXDZQm4UQvv6mwRLoTxqYWxQ4jGurXXAZpJEKumzqPRR144hMPwLvNZQLClKzzA8YvRtZ8RvPOYpBu7GBWqMNmMfB5v54YrpLfLMppL7Po0Hw1K07Ej5Gi7M
+    parentId: zz2yjo7VKpizmNBQQo8giopRRP
+    postId: 54myqXQWkrs1WqlrOVVpHqzZmxWQx6sxRAwZZMKJfOJm7YVA0ksx7
+    factor: 1.38
+    portrait: 0
+    mInfo: Fplblku61X1TDNU
+story: '胡作霏為 Fei Fei Art added 2 new photos.'  
+---
+
+胡作霏為 Fei Fei Art added 2 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/rL3Vctl.jpg"><img src="https://i.imgur.com/rL3Vctl.jpg" height="206" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/Qxg9ZO4.jpg"><img src="https://i.imgur.com/Qxg9ZO4.jpg" height="217" width="300" /></a> 
+ 
