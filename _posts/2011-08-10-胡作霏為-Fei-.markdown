@@ -1,0 +1,28 @@
+---
+layout: post
+title: '胡作霏為 Fei ' 
+date: 2011-08-10T04:08:50+0000 
+categories: [] 
+media:
+  - id: zYBOKCE
+    name: Vj4mz71xBAuZWDYLP2A4iQ8QZ6
+    description: 'Happy Summer Time39 x 27 CMmarker on paperShih-Efei, 2011     $US 250-- Drawn with left hand'   
+    height: 480
+    width: 640
+    type: image/jpeg
+    link: https://i.imgur.com/zYBOKCE.jpg
+    prevLoc: jmv5zG4pgAhOmllzE3njhmnqgl0mnvhwnxVKAVNouLjxn1ZOVDiqWxnpqAqkuLPNWKPYEJsRZVAYQ8qySE5vmJ2NRYf1jxZOKLpnFg4ARnm7z7fx501Bl3DNCkRVzkq3nJf6QQygL9xmi82ADllkzmcqLq14zQBkfl8q7R4z96F9AEk4YWOJIgZPn2nEN1ij54NLnpx8swAGrM7rEZSQk2v1vDgKf6M
+    parentId: Vj4mz71xBAuZWDYLP2A4iQ8QZ6
+    postId: nkL5Mjxz0ohV6MWRQJJ3Hg9kBmGMYmc9nPwVv55ys0DN65AMJVIRG
+    factor: 1.33
+    portrait: 0
+    mInfo: jofGkYTwjneXTBr
+story: '胡作霏為 Fei Fei Art added 2 new photos.'  
+---
+
+胡作霏為 Fei Fei Art added 2 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/zYBOKCE.jpg"><img src="https://i.imgur.com/zYBOKCE.jpg" height="225" width="300" /></a> 
+ 
