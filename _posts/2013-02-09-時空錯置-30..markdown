@@ -1,0 +1,36 @@
+---
+layout: post
+title: '時空錯置  30.' 
+date: 2013-02-08T16:04:41+0000 
+categories: ["acrylic","paper"] 
+media:
+  - id: YFQ1GJn
+    name: J98XKyXmk9un67VmpLqGuv974v
+    description: '時空錯置30.5 x 23 cmacrylic on paper20130208'   
+    height: 550
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/YFQ1GJn.jpg
+    prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VLAWAvILn2mlOQzyIRo7A4P193UjXk1opPD4IKMR3K2P59iAQqqyJLqDfYo2Wkmg7GUgLWQWGJRnURomK6WwW5S4Pn24pK6lsqllN0Oj7rt79kBllq5wSl94Lgg5lKhgB5yGpO75t1ALMA8XnKSYGOJLxLQWHnrRERq4y4HpOZw7vgO3HWK613jVANfP2
+    parentId: J98XKyXmk9un67VmpLqGuv974v
+    postId: EpJRNm8PE2Ij6RqZKQQ0t1NGzZYqorCkg1oj8gKBTly0kBD612sY0
+    factor: 1.31
+    portrait: 0
+    mInfo: RfjOt5mASVANONC
+story: '胡作霏為 Fei Fei Art added a new photo.'  
+message: '時空錯置  30.5 x 23 cm  acrylic on paper  20130208'  
+---
+
+時空錯置  
+30.5 x 23 cm  
+acrylic on paper  
+20130208
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added a new photo.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/YFQ1GJn.jpg"><img src="https://i.imgur.com/YFQ1GJn.jpg" height="229" width="300" /></a> 
+ 
