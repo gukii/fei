@@ -1,0 +1,28 @@
+---
+layout: post
+title: '胡作霏為 Fei ' 
+date: 2014-04-14T15:25:26+0000 
+categories: [] 
+media:
+  - id: 4TUFeRY
+    name: xr9oyWom66fX7XZQ65LqiRN86r
+    description: 'The complete " The cracked wall series"105 x 60cm'   
+    height: 438
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/4TUFeRY.jpg
+    prevLoc: BJ8OwK03X1TnKPPxqM7VhZ1gPwxZ15hGLp3Ny3E1cRAvlN63MoiOA6J7ODOjIzM17YR5BOFYn9wNALBGfZxzAJ6L2VU8qZG39AK9uAZozxYOA9CrLwMjQlnOsQ34XPg4z8cLzGnrvoYkCYlj1YxVxvtyRNw9p8BxIj0XNkPPAzfD7mJL0nnXCzPZV7zkvPCWz2xmDglktgNPmPoJDzI3OEM8Q153cWzZMwQqzmSm5jxYMlNWTwjvgZWvYJs3AlNyRAOP
+    parentId: xr9oyWom66fX7XZQ65LqiRN86r
+    postId: olM2NkVOo0hmKxwyJ77Pfv1QqOprXocO29YMAmyzHNywpw8k5DfZp
+    factor: 1.64
+    portrait: 0
+    mInfo: i3tgqxCwTJkWs53
+story: '胡作霏為 Fei Fei Art added 2 new photos.'  
+---
+
+胡作霏為 Fei Fei Art added 2 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/4TUFeRY.jpg"><img src="https://i.imgur.com/4TUFeRY.jpg" height="182" width="300" /></a> 
+ 
