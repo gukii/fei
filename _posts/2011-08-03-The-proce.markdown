@@ -1,0 +1,28 @@
+---
+layout: post
+title: 'The proce' 
+date: 2011-08-02T16:01:23+0000 
+categories: [] 
+media:
+  - id: hsv2s1K
+    name: olMYgGKEoYFmojYykWrnFO3Y3Y
+    description: 'The process of drawing this one was distressing, painful, full of anger and a sense of hopelessness -- i even thought of giving up drawing and writing and....everything else..This emotion wasn't caused from drawing itself, however. It was caused from some kind of fear and i'm still looking for the source of it.'   
+    height: 640
+    width: 480
+    type: image/jpeg
+    link: https://i.imgur.com/hsv2s1K.jpg
+    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvOLN2OqxkCMEEY3lly3HgGRR2zWAqhoZpoKrBzBI1Xj42oKnRILvxBymy55uKBmOKZpGjcXrrJQ5P2DTNOoXWWq26skp2A87XgkF0QLVBPoBPt65DADkp0PI1NrZovDO5SVqEQ2Xqv1U5MP13420PfwoJVoQ94Zf0Z
+    parentId: olMYgGKEoYFmojYykWrnFO3Y3Y
+    postId: 43lxpPQ9jqfx7L8wGpp9cPOAvVy8RVi5k44DZwnOtvGglKEPPkh1r
+    factor: 1.33
+    portrait: 1
+    mInfo: cW937IHBmCbgJuu
+message: 'The process of drawing this one was distressing, painful, full of anger and a sense of hopelessness -- i even thought of giving up drawing and writing and....everything else..This emotion wasn't caused from drawing itself, however. It was caused from some kind of fear and i'm still looking for the source of it.'  
+---
+
+The process of drawing this one was distressing, painful, full of anger and a sense of hopelessness -- i even thought of giving up drawing and writing and....everything else..This emotion wasn't caused from drawing itself, however. It was caused from some kind of fear and i'm still looking for the source of it.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/hsv2s1K.jpg"><img src="https://i.imgur.com/hsv2s1K.jpg" height="300" width="225" /></a> 
+ 
