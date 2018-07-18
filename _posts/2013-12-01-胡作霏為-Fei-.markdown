@@ -1,0 +1,28 @@
+---
+layout: post
+title: '胡作霏為 Fei ' 
+date: 2013-12-01T02:15:48+0000 
+categories: [] 
+media:
+  - id: Lh5usbp
+    name: xrlJ46VKD0cX7XDlMnQXtRBj5R
+    description: '20131121-裂牆系列--1The Cracked Wall Series --1'   
+    height: 720
+    width: 509
+    type: image/jpeg
+    link: https://i.imgur.com/Lh5usbp.jpg
+    prevLoc: 7rnYgvKPyDIRNEErMQAmTJRGrgwJRDhlErDX3Dzvcw4n18lzL5uX4j2xXlXnIREAGqyY1VuZO4KXAvJph4l9rGWl6mtr3VyLBn1LSDAQvREO9yCqnjpXlWQlUkWL0wkv3yCAJMVBAYR4FoZrpNXMmmilAkPl452WSMvWO5rnpkiV2OQjEMDyhLl3rBZWDDHqMJL133OrTYG2Wg2v7QugwO6MVVBosAoZD0QRlofrvXmz4OGYT8RW
+    parentId: xrlJ46VKD0cX7XDlMnQXtRBj5R
+    postId: Znk6lNYWxocYoOjWy338ClzB7xnQw3SEMD4llKOETZQqQrrYmDs93
+    factor: 1.41
+    portrait: 1
+    mInfo: HZyNpBVNoDzgErl
+story: '胡作霏為 Fei Fei Art added 3 new photos.'  
+---
+
+胡作霏為 Fei Fei Art added 3 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/Lh5usbp.jpg"><img src="https://i.imgur.com/Lh5usbp.jpg" height="300" width="212" /></a> 
+ 
