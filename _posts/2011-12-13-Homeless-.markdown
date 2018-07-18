@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Homeless ' 
+date: 2011-12-13T14:13:51+0000 
+categories: ["acrylic","paper"] 
+media:
+  - id: JP5H3xs
+    name: zz2NkGVwVlUrZQ1881m6ColMQB
+    description: 'Homeless Bird39 x 27 CMacrylic on paperShih-Efei, 2011     $US 200Prints are available'   
+    height: 720
+    width: 486
+    type: image/jpeg
+    link: https://i.imgur.com/JP5H3xs.jpg
+    prevLoc: jmv5zG4pgAhOmllzE3njhmnqgl0mnvhwnxVKAVNouLjxn1ZOVDiqWxnpqAqkuLPNWVxYy5I9A6zJvWrQtErn38qvKECMB3JW8g47cQ6Dz61n8VHMEYxJMVGnCv25mmW82lC9j6GmnRAguJRmyJ3k7oTDBBXjMqKktJwzgvvDKDU95qQXwlRGIWyPVAzo25sjXovlykl5sVzmgz6L65cZPQ1K2EmQsL2XnMN09VUzrgw575vLc1y
+    parentId: zz2NkGVwVlUrZQ1881m6ColMQB
+    postId: vvW2XrljyzIZyMlkoDDLtlQ7RoJroRH0NKWyzJ3OsoJl0Or8jDc3Q
+    factor: 1.48
+    portrait: 1
+    mInfo: wy1nabAHtaaXgzR
+story: '胡作霏為 Fei Fei Art added a new photo.'  
+message: 'Homeless Bird  39 x 27 CM  acrylic on paper  Shih-Efei, 2011     $US 200    Prints are available'  
+---
+
+Homeless Bird  
+39 x 27 CM  
+acrylic on paper  
+Shih-Efei, 2011    ( $US 200)  
+  
+Prints are available
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added a new photo.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/JP5H3xs.jpg"><img src="https://i.imgur.com/JP5H3xs.jpg" height="300" width="202" /></a> 
+ 
