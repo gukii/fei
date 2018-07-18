@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'Clueless ' 
+date: 2012-05-04T09:54:37+0000 
+categories: ["canvas","acrylic"] 
+media:
+  - id: M9FzS2H
+    name: zwprJRoxXNUzPQqyJNwQCorpY1
+    description: 'Clueless22.5 x 15.5 CMacrylic on canvas Shih-Efei 20120504'   
+    height: 720
+    width: 491
+    type: image/jpeg
+    link: https://i.imgur.com/M9FzS2H.jpg
+    prevLoc: ZBwv2lQ7GZIjgPP1vD5MuOP6m45OPWsGLxqNVq64cR9vZK8VYmiDAgNwDBDZTQxZKpWJGMU4WrzJjQD1cKnq81A2VoHv4KQqVvkNFmW611lz5OiqR8WqB0jGCq2lDBzWgBs2kx4496BWhYQGLYM5gjf5vvmpklRKUnqBlXXK9Qc0zKxV1P9VsqV9KWR3NRUVyjG3WLqYTwrgorQLVgf4GzARPV7mipNY8D3NXAtA5x7QOpMASAK
+    parentId: zwprJRoxXNUzPQqyJNwQCorpY1
+    postId: olM2NkVOo0hmKxwyJ77Pfv1QqOprEGcDm9mKEKEmCjPlzqxz1XtZy
+    factor: 1.47
+    portrait: 1
+    mInfo: TtJh2GWIvaqHtKq
+story: '胡作霏為 Fei Fei Art added a new photo.'  
+message: 'Clueless  22.5 x 15.5 CM  acrylic on canvas   Shih-Efei 20120504'  
+---
+
+Clueless  
+22.5 x 15.5 CM  
+acrylic on canvas   
+Shih-Efei 20120504
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added a new photo.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/M9FzS2H.jpg"><img src="https://i.imgur.com/M9FzS2H.jpg" height="300" width="204" /></a> 
+ 
