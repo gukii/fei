@@ -6,7 +6,7 @@ categories: []
 media:
   - id: Oqnusjm
     name: 54m8z0WKOjHl7Pv2EYo9uxQWYq
-    description: '20110723This was inspired by a photo i saw in ' life ' magazine, in which a tall police man was kindly bending his body helping a lost little child who looked at him with his naive tilted head. It was a black and white photo and looked ordinary, but i was touched by the love in between their bending bodies which formed a round shape between them. Then I wondered, " only when we are humble and willing to bend our body to serve others can this world be complete as a circle. But well..this drawing is completely different from the photo i saw.'   
+    description: '20110723This was inspired by a photo i saw in ' life ' magazine, in which a tall police man was kindly bending his body helping a lost little child who looked at him with his naive tilted head. It was a black and white photo and looked ordinary, but i was touched by the love ..'   
     height: 480
     width: 640
     type: image/jpeg
