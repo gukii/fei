@@ -1,0 +1,34 @@
+---
+layout: post
+title: '20130706-' 
+date: 2013-07-07T16:04:21+0000 
+categories: [] 
+media:
+  - id: XqDsTLQ
+    name: KV8B05G64qh1NkD21ow0Up7znB
+    description: '20130706-- 星空下30x22.5cm'   
+    height: 508
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/XqDsTLQ.jpg
+    prevLoc: q0V6KP4zpAI2NLLgBz8OuKr4YGkKrAHVOW6YK6wMHzy7XQ18AWinwryAnYn6h5LO024PMKhyj9MZ6JWAtGroYz3An8cv5nRk3YwysV55yOvD9lczGWYw65r9SjX58E87nEtZoWYXq4vEHxyQZXjEppSJWG1J8wAVUDxLjGl10RHnGgn9XnP6TWxn3n0DJqSZNjZrxXm2U4WrkgGm2LF4lWnW7YxkHVZ6YW3oPPtzVGLVnA2OC5MK
+    parentId: KV8B05G64qh1NkD21ow0Up7znB
+    postId: jKERGNZnjkF0ypOxk77GTwWXN1VGEDFYggVQL6ZxcnYVMArMlnhAJ
+    factor: 1.42
+    portrait: 0
+    mInfo: 55jepKV40vj2xc4
+story: '胡作霏為 Fei Fei Art added a new photo.'  
+message: '20130706-- 星空下  30x22.5cm'  
+---
+
+20130706-- 星空下  
+30x22.5cm
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added a new photo.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/XqDsTLQ.jpg"><img src="https://i.imgur.com/XqDsTLQ.jpg" height="211" width="300" /></a> 
+ 
