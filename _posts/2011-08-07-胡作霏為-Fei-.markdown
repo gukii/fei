@@ -1,0 +1,92 @@
+---
+layout: post
+title: '胡作霏為 Fei ' 
+date: 2011-08-06T16:59:01+0000 
+categories: [] 
+media:
+  - id: OFddo67
+    name: nkL5M1YZ5EiV70OWE69WImj2Zn
+    description: 'Scared Mom39 x 27 CMmarker on paperShih-Efei, 2011    $US 150'   
+    height: 720
+    width: 430
+    type: image/jpeg
+    link: https://i.imgur.com/OFddo67.jpg
+    prevLoc: 6qmG3rJOxYiWmVVRk1rosAL3vKoAL7tzAP4G74n6C3LXjw0rOGuRNQ7vRDR4tOx892xoEpHWGXqYzroWFl2N0DDY8pt13VBPwoQ6TvlY97GMo2CmX4GJNYMDh8mGA8LON0sz99o7VQN0iM1yN776AKFP58YP3z7RsYOy8jX2j8h3ODDg8m2Yt5JRE0gy4EtyEXW5L7DZf2RrMMOGR7CkNX3J8q7DcME
+    parentId: nkL5M1YZ5EiV70OWE69WImj2Zn
+    postId: 9NqrxP12oysjYoOwP55NtDogjPzKkPC2ZDYYQQWEhQEn9vx4P5fQy
+    factor: 1.67
+    portrait: 1
+    mInfo: 7wOnUiDeLW4mBtb
+  - id: MRXcL1c
+    name: gEAJB0x5JwsJAomzxMRRCEPNQ7
+    description: 'Jofen29.5 x 21 CMmarker on paperShih-Efei, 2011     $US  50 '   
+    height: 428
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/MRXcL1c.jpg
+    prevLoc: 3njEZoDLrYs4K77j3GpmHMv6jG3MvkTjMX6PZ6YWhnoOAgWGYBSXEKYxXjXRIkXVOBXqAkulLKJQXoxrigQZjooK39u9NDv7Y4NRCwWEyRWqLGhxVXBwQKL5h2BLO2NoXkhZrrYDN0yRUBzMEppoJoCnxpxq4q9Wh2qNNEEAk8f16G3ovD42hy2jDWWrz2T6vRjrkMQpT4XDxZKVE3CK2YpWWBPnTpx
+    parentId: gEAJB0x5JwsJAomzxMRRCEPNQ7
+    postId: 9NqrxP12oysjYoOwP55NtDogjPzKkPC2ZDYYQQWEhQEn9vx4P5fQy
+    factor: 1.68
+    portrait: 0
+    mInfo: ltUiM12lkR49mo5
+  - id: ujGgUZ4
+    name: yyZ8vkm2KRI3YJAE6x37fNrWpx
+    description: 'Two Angels39 x 27 CMmarker on paperShih-Efei, 2011     $US 200--This was inspired by a photo i saw in ' life ' magazine, in which a tall police man was kindly bending his body helping a lost little child who looked at him with his naive tilted head. It was a black and white photo and looked ordinary, but i was touched by the love in between their bending bodies which formed a round shape between them. Then I wondered, " only when we are humble and willing to bend our body to serve others can this world be complete as a circle. But well..this drawing is completely different from the photo i saw.'   
+    height: 480
+    width: 640
+    type: image/jpeg
+    link: https://i.imgur.com/ujGgUZ4.jpg
+    prevLoc: vBYRPX4GxmIl8OOJ127Wf45VWGm45xsry9RjlRVnS3EropJAjMuXLjD6XnXvIzB4WOBMmpFrDVXXPm0JT7QlDYrZGztXlPl8Yj2XFQBMGZyY25IqWB72p37JhQG64QZznqhO99RZPLoQiwONGDDmYVc46ZQRnrj7IzX6WDVRJqu4g1m4g44gTxpmAgNko1HnyyEKQNGPi9Bzjj0OBkcWJRKwRj0OtzM
+    parentId: yyZ8vkm2KRI3YJAE6x37fNrWpx
+    postId: 9NqrxP12oysjYoOwP55NtDogjPzKkPC2ZDYYQQWEhQEn9vx4P5fQy
+    factor: 1.33
+    portrait: 0
+    mInfo: 8pzLDXpSSt8xJhP
+  - id: Os7yvjU
+    name: 075grWp4x4UzpVrQ28ZNiO4r14
+    description: 'Pain39 x 27 CMmarker on paperShih-Efei, 2011     $US 200--The process of drawing this one was distressing, painful, full of anger and a sense of hopelessness -- i even thought of giving up drawing and writing and....everything else..This emotion wasn't caused from drawing itself, however. It was caused from some kind of fear and i'm still looking for the source of itNT$5000.'   
+    height: 640
+    width: 480
+    type: image/jpeg
+    link: https://i.imgur.com/Os7yvjU.jpg
+    prevLoc: YAQr1kP3YVc9lkkKYNL3ToZWQmNoZ5IPrwoZJoK0cvnzol3MRmHgP3OZgrgLTPGLR3G7Q9FWXqlyAgrPCBk1W5kAQKtK6zr5BqgmcpGjmZxg0Ni9GP6BN2qGI4mWL4GAwBsOkkjV3NGqi9EOGvvMgnixGxG9Go0OHxYDq9YQ6lf5mMWpM679s7zQky1O7XhE8O74jl0zc7zGRA5QX3u7n2qR88GxT8p
+    parentId: 075grWp4x4UzpVrQ28ZNiO4r14
+    postId: 9NqrxP12oysjYoOwP55NtDogjPzKkPC2ZDYYQQWEhQEn9vx4P5fQy
+    factor: 1.33
+    portrait: 1
+    mInfo: ByiD4hdDftfHJFT
+  - id: HjdPZVp
+    name: MARjVYj3z1hYo447jgKYTQ3lY2
+    description: 'Valentine39 x 27 CMmarker on paperShih-Efei, 2011   $100 '   
+    height: 480
+    width: 640
+    type: image/jpeg
+    link: https://i.imgur.com/HjdPZVp.jpg
+    prevLoc: EMZ1zNo3XKTqx11wyg3WT6Q2Kvl6QWh1DPVyGVq7s2rKlRGxP5HZpRjNZYZ3u7Xgv1X5Pzs6R0GYwDNLi3oRggrr1pfvL09E64X7IrKO0BXP4yTqWEJ6WvXAuKJryAXX8nU83nMBZGG9iYgnEBYnDrIKQ6YAJzZgt3kMO71o6rcQ35MOMlBlInpnqRL3nQSXkjmqAB3VfJoyWNpyAVuqW4xNYKZk
+    parentId: MARjVYj3z1hYo447jgKYTQ3lY2
+    postId: 9NqrxP12oysjYoOwP55NtDogjPzKkPC2ZDYYQQWEhQEn9vx4P5fQy
+    factor: 1.33
+    portrait: 0
+    mInfo: r4Pn7OF5oehkPm0
+story: '胡作霏為 Fei Fei Art added 6 new photos.'  
+---
+
+胡作霏為 Fei Fei Art added 6 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/OFddo67.jpg"><img src="https://i.imgur.com/OFddo67.jpg" height="300" width="179" /></a> 
+  
+
+<a href="https://i.imgur.com/MRXcL1c.jpg"><img src="https://i.imgur.com/MRXcL1c.jpg" height="178" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/ujGgUZ4.jpg"><img src="https://i.imgur.com/ujGgUZ4.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/Os7yvjU.jpg"><img src="https://i.imgur.com/Os7yvjU.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/HjdPZVp.jpg"><img src="https://i.imgur.com/HjdPZVp.jpg" height="225" width="300" /></a> 
+ 
