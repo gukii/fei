@@ -1,0 +1,34 @@
+---
+layout: post
+title: '20140829 ' 
+date: 2014-08-29T15:28:23+0000 
+categories: ["canvas","acrylic"] 
+media:
+  - id: ihQ48Ru
+    name: 8DOWwvAWwwIg9xJRwl6YsoYBQG
+    description: '20140829  Burning FallAcrylic on canvas'   
+    height: 597
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/ihQ48Ru.jpg
+    prevLoc: jmv5zG4pgAhOmllzE3njhmnqgl0mnvhwnxVKAVNouLjxn1ZOVDiqWxnpqAqkuLPNWVxYy5I9A6zJvWrQtWMnvRn36oH1Z33LGKnkhQWolKJqOPIxo9XN3L69uEp9DkK8m3S9jv7yxxgDCwpVPnvLA6IqQ0PJv2NWcODyv9lz4jfQPYvkEQ4qTAwB7vxNG0ijXjEJ7NYluwB62ZyNPMi9JQXjPK5PSL73WkJjgjSvMLlzo0B7CDW2Q5rmG9SDv0KWon7
+    parentId: 8DOWwvAWwwIg9xJRwl6YsoYBQG
+    postId: xxYkZwnlABcjQrXWK22RtV8zORLX60cBpj5y7QgMf7v8n3kj58soL
+    factor: 1.21
+    portrait: 0
+    mInfo: WTQuJGH56FiooNm
+story: '胡作霏為 Fei Fei Art added a new photo.'  
+message: '20140829  Burning Fall  Acrylic on canvas'  
+---
+
+20140829  Burning Fall  
+Acrylic on canvas
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added a new photo.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/ihQ48Ru.jpg"><img src="https://i.imgur.com/ihQ48Ru.jpg" height="248" width="300" /></a> 
+ 
