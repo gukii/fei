@@ -1,0 +1,29 @@
+---
+layout: post
+title: '20120224-' 
+date: 2012-02-24T09:16:40+0000 
+categories: ["water","paper"] 
+media:
+  - id: JDH6Yo2
+    name: mjLg4PYlQZiMnK7x67PYCQRp5O
+    description: '20120224-- freedomwater colors on paper'   
+    height: 523
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/JDH6Yo2.jpg
+    prevLoc: WywpYgN3KWS4qzz13P5jH7plr437pGSVAjrxkrn8HN2V91DAg3tlLKJrl0l1tqXJ0Yj97DtRwGk47rqLU4j00LvOgJhYwPZMDApOikwXLBwR32cpvkQ00yvMIl1RRMOwl9h61XpEr4vkIEWYlLkkznuEvW0ym11gs3GA743AKKS27QA6PL75U3vokLkAyQsLmwjnN0JDCmk4rGZ8oXi1ANzN4O24hQNX5ZGX9vS0jDxvgYxR
+    parentId: mjLg4PYlQZiMnK7x67PYCQRp5O
+    postId: EpJRNm8PE2Ij6RqZKQQ0t1NGzZYqZgcv0Yo22DlKslJrg4QvjVFvg
+    factor: 1.38
+    portrait: 0
+    mInfo: MCyIie2dhLJTuk2
+message: '20120224-- freedom  water colors on paper'  
+---
+
+20120224-- freedom  
+water colors on paper
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/JDH6Yo2.jpg"><img src="https://i.imgur.com/JDH6Yo2.jpg" height="217" width="300" /></a> 
+ 
