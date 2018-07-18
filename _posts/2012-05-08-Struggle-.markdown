@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'Struggle ' 
+date: 2012-05-08T08:37:15+0000 
+categories: ["crayon","paper"] 
+media:
+  - id: H2reQHN
+    name: 7B3EK905ALiYW3YoElWQcqy2Am
+    description: 'Struggle53.5 x 38.7 CMcrayon on paper20120508   $US 150'   
+    height: 515
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/H2reQHN.jpg
+    prevLoc: jmv5zG4pgAhOmllzE3njhmnqgl0mnvhwnxVKAVNouLjxn1ZOVDiqWxnpqAqkuLPNWVxYy5I9A6zJvWrQtWNgEzq0pyFMBW8LGkyQiQ62EpOmzlCMnN5DQExJtv142Yo5rnS9Rl7OrJgLuJVMovQQ3PiDLWxGjPPJIJ1XP9JwXMC3YjMRDKvkfgVgrGO9qpu03BxPJV4lHV3LkVlWZ1tqZmmvvzNGh7NPBmQPvJczm0BBwONP
+    parentId: 7B3EK905ALiYW3YoElWQcqy2Am
+    postId: jKERGNZnjkF0ypOxk77GTwWXN1VGgDcYWv86gkwPIn3RRKBVgpuAB
+    factor: 1.40
+    portrait: 0
+    mInfo: P4ygjjnH24JdeMb
+story: '胡作霏為 Fei Fei Art added a new photo.'  
+message: 'Struggle  53.5 x 38.7 CM  crayon on paper  20120508   $US 150'  
+---
+
+Struggle  
+53.5 x 38.7 CM  
+crayon on paper  
+20120508  ( $US 150)
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added a new photo.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/H2reQHN.jpg"><img src="https://i.imgur.com/H2reQHN.jpg" height="214" width="300" /></a> 
+ 
