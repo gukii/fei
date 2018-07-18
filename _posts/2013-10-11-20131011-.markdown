@@ -1,0 +1,33 @@
+---
+layout: post
+title: '20131011-' 
+date: 2013-10-11T14:50:48+0000 
+categories: [] 
+media:
+  - id: riqfx11
+    name: 6A0Ov4k7YxiJqR5oNA5pcxwVv1
+    description: '20131011--相遇'   
+    height: 602
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/riqfx11.jpg
+    prevLoc: OnELN1B3XJsOx55DY0pAhz5BYQ4z57s4VjyzBy9xumZ9q5NzQYirP8BnrXrmiD6KlBLZG0c6n7K5AJEOTn3oKm99KRCVOnw5pgp4C7K4DPwpz0soqqn4Wzn7TWYnZG9OPKfwMjg941VJIwRANQ442Ef56YOL4nnRIngw81nwOgUwk8AjPEExhZxQ8xY4mxHNGKAzO580C2r5JkqVPyIgq4zq3MQvI23YZAXYKPFxD9kA261r
+    parentId: 6A0Ov4k7YxiJqR5oNA5pcxwVv1
+    postId: YmjEkNWMwnuX6G9yPzzpi80LRMnzPzSA6qkp80gqT7M53PA4K2iro
+    factor: 1.20
+    portrait: 0
+    mInfo: KWunCDbRO5E5Amv
+story: '胡作霏為 Fei Fei Art added a new photo.'  
+message: '20131011--相遇'  
+---
+
+20131011--相遇
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added a new photo.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/riqfx11.jpg"><img src="https://i.imgur.com/riqfx11.jpg" height="250" width="300" /></a> 
+ 
