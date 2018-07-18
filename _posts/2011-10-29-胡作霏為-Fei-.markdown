@@ -1,0 +1,28 @@
+---
+layout: post
+title: '胡作霏為 Fei ' 
+date: 2011-10-28T18:33:46+0000 
+categories: [] 
+media:
+  - id: yA1l06B
+    name: 1NgW2L88RBSXj3V6Mj3LIYKg3M
+    description: 'R.I.P Aunty39 x 27 CMacrylic on paperShih-Efei, 2011     $US 500'   
+    height: 475
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/yA1l06B.jpg
+    prevLoc: PoMgO2D3K6C6XvvBgoK4CMrpQOKMr5TpwBv2lvK5ImPnkYzJ6Zi2Jr7j2p28ulpOR069MqIMNRWJq5j9tDo0OpGQqoflMnDojjR8twOoY6XBooFzJK8GW15lTGqOBNyBzBHn6BGV0m0kF0BDp03PX4hmqqAGVBMPt70WKzzOYoiy8rlrK6yRH3WPM8vVO7HpoxBD3R0MfB0XjAy4G0i2OK827LpLsVyn5JmGqBCYEB44ZyD5ugp
+    parentId: 1NgW2L88RBSXj3V6Mj3LIYKg3M
+    postId: olM2NkVOo0hmKxwyJ77Pfv1QqOprZ2tDqW45128BSNyzjL6vy8CZG
+    factor: 1.52
+    portrait: 0
+    mInfo: o5tLIF4hi72KpAv
+story: '胡作霏為 Fei Fei Art added 2 new photos.'  
+---
+
+胡作霏為 Fei Fei Art added 2 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/yA1l06B.jpg"><img src="https://i.imgur.com/yA1l06B.jpg" height="197" width="300" /></a> 
+ 
