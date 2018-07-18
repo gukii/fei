@@ -1,0 +1,28 @@
+---
+layout: post
+title: '胡作霏為 Fei ' 
+date: 2011-11-30T14:22:07+0000 
+categories: [] 
+media:
+  - id: trlCZcq
+    name: olN9j290oJSmKogoB1wnFOj75Z
+    description: 'Aliens39 x 27 CMmarker on paperShih-Efei, 2011      $US 100'   
+    height: 720
+    width: 504
+    type: image/jpeg
+    link: https://i.imgur.com/trlCZcq.jpg
+    prevLoc: 8voWjwLQzXukqOOm3z6jcpwx4Q7pwrTG4APkgP3xcJA0r2z68wS8wYyv878xI8w9k6GpV1uZgG0KDzO4hz1lkMNx7qu04ZyEm25qCxAJK40qyMcPmojorzmGsKOExRrJGQhDAVOg5AljSwypqOnn2WfkqvEJw77AFY31qQYv0PUWwBqyBoXWUplyZ8ONnnFqNDN0oj0gtpqGY12vVgUy3ql7NK4nU813JOP3RvcYJwXN1kMV
+    parentId: olN9j290oJSmKogoB1wnFOj75Z
+    postId: AlBDJgNmz2h517RDMvvli0GEzQZ1QDs83jXz7E18IRqRzkzAxztBR
+    factor: 1.43
+    portrait: 1
+    mInfo: TWSD58gUMv1QWKh
+story: '胡作霏為 Fei Fei Art added 2 new photos.'  
+---
+
+胡作霏為 Fei Fei Art added 2 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/trlCZcq.jpg"><img src="https://i.imgur.com/trlCZcq.jpg" height="300" width="210" /></a> 
+ 
