@@ -1,0 +1,28 @@
+---
+layout: post
+title: '胡作霏為 Fei ' 
+date: 2013-11-29T14:44:33+0000 
+categories: [] 
+media:
+  - id: AdbGtp9
+    name: mj1lzqzz49cqjnxmQLKDH99OXJpyR
+    description: '裂牆系列1+2'   
+    height: 522
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/AdbGtp9.jpg
+    prevLoc: zJBQW2jM4qTrq88XDxMRTzwrJ93zwPsZKMAz7ANlcVLvw31oxkHWo06gW9WZFR7L582x1qu68m7KOYxnTon8j4KqZkUWmp3Lk9Rps3vDnNOJpqsJGzjW3OjYiD2BjVEoxNUZWmkQN4jlUZnqE5mAAof9rv3ZXQoYUY0W9BLQBgfMyP3Oy6rBFql0VX84ZmCmP72mOX7yf0Eyy6yow5uqwXOgqDAlTYKMLnDnD4fm835YjJXqt2Q4yP
+    parentId: mj1lzqzz49cqjnxmQLKDH99OXJpyR
+    postId: NBVkZyL8g2FpMv6g122PfvmQkrJpLPfBQ1nmxOMpCGmo850Lq5hWJ
+    factor: 1.38
+    portrait: 0
+    mInfo: tfBMxRBgpyaUWP9
+story: '胡作霏為 Fei Fei Art shared your photo.'  
+---
+
+胡作霏為 Fei Fei Art shared your photo.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/AdbGtp9.jpg"><img src="https://i.imgur.com/AdbGtp9.jpg" height="217" width="300" /></a> 
+ 
