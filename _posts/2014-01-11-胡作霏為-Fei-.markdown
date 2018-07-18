@@ -1,0 +1,28 @@
+---
+layout: post
+title: '胡作霏為 Fei ' 
+date: 2014-01-11T14:38:30+0000 
+categories: [] 
+media:
+  - id: 9bsnj0e
+    name: 9E2kk2nWlkhOlDQ4jpRnCPplX7
+    description: '裂牆系列4+5'   
+    height: 720
+    width: 256
+    type: image/jpeg
+    link: https://i.imgur.com/9bsnj0e.jpg
+    prevLoc: PoMgO2D3K6C6XvvBgoK4CMrpQOKMr5TpwBv2lvK5ImPnkYzJ6Zi2Jr7j2p28ulpOR069MqIMNRWJq5j9trW07AgVYwcExlnABL2zhkE1OQNR9NIz9xxAy6v6UgwM26jw6OI9LmngVQ1Nu0PDAwMyJXimqkj0nmVOsrQ4XPZMMniklJnD50rOHXVQJp22pBc6MDz3X0LJuPpQ7K6MvVF2D7q230MWSywzKYnZlmH0nVXMmN6
+    parentId: 9E2kk2nWlkhOlDQ4jpRnCPplX7
+    postId: xxYkZwnlABcjQrXWK22RtV8zORLX9mCByqPzJzB6skRprAV3ERIoL
+    factor: 2.81
+    portrait: 1
+    mInfo: WGdgImsCYuu8H8f
+story: '胡作霏為 Fei Fei Art added 2 new photos.'  
+---
+
+胡作霏為 Fei Fei Art added 2 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/9bsnj0e.jpg"><img src="https://i.imgur.com/9bsnj0e.jpg" height="300" width="106" /></a> 
+ 
