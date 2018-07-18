@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'Cracked W' 
+date: 2014-03-07T15:47:18+0000 
+categories: ["wall"] 
+media:
+  - id: A7d8FYb
+    name: vpDYY0Y1QPUZvvPBppGOuo04Xn
+    description: 'Cracked Wall series--8'   
+    height: 720
+    width: 504
+    type: image/jpeg
+    link: https://i.imgur.com/A7d8FYb.jpg
+    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvOLNyQqAlT769yJK4k8SDlyzwZKm3tonWL2564pFypJkxZ5JKiLWEk9zGKruVP45GwpqoSpVGZLlyzBHNYvPzW4wwiyj1Py302WT0KxYjyXp4tRVkYpQP9DsVlWqnzPqkC34wKNB9pohojZOOr1WWF6WoJOLY5kS1pjnrpYwof9PZoPnAWYcjwO
+    parentId: vpDYY0Y1QPUZvvPBppGOuo04Xn
+    postId: PE0N2A7Yk9Cn5y6Lq77NtgzLN67PMjf01wommVADskvm8NXo9niMR
+    factor: 1.43
+    portrait: 1
+    mInfo: nvtZb5h9UDbvg49
+story: '胡作霏為 Fei Fei Art added a new photo.'  
+message: 'Cracked Wall series--8'  
+---
+
+Cracked Wall series--8
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added a new photo.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/A7d8FYb.jpg"><img src="https://i.imgur.com/A7d8FYb.jpg" height="300" width="210" /></a> 
+ 
