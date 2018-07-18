@@ -1,0 +1,33 @@
+---
+layout: post
+title: '20130304 ' 
+date: 2013-03-04T15:09:02+0000 
+categories: [] 
+media:
+  - id: jAvEHSy
+    name: N6O1ZkNLB9HpM5x4gmAzCrPRKV
+    description: '20130304 --'   
+    height: 547
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/jAvEHSy.jpg
+    prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VLAWAvILn2mlOQzyIRo7A4P193UjEx4PvAoQFKMR3nOK5MiAqgnz10KoiY9wQGnmDgHorBZDJPrwHg3vG5EpB5c4Pn24pK6lsqllN0Oj7rt79kBllq5xTZPlKjxzw9Tj3rQg8jnlCNyjKE27QncX9k6MzQqrul0Ojn6Rj7C5LkyyX3LWhWK1zRml4Xcv3
+    parentId: N6O1ZkNLB9HpM5x4gmAzCrPRKV
+    postId: 6Nn8r4X0lvsJGQW4xnn0u4przxRN1XSkZnk4VpV4FjXw3A5MqyiWq
+    factor: 1.32
+    portrait: 0
+    mInfo: DfrbX3Y2PHP7Vl3
+story: '胡作霏為 Fei Fei Art added a new photo.'  
+message: '20130304 --'  
+---
+
+20130304 --
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added a new photo.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/jAvEHSy.jpg"><img src="https://i.imgur.com/jAvEHSy.jpg" height="227" width="300" /></a> 
+ 
