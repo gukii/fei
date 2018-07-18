@@ -1,0 +1,29 @@
+---
+layout: post
+title: '樹的冥想  201' 
+date: 2015-08-04T03:23:36+0000 
+categories: [] 
+media:
+  - id: iddcj27
+    name: Z9D0PZr999hYG86Xmy1oCxQnL3
+    description: ''   
+    height: 720
+    width: 450
+    type: image/jpeg
+    link: https://i.imgur.com/iddcj27.jpg
+    prevLoc: WywpYgN3KWS4qzz13P5jH7plr437pGSVAjrxkrn8HN2V91DAg3tlLKJrl0l1tqXJ0Yj97DtRwGk47rqLUw5lXEokpNSRzgDjkQmOUkLLXkBj6QspXP2D6k38CgR7LEynLAFo8RpnRxOosM3DDG363MiKwlMv0kRmskxo7zqqZVtEpl7Xm22McZWOG4ZRKqIMrWA1J3MDHL33DvoEQGI1M4x8KkOmS7R1L79PWJHGO8RyG0y7H4EAGxDAZmIjxVOQM9YX
+    parentId: Z9D0PZr999hYG86Xmy1oCxQnL3
+    postId: olM2NkVOo0hmKxwyJ77Pfv1QqOprLYFDqLpADWYgFNYPwlOM5AiDQ
+    factor: 1.60
+    portrait: 1
+    mInfo: 3hvyppiOmXK6e9H
+message: '樹的冥想  20150803'  
+---
+
+樹的冥想  
+20150803
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/iddcj27.jpg"><img src="https://i.imgur.com/iddcj27.jpg" height="300" width="187" /></a> 
+ 
