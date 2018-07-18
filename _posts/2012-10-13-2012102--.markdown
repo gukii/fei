@@ -1,0 +1,59 @@
+---
+layout: post
+title: '2012102--' 
+date: 2012-10-12T21:52:09+0000 
+categories: ["canvas","acrylic"] 
+media:
+  - id: j5pvjZM
+    name: wqpYJ0xW10tN10Ool785s1yYYn
+    description: '2012102-- Disorientedacrylic on canvas30.5 x 23 cmSometimes I wonder where i've beenwho i amdo i fit in  i may have wingsbut i can't be sureout hereon my own'   
+    height: 439
+    width: 585
+    type: image/jpeg
+    link: https://i.imgur.com/j5pvjZM.jpg
+    prevLoc: zJBQW2jM4qTrq88XDxMRTzwrJ93zwPsZKMAz7ANlcVLvw31oxkHWo06gW9WZFR7L5OXAj8c4VVRP3Zk6FoZ2V0YYWPSwBDzYEYnrC3ZrqWZY9RiJVNvDNP79HDn1Bz818DHZMPK3837zCYnOpxqBnRfRpqZzJzEwsDB980N3NlCvVBWz6W5Xtq09VrxYlnIALWm34BZDIpY1pOv0xyCq7m388kQmF1jqQvw
+    parentId: wqpYJ0xW10tN10Ool785s1yYYn
+    postId: GrL6Pov9J2T9Lj8zoVVOH6Kz3kjEX5iWOnxLggJEUmJNNN3Zppf0L
+    factor: 1.33
+    portrait: 0
+    mInfo: iBMmQfhobVVSoeP
+  - id: mf1RQcR
+    name: rlkQA2pO12tONj59r0DpsjYZog
+    description: '20120929 Welcome home peacocks'   
+    height: 480
+    width: 640
+    type: image/jpeg
+    link: https://i.imgur.com/mf1RQcR.jpg
+    prevLoc: PoMgO2D3K6C6XvvBgoK4CMrpQOKMr5TpwBv2lvK5ImPnkYzJ6Zi2Jr7j2p28ulpORonVGoSrEVkk1NvWTDA84DnngLizDV7RRvl5I1X7QrgBwvU4O65Q5886u1O2gkjLLVTmkwnB6OZVHKPZwG9OGASBkz4JL8ngh78YD6AYgvCkloXkx1qnS3MEPDB6NwCYARzvGRD5hE0gPglXG7fJk4OVg51lSB2oz8
+    parentId: rlkQA2pO12tONj59r0DpsjYZog
+    postId: GrL6Pov9J2T9Lj8zoVVOH6Kz3kjEX5iWOnxLggJEUmJNNN3Zppf0L
+    factor: 1.33
+    portrait: 0
+    mInfo: lnZddpx0YMIVm1z
+story: '胡作霏為 Fei Fei Art added a new photo.'  
+message: '2012102-- Disoriented  acrylic on canvas  30.5 x 23 cm    Sometimes I wonder where i've been  who i am  do i fit in    i may have wings  but i can't be sure  out here  on my own'  
+---
+
+2012102-- Disoriented  
+acrylic on canvas  
+30.5 x 23 cm  
+  
+Sometimes I wonder where i've been  
+who i am  
+do i fit in  
+  i may have wings  
+but i can't be sure  
+out here  
+on my own
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added a new photo.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/j5pvjZM.jpg"><img src="https://i.imgur.com/j5pvjZM.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/mf1RQcR.jpg"><img src="https://i.imgur.com/mf1RQcR.jpg" height="225" width="300" /></a> 
+ 
