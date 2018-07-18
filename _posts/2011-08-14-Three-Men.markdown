@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'Three Men' 
+date: 2011-08-13T16:56:51+0000 
+categories: ["water","paper"] 
+media:
+  - id: 9pPcEFL
+    name: 1NgrGpmKjvIXEzwKYkg3iY3YmD
+    description: 'Three Men Gossiping 39 x 27 CMwater color on paperShih-Efei, 2011     $US 150'   
+    height: 480
+    width: 640
+    type: image/jpeg
+    link: https://i.imgur.com/9pPcEFL.jpg
+    prevLoc: PoMgO2D3K6C6XvvBgoK4CMrpQOKMr5TpwBv2lvK5ImPnkYzJ6Zi2Jr7j2p28ulpORop9p3HrokJmgrMQsrYzvjxR7JizD1OAA2rwswGRrrKXvpI4nMy3Pn5wh1pYo1Z4WJum887MGnWrtl6yRAAPL4hB9rAnRVJ0tg0XKxAw8JUkZ77NXNAZFkVA42kV3YsMkpW7AQGMuPGBmZL4k7U73Dl33Y3ETn2
+    parentId: 1NgrGpmKjvIXEzwKYkg3iY3YmD
+    postId: YmjEkNWMwnuX6G9yPzzpi80LRMnz7ZsAvn3gRl93FoDnVKKX8QCy8
+    factor: 1.33
+    portrait: 0
+    mInfo: ptY6ByrUhK3oin6
+story: '胡作霏為 Fei Fei Art added a new photo.'  
+message: 'Three Men Gossiping   39 x 27 CM  water color on paper  Shih-Efei, 2011     $US 150'  
+---
+
+Three Men Gossiping   
+39 x 27 CM  
+water color on paper  
+Shih-Efei, 2011    ( $US 150)
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added a new photo.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/9pPcEFL.jpg"><img src="https://i.imgur.com/9pPcEFL.jpg" height="225" width="300" /></a> 
+ 
