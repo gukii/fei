@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'The crack' 
+date: 2014-02-21T16:08:27+0000 
+categories: ["wall"] 
+media:
+  - id: yqsRqnD
+    name: 8D9p2OjYNgigE5qy66nqIo6vgj
+    description: 'The cracked wall series 7'   
+    height: 720
+    width: 505
+    type: image/jpeg
+    link: https://i.imgur.com/yqsRqnD.jpg
+    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvOLNyQqAlT769yJK4k8SDlyz4LYG4CLVJ3Rv6NRCyRE21K7VOuO6BnrZE99UV0nW4WMJPsPmjpojk2QUNYvPzW4wwiyj1Py302WT0KxYjyXp4t5GzBBkyGgSWn7Nzxz7xF3ZG0Y7k6zSojGPz87P0c6W9wJoXBDfK5vk7GPQJS9PZoPKg0pHyQL
+    parentId: 8D9p2OjYNgigE5qy66nqIo6vgj
+    postId: KyPrWv16N2Ckr31R0jjMiZMzPpLNlwCN8MmPzD0PCxB8mOXQQRfoN
+    factor: 1.43
+    portrait: 1
+    mInfo: p1fHWGl0TaPsoBc
+story: '胡作霏為 Fei Fei Art added a new photo.'  
+message: 'The cracked wall series 7'  
+---
+
+The cracked wall series 7
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added a new photo.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/yqsRqnD.jpg"><img src="https://i.imgur.com/yqsRqnD.jpg" height="300" width="210" /></a> 
+ 
