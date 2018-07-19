@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Painting " 
+title: 'Painting ' 
 date: 2018-05-30T03:33:35+0000 
 categories: [] 
 media:
   - id: 4wUmmDJ
     name: W057Go05Z3t4Mkq6vKlxi5X0gBE
-    description: "Painting But not alone. I'm with my inspiration ."   
+    description: 'Painting But not alone. I'm with my inspiration .'   
     height: 540
     width: 720
     type: image/jpeg
@@ -17,7 +17,7 @@ media:
     factor: 1.33
     portrait: 0
     mInfo: O0IorpzVgMbiSNJ
-message: "Painting   But not alone.   I'm with my inspiration ."
+message: 'Painting   But not alone.   I'm with my inspiration .'  
 ---
 
 Painting   
@@ -26,5 +26,10 @@ I'm with my inspiration .
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/4wUmmDJ.jpg"><img src="https://i.imgur.com/4wUmmDJ.jpg" height="225" width="300" /></a> 
- 
+ <ul> 
+<li><a href="https://i.imgur.com/4wUmmDJ.jpg"><img class="postImage" src="https://i.imgur.com/4wUmmDJh.jpg" /></a> 
+Painting 
+But not alone. 
+I'm with my inspiration .
+ <br/></li>
+</ul> 
