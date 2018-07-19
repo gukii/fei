@@ -6,7 +6,7 @@ categories: []
 media:
   - id: N3YsRV7
     name: gEAL3MyYM8TJgjq9XxMXh9nv8go
-    description: '＜對話。對畫＞個案１１;Vita時間;２０１８０520地點;胡作霏為工作室-------------------------------..'   
+    description: '＜對話。對畫＞個案１１;Vita時間;２０１８０520地點;胡作霏為工作室..'   
     height: 720
     width: 511
     type: image/jpeg
