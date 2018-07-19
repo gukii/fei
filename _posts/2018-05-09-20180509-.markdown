@@ -3,7 +3,7 @@ layout: post
 title: '20180509 ' 
 date: 2018-05-09T12:51:16+0000 
 categories: [] 
-media:[]
+media: []
 story: '胡作霏為 Fei Fei Art updated their status.'  
 message: '2018050'
 ---
