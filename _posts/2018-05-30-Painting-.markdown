@@ -6,7 +6,7 @@ categories: []
 media:
   - id: 4wUmmDJ
     name: W057Go05Z3t4Mkq6vKlxi5X0gBE
-    description: 'Painting But not alone. I'm with my inspiration .'   
+    description: 'Painting   But not alone.   I'm with my inspirat..'   
     height: 540
     width: 720
     type: image/jpeg
