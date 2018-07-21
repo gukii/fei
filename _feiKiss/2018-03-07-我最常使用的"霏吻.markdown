@@ -1,0 +1,88 @@
+---
+layout: post
+title: '我最常使用的"霏吻' 
+date: 2018-03-07T14:18:05+0000 
+categories: [] 
+media:
+  - id: 8mzEn4F
+    name: 9ErRjy5GD5sj1M3oqN1ktPJ08G
+    description: ''   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/8mzEn4F.jpg
+    prevLoc: KjYzJWx37Ah1W88QKB2qugG8kDRgG0hmJK1wB15VFYMmPJvBLkfk1wWKkZkOIBG14wYyNouvVJKgMyXRFJxJYQPWknCKZX4Dz8DoCEN683ljPmtlD70zY72vURogqjrABmc4WrrjkOmnfnLmDOxJEoUNA2qLOyk4cRqV3xEEL2fO0r2pN66MhXyvWJXMx6sLYoVEZAZGF0Yl3l8kmAsL4jpKVBP8t9yWM4KnLZhmZm6AYLyzfxgML8WMZPHq8m78NKLo
+    parentId: l9Yj0mnX2nUljxzlRJJBf1QQVE
+    postId: MAYAkKrQ9rFJ1ylKl36guM6VP6K2vPfrw3OknOJNfX3nZnnJ2MuQY
+    factor: 1.00
+    portrait: 0
+    mInfo: LTNB62LW3XBTMmy
+  - id: GImg9QY
+    name: 1vwxMn8EG8iXlZoBzQw3tYEE4k
+    description: ''   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/GImg9QY.jpg
+    prevLoc: DLY6yMn3ZwIxAjj7pn5Bszk0vGPzkYsmw1ZRGZOYFrLK42NEWRHEGNZmEnE3TNg3J5x67Yum7xngEo5jiWkWxJnZ7ziL2kjWLkp4FBOwDmYZvJFXQAJw2YyjSRBEJ8k6vKFyEqv6zG69fZ5R4JXBVmiQZjW4WwOxIkozBX007QtnlN2Lorr5hnw2V7nD5qSVwWAY0O5AHYrM8AE0Q1uWX5ABlDo8UBx9vy1ZZWTgBPx6RX8wCZ6xDolxgGuPgMoVZWER
+    parentId: l9Yj0mnX2nUljxzlRJJBf1QQVE
+    postId: MAYAkKrQ9rFJ1ylKl36guM6VP6K2vPfrw3OknOJNfX3nZnnJ2MuQY
+    factor: 1.00
+    portrait: 0
+    mInfo: saRJx2m0JcH2K3r
+  - id: pdlzBUb
+    name: 1vwxMn8EG8iXlXQ3My2VcYKgWl
+    description: ''   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/pdlzBUb.jpg
+    prevLoc: WywpYgN3KWS4qzz13P5jH7plr437pGSVAjrxkrn8HN2V91DAg3tlLKJrl0l1tqXJ0YLWPNURwGk47rqLUwGwNk7NBLhnmnmyJm8LTkwjxBMOZwUGkOvymQrMUgRRqP7OyWForyW3ZN4pcvgzZ9LN4JSK0QJj0KKpckxo7zqqZVtEpl7Xm22McZWOG4ZODyHL2ZDggAnxhLrrQ7oDLXT9rXAJANAYhmpqL660JQUEpm08pRJ0S4EAGxDAZmIjVWAyXW1o
+    parentId: l9Yj0mnX2nUljxzlRJJBf1QQVE
+    postId: MAYAkKrQ9rFJ1ylKl36guM6VP6K2vPfrw3OknOJNfX3nZnnJ2MuQY
+    factor: 1.00
+    portrait: 0
+    mInfo: 0PPoE4sJgFjOZVF
+  - id: YRNySSr
+    name: DVkpx256Q5tZyLmoRMp3clXlxL
+    description: ''   
+    height: 416
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/YRNySSr.jpg
+    prevLoc: YAQr1kP3YVc9lkkKYNL3ToZWQmNoZ5IPrwoZJoK0cvnzol3MRmHgP3OZgrgLTPGLRq07M4uWMK85mzVQf898l9lvnRfomyLLQvoAULXOQ7x9E8S9ozopmly3sQo7YPMX42Szk8rqwmnBTk0RQpjpVjTxwEj6rDNgI4Pr9BKKV1S7gxm2q55JT75pBN7pGGsAlp0g1lQntRgj8yr5Z1uj8D3P3LO3iQ076q9N45fJXw4EQRwNsYq30Gm3E6C4MnkOEGln
+    parentId: l9Yj0mnX2nUljxzlRJJBf1QQVE
+    postId: MAYAkKrQ9rFJ1ylKl36guM6VP6K2vPfrw3OknOJNfX3nZnnJ2MuQY
+    factor: 1.73
+    portrait: 0
+    mInfo: s8DdfNnCMSWN1Ov
+story: '霏吻Fei-Kiss added 4 new photos.'  
+message: '我最常使用的"霏吻5".  低調的大地色系，帶點咖啡暗紅色澤，適合唇色不深，喜歡穩重感的你。    成分;天然蜜蠟，堪蠟，可可脂，有機篦..'  
+---
+
+我最常使用的"霏吻#5".  
+低調的大地色系，帶點咖啡暗紅色澤，適合唇色不深，喜歡穩重感的你。  
+  
+成分:天然蜜蠟，堪蠟，可可脂，有機篦麻油，橄欖油，食用色素，薰衣草精油。  
+  
+#純天然唇膏不含防腐劑  
+#純手工少量製作與您分享  
+#分享價一只450
+ 
+ 
+[//]: #story:
+霏吻Fei-Kiss added 4 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/8mzEn4F.jpg"><img class="postImage" src="https://i.imgur.com/8mzEn4Fh.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/GImg9QY.jpg"><img class="postImage" src="https://i.imgur.com/GImg9QYh.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/pdlzBUb.jpg"><img class="postImage" src="https://i.imgur.com/pdlzBUbh.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/YRNySSr.jpg"><img class="postImage" src="https://i.imgur.com/YRNySSrh.jpg" />  
+</a>   
