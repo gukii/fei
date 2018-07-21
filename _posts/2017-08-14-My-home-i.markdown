@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "My home i" 
+title: 'My home i' 
 date: 2017-08-14T15:11:52+0000 
-categories: [] 
+categories: ["gallery"] 
 media:
   - id: RE8kRP3
     name: JxO6VryV4lIoq62E712wFJZBDE4
-    description: ""   
+    description: ''   
     height: 405
     width: 720
     type: image/jpeg
@@ -17,74 +17,9 @@ media:
     factor: 1.78
     portrait: 0
     mInfo: gmYzgsb5g2SH2ds
-  - id: EBw7gPg
-    name: W056gXLgxms85nlM0OVOt5MVOXO
-    description: ""   
-    height: 441
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/EBw7gPg.jpg
-    prevLoc: Vx5oX8M32JTZy00VB5xlhPkoxwBPkYFR5qK4rK83c5xVBj6n8vI6Yjxq656Du2nXZNjB4WTy3RLnGEXmtWAqkrWN4wTGkzmlN0GQSrA1qPrWnpsvL85v19JpcJnoA1KOq7sVWPNG5L5jT5KWQ2mEBPT1j470NYGGc0Vj4w33mqCvJGKr977RFEVAxkEAoZugpNzl694kFBgV0RLrj2FAMWo0ZJ3LIrVklZ04YNiq2E9PD9oWUr1XNV4XRKIKw4o7RXGg
-    parentId: KyPrWv1WgmUkrxMyyzzKS18jO9W
-    postId: EpJRNm8PE2Ij6RqZKQQ0t1NGzZYqmPukG05jXvB3ulKR2Pkl39sXJr
-    factor: 1.63
-    portrait: 0
-    mInfo: Iyvyfrf13puUoPV
-  - id: fKEibsY
-    name: nkL5MjxM28sV7RROmvRlfyAOrmz
-    description: ""   
-    height: 405
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/fKEibsY.jpg
-    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnAqPqMuAGo2Eq18ZS41W0N5ZGwcor2L0oPAGI6p6m1V6OkiE3v8YElM9UrqvL9gY3otJ8k4jzMxKT8PzyyVjPyCR6GMEwNEASQyD875DzpcNlMLNZgYmF7GGzZ0YvQH9Pp4DD2j2ULPNOyvxRkTlJGyLBR53iKLZnRom4RSA9DjpO1P7cjW17pZXEkcB86rrLY8Pi2LX18WxWAiNR
-    parentId: KyPrWv1WgmUkrxMyyzzKS18jO9W
-    postId: EpJRNm8PE2Ij6RqZKQQ0t1NGzZYqmPukG05jXvB3ulKR2Pkl39sXJr
-    factor: 1.78
-    portrait: 0
-    mInfo: Q0yABXBSTn2qAWa
-  - id: zxBGDxy
-    name: yyZP1xo1qMU3rB8MWvkYc320rkG
-    description: ""   
-    height: 405
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/zxBGDxy.jpg
-    prevLoc: 4okV1p0MvWC85YYZPmBJSrMK5nlrMwuJQLxDGxgyF1VqyLJ3pGu06v780R0Efy1YmGZp3ETxAgzYovV9cl0O3958PgSp0YgMOQOoi8q1vX8oKqiKJ7VrkL9xCgKJ27xyrlFLX6R3YWRyhpJz7mJ8L5f3lnyokk5wTpz5BpOyoNTXvvyNMJnOs7QY9553RXuD727P6E46ty3D3GmYpETBonoOkVZNU390XQA28wC8MgkDVxgLhrOAAr50GpiL1GlNqV06uvz
-    parentId: KyPrWv1WgmUkrxMyyzzKS18jO9W
-    postId: EpJRNm8PE2Ij6RqZKQQ0t1NGzZYqmPukG05jXvB3ulKR2Pkl39sXJr
-    factor: 1.78
-    portrait: 0
-    mInfo: alIDxmWOcb2Ttxh
-  - id: uJZjG6x
-    name: nkL5MjxM28sV7RPBEqVViyAOrK9
-    description: ""   
-    height: 405
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/uJZjG6x.jpg
-    prevLoc: 7rnYgvKPyDIRNEErMQAmTJRGrgwJRDhlErDX3Dzvcw4n18lzL5uX4j2xXlXnIREAGqyY1VuZO4KXAvJph4rDyw85gpir0r0KpjJ8CDwLB3DYWWUgJx2DwB71fl28VO5oNwHADLRMnL1DUowrjj3PEjTXwRR5GO83uLKmyL65QosVQQqwj7mzURlZQPP4w9iw0k3V7pJVfYzYZjRDPMcg2MK5ZZB7IALN50WJ28Cr4V3xPOVMs1g9RwrKgAcjZok4P4VBHA2
-    parentId: KyPrWv1WgmUkrxMyyzzKS18jO9W
-    postId: EpJRNm8PE2Ij6RqZKQQ0t1NGzZYqmPukG05jXvB3ulKR2Pkl39sXJr
-    factor: 1.78
-    portrait: 0
-    mInfo: hPeGUfVHA4vpobw
-  - id: MCggyB9
-    name: 54myqXQqB3s1Zr4qOWR2T1O4zMz
-    description: ""   
-    height: 565
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/MCggyB9.jpg
-    prevLoc: Vx5oX8M32JTZy00VB5xlhPkoxwBPkYFR5qK4rK83c5xVBj6n8vI6Yjxq656Du2nXZNjB4WTy3RLnGEXmtWAqkrgvwgFoMxO849RYCrA1qPrWnYFX17XjWPzzTn4AgWWKy8IVWm3rn57vtBNNXKNXRNcR8vmPgQGBs0kOM0mAY4sv88W9NVMliEBmKyy1pncwWGOY7OrLCNQry4pJLZFYPQXOEO7mhzDwoKALo3CJyRVR8YRvfp179O6BAJHK8VJL9l6NF4O
-    parentId: KyPrWv1WgmUkrxMyyzzKS18jO9W
-    postId: EpJRNm8PE2Ij6RqZKQQ0t1NGzZYqmPukG05jXvB3ulKR2Pkl39sXJr
-    factor: 1.27
-    portrait: 0
-    mInfo: RkRUd3bup5fHqkL
   - id: PmDQt3X
     name: BmDBKjNKVQuN7wrJvXZ7UR9Y7Z2
-    description: ""   
+    description: ''   
     height: 358
     width: 720
     type: image/jpeg
@@ -95,7 +30,73 @@ media:
     factor: 2.01
     portrait: 0
     mInfo: ys5gBnFPNasRvJE
-story: "胡作霏為 Fei Fei Art added 7 new photos."  message: "My home is my gallery.    All the paintings that weren't sold at the show were taken back home.     You're welcome to visit if you bring me flowers and a dessert."
+  - id: EBw7gPg
+    name: W056gXLgxms85nlM0OVOt5MVOXO
+    description: ''   
+    height: 441
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/EBw7gPg.jpg
+    prevLoc: Vx5oX8M32JTZy00VB5xlhPkoxwBPkYFR5qK4rK83c5xVBj6n8vI6Yjxq656Du2nXZNjB4WTy3RLnGEXmtWAqkrWN4wTGkzmlN0GQSrA1qPrWnpsvL85v19JpcJnoA1KOq7sVWPNG5L5jT5KWQ2mEBPT1j470NYGGc0Vj4w33mqCvJGKr977RFEVAxkEAoZugpNzl694kFBgV0RLrj2FAMWo0ZJ3LIrVklZ04YNiq2E9PD9oWUr1XNV4XRKIKw4o7RXGg
+    parentId: KyPrWv1WgmUkrxMyyzzKS18jO9W
+    postId: EpJRNm8PE2Ij6RqZKQQ0t1NGzZYqmPukG05jXvB3ulKR2Pkl39sXJr
+    factor: 1.63
+    portrait: 0
+    mInfo: Iyvyfrf13puUoPV
+  - id: MCggyB9
+    name: 54myqXQqB3s1Zr4qOWR2T1O4zMz
+    description: ''   
+    height: 565
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/MCggyB9.jpg
+    prevLoc: Vx5oX8M32JTZy00VB5xlhPkoxwBPkYFR5qK4rK83c5xVBj6n8vI6Yjxq656Du2nXZNjB4WTy3RLnGEXmtWAqkrgvwgFoMxO849RYCrA1qPrWnYFX17XjWPzzTn4AgWWKy8IVWm3rn57vtBNNXKNXRNcR8vmPgQGBs0kOM0mAY4sv88W9NVMliEBmKyy1pncwWGOY7OrLCNQry4pJLZFYPQXOEO7mhzDwoKALo3CJyRVR8YRvfp179O6BAJHK8VJL9l6NF4O
+    parentId: KyPrWv1WgmUkrxMyyzzKS18jO9W
+    postId: EpJRNm8PE2Ij6RqZKQQ0t1NGzZYqmPukG05jXvB3ulKR2Pkl39sXJr
+    factor: 1.27
+    portrait: 0
+    mInfo: RkRUd3bup5fHqkL
+  - id: uJZjG6x
+    name: nkL5MjxM28sV7RPBEqVViyAOrK9
+    description: ''   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/uJZjG6x.jpg
+    prevLoc: 7rnYgvKPyDIRNEErMQAmTJRGrgwJRDhlErDX3Dzvcw4n18lzL5uX4j2xXlXnIREAGqyY1VuZO4KXAvJph4rDyw85gpir0r0KpjJ8CDwLB3DYWWUgJx2DwB71fl28VO5oNwHADLRMnL1DUowrjj3PEjTXwRR5GO83uLKmyL65QosVQQqwj7mzURlZQPP4w9iw0k3V7pJVfYzYZjRDPMcg2MK5ZZB7IALN50WJ28Cr4V3xPOVMs1g9RwrKgAcjZok4P4VBHA2
+    parentId: KyPrWv1WgmUkrxMyyzzKS18jO9W
+    postId: EpJRNm8PE2Ij6RqZKQQ0t1NGzZYqmPukG05jXvB3ulKR2Pkl39sXJr
+    factor: 1.78
+    portrait: 0
+    mInfo: hPeGUfVHA4vpobw
+  - id: zxBGDxy
+    name: yyZP1xo1qMU3rB8MWvkYc320rkG
+    description: ''   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/zxBGDxy.jpg
+    prevLoc: 4okV1p0MvWC85YYZPmBJSrMK5nlrMwuJQLxDGxgyF1VqyLJ3pGu06v780R0Efy1YmGZp3ETxAgzYovV9cl0O3958PgSp0YgMOQOoi8q1vX8oKqiKJ7VrkL9xCgKJ27xyrlFLX6R3YWRyhpJz7mJ8L5f3lnyokk5wTpz5BpOyoNTXvvyNMJnOs7QY9553RXuD727P6E46ty3D3GmYpETBonoOkVZNU390XQA28wC8MgkDVxgLhrOAAr50GpiL1GlNqV06uvz
+    parentId: KyPrWv1WgmUkrxMyyzzKS18jO9W
+    postId: EpJRNm8PE2Ij6RqZKQQ0t1NGzZYqmPukG05jXvB3ulKR2Pkl39sXJr
+    factor: 1.78
+    portrait: 0
+    mInfo: alIDxmWOcb2Ttxh
+  - id: fKEibsY
+    name: nkL5MjxM28sV7RROmvRlfyAOrmz
+    description: ''   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/fKEibsY.jpg
+    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnAqPqMuAGo2Eq18ZS41W0N5ZGwcor2L0oPAGI6p6m1V6OkiE3v8YElM9UrqvL9gY3otJ8k4jzMxKT8PzyyVjPyCR6GMEwNEASQyD875DzpcNlMLNZgYmF7GGzZ0YvQH9Pp4DD2j2ULPNOyvxRkTlJGyLBR53iKLZnRom4RSA9DjpO1P7cjW17pZXEkcB86rrLY8Pi2LX18WxWAiNR
+    parentId: KyPrWv1WgmUkrxMyyzzKS18jO9W
+    postId: EpJRNm8PE2Ij6RqZKQQ0t1NGzZYqmPukG05jXvB3ulKR2Pkl39sXJr
+    factor: 1.78
+    portrait: 0
+    mInfo: Q0yABXBSTn2qAWa
+story: '胡作霏為 Fei Fei Art added 7 new photos.'  
+message: 'My home is my gallery.    All the paintings that weren't sold at the..'  
 ---
 
 My home is my gallery.  
@@ -110,23 +111,23 @@ You're welcome to visit if you bring me flowers and a dessert.
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/RE8kRP3.jpg"><img src="https://i.imgur.com/RE8kRP3.jpg" height="168" width="300" /></a> 
-  
+<a href="https://i.imgur.com/RE8kRP3.jpg"><img class="postImage" src="https://i.imgur.com/RE8kRP3h.jpg" />  
+</a>    
 
-<a href="https://i.imgur.com/EBw7gPg.jpg"><img src="https://i.imgur.com/EBw7gPg.jpg" height="183" width="300" /></a> 
-  
+<a href="https://i.imgur.com/PmDQt3X.jpg"><img class="postImage" src="https://i.imgur.com/PmDQt3Xh.jpg" />  
+</a>    
 
-<a href="https://i.imgur.com/fKEibsY.jpg"><img src="https://i.imgur.com/fKEibsY.jpg" height="168" width="300" /></a> 
-  
+<a href="https://i.imgur.com/EBw7gPg.jpg"><img class="postImage" src="https://i.imgur.com/EBw7gPgh.jpg" />  
+</a>    
 
-<a href="https://i.imgur.com/zxBGDxy.jpg"><img src="https://i.imgur.com/zxBGDxy.jpg" height="168" width="300" /></a> 
-  
+<a href="https://i.imgur.com/MCggyB9.jpg"><img class="postImage" src="https://i.imgur.com/MCggyB9h.jpg" />  
+</a>    
 
-<a href="https://i.imgur.com/uJZjG6x.jpg"><img src="https://i.imgur.com/uJZjG6x.jpg" height="168" width="300" /></a> 
-  
+<a href="https://i.imgur.com/uJZjG6x.jpg"><img class="postImage" src="https://i.imgur.com/uJZjG6xh.jpg" />  
+</a>    
 
-<a href="https://i.imgur.com/MCggyB9.jpg"><img src="https://i.imgur.com/MCggyB9.jpg" height="235" width="300" /></a> 
-  
+<a href="https://i.imgur.com/zxBGDxy.jpg"><img class="postImage" src="https://i.imgur.com/zxBGDxyh.jpg" />  
+</a>    
 
-<a href="https://i.imgur.com/PmDQt3X.jpg"><img src="https://i.imgur.com/PmDQt3X.jpg" height="149" width="300" /></a> 
- 
+<a href="https://i.imgur.com/fKEibsY.jpg"><img class="postImage" src="https://i.imgur.com/fKEibsYh.jpg" />  
+</a>   
