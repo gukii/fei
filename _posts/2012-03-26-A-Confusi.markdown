@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'A Confusi' 
+date: 2012-03-25T17:05:03+0000 
+categories: ["crayon","acrylic","paper"] 
+media:
+  - id: wGcYTdd
+    name: nkMkEoJqy7CVyN6VYQRqfmMGRj
+    description: 'A Confusing World  27 x 39 CM  crayon  acrylic o..'   
+    height: 480
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/wGcYTdd.jpg
+    prevLoc: 1lYEXmAJpVIZGnnrgkMph91EWgv91xugB2XkpXP0srwjYE0R3BHM46pAMNMRcE0LxR73BwcYwn2m0ABqfrQAvAojEpH3jqYzGnyvTBGyylNXv9F5GppLQgWnC9Jy4yjnonC2g2vwz7LzFoYy9o4xW1IlJJwxNjE7hEm91vvoXjsxGVM2rvnrtZ7nlKpy0oHx7ArMBVXlCgX848413BfXpORWrQwYtlKQ0m30BZURql33LvkyHGL
+    parentId: nkMkEoJqy7CVyN6VYQRqfmMGRj
+    postId: vvW2XrljyzIZyMlkoDDLtlQ7RoJr53hgm0rRm4j7u6gJROVgn3c34
+    factor: 1.50
+    portrait: 0
+    mInfo: 2w9sz2g1P9vBtQN
+story: '胡作霏為 Fei Fei Art added a new photo.'  
+message: 'A Confusing World  27 x 39 CM  crayon  acrylic on paper  Efei-Shih, ..'  
+---
+
+A Confusing World  
+27 x 39 CM  
+crayon & acrylic on paper  
+Efei-Shih, 20120325   ( $US 200)
+ 
+ 
+[//]: #story:
+胡作霏為 Fei Fei Art added a new photo.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/wGcYTdd.jpg"><img class="postImage" src="https://i.imgur.com/wGcYTddh.jpg" />  
+A Confusing World
+27 x 39 CM
+crayon & acrylic ..  
+ </a>   
