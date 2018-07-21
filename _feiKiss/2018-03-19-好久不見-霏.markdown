@@ -1,0 +1,58 @@
+---
+layout: post
+title: '好久不見    霏' 
+date: 2018-03-19T07:34:44+0000 
+categories: [] 
+media:
+  - id: 0yFtnfZ
+    name: O0YV1WNl65Ck33gvnwoWfPXr4v
+    description: ''   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/0yFtnfZ.jpg
+    prevLoc: AGQWvJk3X8HROrrx0nN9TjMPwxDjMWskMJ1G91Pzu1E0ROX78WurAYVgrBrMiLXW9EZl3xIDZk6g5PW7SyXLk88KEmu82617GvYrU695Vwn1wXUXMvX1ry7gurR4jQ2zZAF3A5gxW7A6cxRyNoB00ps8QAJ9zlKXF186PANNjrHNgD2Kk33jSvLk0Xvk5OIxwyYzR59rTmqL8Yymz9sDK4npX971IB0m8g4zLpCwVnxvOpLxcmZPKpgPq8fEnZ2RXQMz
+    parentId: LV9MXQK6W5S2oy9Kg9o8tjGq11
+    postId: 54q4BwD9WDul7Pvmv9WounZvlZWBX4Sjq5lDlYMXtGxMrvg1VAuZq
+    factor: 1.00
+    portrait: 0
+    mInfo: gGrAp20PYzzE57J
+  - id: 4P7SKsd
+    name: og2pNMGRX6hmk8ROKRl7SO364W
+    description: ''   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/4P7SKsd.jpg
+    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZRZguonpPQzBDmflWJjwO26vtAp4wGR8lMh6OyE6Zo9nuGk4QvPLzgtE7LE3WZ1jcOGjGARVA6t6kLVmB51KUjQ35qr6DLfKzX5NzKKpcoQJgprrB5FLKZOV4xxJC95op791olSQ4x1PGM4yIVB4DoEAAJuWg29LzDM3hXB0NPo6Jxsq9EoWp6krsgvk72okzZumo7kJN6pE
+    parentId: LV9MXQK6W5S2oy9Kg9o8tjGq11
+    postId: 54q4BwD9WDul7Pvmv9WounZvlZWBX4Sjq5lDlYMXtGxMrvg1VAuZq
+    factor: 1.00
+    portrait: 0
+    mInfo: VXby7aKFKaPGaHb
+story: '霏吻Fei-Kiss added 2 new photos.'  
+message: '好久不見    霏吻1   霏吻2    兩個顏色都是紅色系列，2 比較淡，成分天然滋潤，顏色百搭，適合各年齡層和膚色。    天然口紅..'  
+---
+
+好久不見  
+  
+霏吻#1   
+霏吻#2  
+  
+兩個顏色都是紅色系列，#2 比較淡，成分天然滋潤，顏色百搭，適合各年齡層和膚色。  
+  
+#天然口紅唇膏  
+#無防腐劑無香精  
+#手作愛心分享價450
+ 
+ 
+[//]: #story:
+霏吻Fei-Kiss added 2 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/0yFtnfZ.jpg"><img class="postImage" src="https://i.imgur.com/0yFtnfZh.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/4P7SKsd.jpg"><img class="postImage" src="https://i.imgur.com/4P7SKsdh.jpg" />  
+</a>   
