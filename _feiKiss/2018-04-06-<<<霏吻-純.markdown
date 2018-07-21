@@ -1,0 +1,76 @@
+---
+layout: post
+title: '<<<霏吻   純' 
+date: 2018-04-06T07:52:05+0000 
+categories: [] 
+media:
+  - id: hZkrNH0
+    name: LVZWJ0YBz0H27DwlB3q6Tjy7zY
+    description: ''   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/hZkrNH0.jpg
+    prevLoc: AGQWvJk3X8HROrrx0nN9TjMPwxDjMWskMJ1G91Pzu1E0ROX78WurAYVgrBrMiLXW9EZl3xIDZk6g5PW7SL69nJnJAwh8jrlkYwJWHX06KAW7rOUKExzBOG88UrR4jMJxrBi3rM4NYD7ZUxKzvvg73rSAP9oYW8M1c186PANNjrHNgD2Kk33jSvLk0Xv3AET7KB3NyK2jfmA5DlvRpRurkNoY3MjVtOMDw32XQlCwJLyymo0YumZPKpgPqMc5AxGBrEEG
+    parentId: 8D3KEWoYNKuk0m633R5nsoYBBk
+    postId: 9NxNJAKQ2KFOXW1y1qYvuYgkZgzJNvU60Gxn1vYkcxAjgPA7N1tQo
+    factor: 1.00
+    portrait: 0
+    mInfo: D1ZF27zE9PsRFPI
+  - id: t0YZADY
+    name: 8D3KEWoYNKuk0N3jMANYcolOWk
+    description: ''   
+    height: 720
+    width: 543
+    type: image/jpeg
+    link: https://i.imgur.com/t0YZADY.jpg
+    prevLoc: jmv5zG4pgAhOmllzE3njhmnqgl0mnvhwnxVKAVNouLjxn1ZOVDiqWxnpqAqkuLPNWVxYy5I9A6zJvWrQtW8E9GYp8wC1mV5wl78kcgqQvKWBMgIMvGvnpzRGfEpzj6jNpAt95OxJ6Ozmf82J2GkRgziqLo7PyllLFO4kP7ppr5sQO60G1yy2s0jlEm0lmvf01JQBKjg9CVzmg0zGr9h9AREGGKp5C4YgGnmk31iA5nJ3zJ5qIQxko1gkPmcqMVw57EXn
+    parentId: 8D3KEWoYNKuk0m633R5nsoYBBk
+    postId: 9NxNJAKQ2KFOXW1y1qYvuYgkZgzJNvU60Gxn1vYkcxAjgPA7N1tQo
+    factor: 1.33
+    portrait: 1
+    mInfo: RNPa7paU9qz4N8p
+  - id: ME9hx9V
+    name: KV89QzYEyzHk6QV30Bm9Sp7zY2
+    description: ''   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/ME9hx9V.jpg
+    prevLoc: knwBAJ4qj6swBYYDlrOnTW8xyMmW8LCPJ6V5nVWBcxkBy95OY4fPEj4APWP8cgNEPNwQ1nu4EMy67QpLFp4xwBw2mOSwZEOjpk6EuXxvVPoz6rSglWjAvR2oc67Rm3nyn9CWDVzNWE25sljz5qZ2omto0o0wgZO9uxLKo2669JHmwZBMGooJs3r91B39mwTXWE592y34iyBMVjJV2OFMprpmn5rgSlM6QmvLl7s4Z8AKzD6quwR5QVj5O3t6l5JR4KqE
+    parentId: 8D3KEWoYNKuk0m633R5nsoYBBk
+    postId: 9NxNJAKQ2KFOXW1y1qYvuYgkZgzJNvU60Gxn1vYkcxAjgPA7N1tQo
+    factor: 1.33
+    portrait: 0
+    mInfo: qV9ozu72u6fq96R
+story: '霏吻Fei-Kiss added 3 new photos.'  
+message: '<<<霏吻   純天然兩用眼影唇膏3>>>    這是一支可以直接當眼影，也可以和其他口紅混用的 純天然眼影唇膏。     眼影是自然的..'  
+---
+
+<<<霏吻   純天然兩用眼影唇膏#3>>>  
+  
+這是一支可以直接當眼影，也可以和其他口紅混用的 #純天然眼影唇膏。   
+  
+眼影是自然的深藍，與 #霏吻#4.2唇膏混用，竟然混合成搖滾風的暗桃紅色，感覺很有個性。  
+  
+----圖為單用#4.2和混合眼影後的對照。  
+----腮紅也是霏吻#4.2  
+  
+天然眼影單購分享價$290  
+唇膏#4.2分享價$450  
+眼影+唇膏#4.2一組分享價$690
+ 
+ 
+[//]: #story:
+霏吻Fei-Kiss added 3 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/hZkrNH0.jpg"><img class="postImage" src="https://i.imgur.com/hZkrNH0h.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/t0YZADY.jpg"><img class="postImage" src="https://i.imgur.com/t0YZADYh.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/ME9hx9V.jpg"><img class="postImage" src="https://i.imgur.com/ME9hx9Vh.jpg" />  
+</a>   
