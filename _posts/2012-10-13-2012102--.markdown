@@ -6,7 +6,7 @@ categories: ["canvas","acrylic"]
 media:
   - id: j5pvjZM
     name: wqpYJ0xW10tN10Ool785s1yYYn
-    description: '2012102-- Disorientedacrylic on canvas30.5 x 23 cmSometimes I wonder where i've beenwho i amdo i fit in  i may have wingsbut i can't be sureout hereon my own'   
+    description: '2012102-- Disoriented  acrylic on canvas  30.5 x..'   
     height: 439
     width: 585
     type: image/jpeg
@@ -31,7 +31,7 @@ media:
     portrait: 0
     mInfo: lnZddpx0YMIVm1z
 story: '胡作霏為 Fei Fei Art added a new photo.'  
-message: '2012102-- Disoriented  acrylic on canvas  30.5 x 23 cm    Sometimes I wonder where i've been  who i am  do i fit in    i may have wings  but i can't be sure  out here  on my own'  
+message: '2012102-- Disoriented  acrylic on canvas  30.5 x 23 cm    Sometimes ..'  
 ---
 
 2012102-- Disoriented  
@@ -52,8 +52,12 @@ on my own
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/j5pvjZM.jpg"><img src="https://i.imgur.com/j5pvjZM.jpg" height="225" width="300" /></a> 
-  
+<a href="https://i.imgur.com/j5pvjZM.jpg"><img class="postImage" src="https://i.imgur.com/j5pvjZMh.jpg" />  
+2012102-- Disoriented
+acrylic on canvas
+30.5 x..  
+ </a>    
 
-<a href="https://i.imgur.com/mf1RQcR.jpg"><img src="https://i.imgur.com/mf1RQcR.jpg" height="225" width="300" /></a> 
- 
+<a href="https://i.imgur.com/mf1RQcR.jpg"><img class="postImage" src="https://i.imgur.com/mf1RQcRh.jpg" />  
+20120929 Welcome home peacocks  
+ </a>   
