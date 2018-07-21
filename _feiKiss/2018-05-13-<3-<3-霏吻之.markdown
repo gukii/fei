@@ -1,22 +1,22 @@
 ---
 layout: post
 title: '<3 <3 霏吻之' 
-date: 2018-05-13T12:44:24+0000 
+date: 2018-05-13T11:34:45+0000 
 categories: [] 
 media:
-  - id: vA82Nrs
-    name: GVRWjjng9NS8RK2Jo96vSkmgnX
+  - id: D6U2eaw
+    name: LVZWoo6ngVs31N6lwMpvCjymDD
     description: ''   
-    height: 405
+    height: 720
     width: 720
     type: image/jpeg
-    link: https://i.imgur.com/vA82Nrs.jpg
-    prevLoc: 3njEZoDLrYs4K77j3GpmHMv6jG3MvkTjMX6PZ6YWhnoOAgWGYBSXEKYxXjXRIkXVOmMq2rSMXAk8RzG4tgjZLJ1G8jULJL4NoD5lc3KAYzQ2oZux2y6jlxExcnZGNl9y07C0nW7Dg6oYiRWox50KNKik4A39qRZ7IBR3v9DD7Xt1q9mO0EEgI0329O0wKxi36Qv01LykT2nQPrwGrvu9xBAP6Kw4U7n7zXm21nCYNjJxzkmEikpLYD6LVncnzlONBMMx
-    parentId: GVRWjjng9NS8RK2Jo96vSkmgnX
-    postId: ZnlnAGLVWLsjLqGZGgoESwBGNBnZp7TEO6qJyzyZF6n1m858yMi97
-    factor: 1.78
+    link: https://i.imgur.com/D6U2eaw.jpg
+    prevLoc: vBYRPX4GxmIl8OOJ127Wf45VWGm45xsry9RjlRVnS3EropJAjMuXLjD6XnXvIzB4WXknJpFXkDLYQ9GqfVEQrgjzlEfX0Qy119RKSDjpK0KMk2sq8gMg7Km6hWrXYQxg7mCLy3PnqkZGs5G1149jGLcY5Dw8ZE0QIznEYQPPqOf0Q8gAEOO3FAQl8jA6OGCzxEDX69XqTpYMV6Kyo3T5ZPlnYxABSjJmR1zWxEilVPMzWMQyIK1jDWBjg0soRvxLzwBX
+    parentId: LVZWoo6ngVs31N6lwMpvCjymDD
+    postId: lgKgZk35p3tM8w7J7EzysW3Bg3kmpZukXEWqr7xDT0X7VAQMAwux9
+    factor: 1.00
     portrait: 0
-    mInfo: bXsrwram1f04oYO
+    mInfo: dSBKroZMlCmChGs
 message: '<3 <3 霏吻之   純天然體感變色唇膏1 <3 <3     不想擦口紅，卻希望唇色呈現淡淡的紅潤感，還可以一邊保養雙唇，顏色就好像..'  
 ---
 
@@ -24,13 +24,11 @@ message: '<3 <3 霏吻之   純天然體感變色唇膏1 <3 <3     不想擦口�
   
 不想擦口紅，卻希望唇色呈現淡淡的紅潤感，還可以一邊保養雙唇，顏色就好像是自己本來的唇色一樣自然，那麼這支 #天然體感變色唇膏 就是你最佳的選擇。  
   
-擦上後即使吃完食物，還是可以顯現自然的微粉紅。 適合原唇色較淡的朋友。  
-  
 成分採完全天然的植物油及精油，維他命E 製作，完全不含化學成分和香精，是 #霏吻 堅持的原則.  
   
 #分享價520
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/vA82Nrs.jpg"><img class="postImage" src="https://i.imgur.com/vA82Nrsh.jpg" />  
+<a href="https://i.imgur.com/D6U2eaw.jpg"><img class="postImage" src="https://i.imgur.com/D6U2eawh.jpg" />  
 </a>   
