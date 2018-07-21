@@ -1,0 +1,89 @@
+---
+layout: post
+title: '霏吻9--福氣紅 ' 
+date: 2018-04-29T02:47:44+0000 
+categories: [] 
+media:
+  - id: TU3tmcU
+    name: AY6Km6NDP4tRW3PAOQBYfQ6rRG
+    description: ''   
+    height: 720
+    width: 504
+    type: image/jpeg
+    link: https://i.imgur.com/TU3tmcU.jpg
+    prevLoc: OnELN1B3XJsOx55DY0pAhz5BYQ4z57s4VjyzBy9xumZ9q5NzQYirP8BnrXrmiD6KlBLZG0c6n7K5AJEOTn82G41RLPHmZQO497Amh7O4q6Ekxmfo1X5Pv1J8tg8Xq8GO6JukzNNRmN86T9L2OXyEkWFowMmLDlM4T2B680OODASlnrAzLRREUo73rYomQDtNMNwJ8MMPcLAx3K8E9kigjLw36yzxs26oRznMWqIAWlMY2OpATNWmo7Amj5s36RqMk4yM
+    parentId: N6OW8OLk94T6OA1XgDlDFr3MM4
+    postId: 07l7woxV9xsy5X8O8BrKclX5rXn40GI08xNXDWn7CqBqwPvz6wtNp
+    factor: 1.43
+    portrait: 1
+    mInfo: RC2eakifFcFnhkq
+  - id: 2mb46LI
+    name: 5z7KW7Qy9YTl7E4B0Qn7TxP5n7
+    description: ''   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/2mb46LI.jpg
+    prevLoc: LkY0KXy31AC39NN0qmRPuvgJAQRvgpT0xB9MD9oVtlQM4YrEROijwl4kjojViJy7wG1x3MF05RDg9kNvSEP1pOPwljIvmnNBx4pnhG2xANnWjpClXQzBRZm9tEgQ040719i35LL6KK9zC25NZyP7YrUxkq5y01NlF75qxKGo6JIYZR9MXYmpTy0VkxoWpXHZo7N2q6Dnf5q7J07oQrHjmNknjXmgsNzlQ8AE31FMQA4nXjxGugMOoPzYVvH80xK2YmQ
+    parentId: N6OW8OLk94T6OA1XgDlDFr3MM4
+    postId: 07l7woxV9xsy5X8O8BrKclX5rXn40GI08xNXDWn7CqBqwPvz6wtNp
+    factor: 1.33
+    portrait: 1
+    mInfo: oN0pARfNXysSVes
+  - id: wG3PH8i
+    name: N6OW8OLk94T6BZjBvnY8hrPnPZ
+    description: ''   
+    height: 527
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/wG3PH8i.jpg
+    prevLoc: GOYzBPq3XwU84WWrn01JSq0OX59q0xfRyLZPmZ5pcwOq06RQ1xuEGNDrE0EQTXrpRqy1QJFE398Zpq0vS48oxXjRXrfPkOVJk2yEtq37Yvr38GUoj2W4P5nqhzMLyg4lN7iZpQn3mGXwcY7kRoDrENFPXkm8XEpjIO3jryg2Q6fj1MYKLjQwu2g0mYXr5yH3r1LL7AGyIGEVoDODELH4RjrVXL7Kc8W1XK43pXh9G4GlNQzwIDK4rM5AvkI3oKY7Mog
+    parentId: N6OW8OLk94T6OA1XgDlDFr3MM4
+    postId: 07l7woxV9xsy5X8O8BrKclX5rXn40GI08xNXDWn7CqBqwPvz6wtNp
+    factor: 1.37
+    portrait: 0
+    mInfo: 58i5XMz6qOkXKKB
+  - id: MSdY6eI
+    name: qkQL2Q7xYNU2EW7jMOm2fN1O16
+    description: ''   
+    height: 600
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/MSdY6eI.jpg
+    prevLoc: pvRBJO5yo9uwoQQgkvnzTO26Vn4O2MsGlw0x20O9c1ZXoVD6pzuK7Ej8K0KDczko0NGwjBFKRy83MAlLS8DwxoO74JCmA82R5m5qu4ENQOy6zktXDY83o7J4fQPPWy9kwASxlBrygGrzfk6MQKDXADcoZjo0qZzBcmw0zZ88ODH72RVY5119T9xjM79gLocyLO3QL739FzryPzZgjJfB4jzJxWnnt1KZmMlplyC9AQBZKmjRsqWBRmwB2yI9Jg5OvA8v
+    parentId: N6OW8OLk94T6OA1XgDlDFr3MM4
+    postId: 07l7woxV9xsy5X8O8BrKclX5rXn40GI08xNXDWn7CqBqwPvz6wtNp
+    factor: 1.20
+    portrait: 0
+    mInfo: qq1AcfUfhGEwe51
+story: '霏吻Fei-Kiss added 4 new photos.'  
+message: '霏吻9--福氣紅    <3 <3 <3 母親節給媽媽一支純天然的福氣紅，讓媽媽一整年福福氣氣，氣色滿分! <3 <3 <3     數..'  
+---
+
+霏吻#9--福氣紅  
+  
+<3 <3 <3 母親節給媽媽一支純天然的福氣紅，讓媽媽一整年福福氣氣，氣色滿分! <3 <3 <3   
+  
+(數支口紅表面手工製作時有小瑕疵，如圖，不影響成分和使用，分享價$250)  
+  
+#微瑕疵一支250半買半送  
+#母親節至五月底任兩支以上打八五折  
+#成分含天然玫瑰精油
+ 
+ 
+[//]: #story:
+霏吻Fei-Kiss added 4 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/TU3tmcU.jpg"><img class="postImage" src="https://i.imgur.com/TU3tmcUh.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/2mb46LI.jpg"><img class="postImage" src="https://i.imgur.com/2mb46LIh.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/wG3PH8i.jpg"><img class="postImage" src="https://i.imgur.com/wG3PH8ih.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/MSdY6eI.jpg"><img class="postImage" src="https://i.imgur.com/MSdY6eIh.jpg" />  
+</a>   
