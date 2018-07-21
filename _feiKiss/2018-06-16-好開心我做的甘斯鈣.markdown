@@ -1,0 +1,83 @@
+---
+layout: post
+title: '好開心我做的甘斯鈣' 
+date: 2018-06-16T11:45:06+0000 
+categories: [] 
+media:
+  - id: Hb18aXo
+    name: DVqEZ0yADRTxzq0rQqzqtl7GwO
+    description: ''   
+    height: 720
+    width: 556
+    type: image/jpeg
+    link: https://i.imgur.com/Hb18aXo.jpg
+    prevLoc: WywpYgN3KWS4qzz13P5jH7plr437pGSVAjrxkrn8HN2V91DAg3tlLKJrl0l1tqXJ0Yj97DtRwGk47rqLU4jpYzXPokTRQLyK371lHkYMm25wy5FpvMM7QljDCgRpl84MlzFo2vEpL7BDtMrQ7GoJ05SKNWAyloYvckxo7zqqZVtEpl7Xm22McZWOG4ZNrDcM6AvLXDxxs5EmqvlPB8t1wZOyq7wVh7X6jQDZ1rtNyGWMNQY8i4EAGxDAZmIjVWP8GOWm
+    parentId: AY6OXmvxznF5NzLVjAx4UQnxjJ
+    postId: Vj8jw2EPNEsZ6nvrvyP7i1n4En7m6Xsl5DVnyp23IMnxJ85zZ0cp4
+    factor: 1.29
+    portrait: 1
+    mInfo: UCS3kUM6Q9Go2EP
+  - id: kL900bw
+    name: yvwkAmVnB8T4M6mQAJRqFNrWr7
+    description: ''   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/kL900bw.jpg
+    prevLoc: YAQr1kP3YVc9lkkKYNL3ToZWQmNoZ5IPrwoZJoK0cvnzol3MRmHgP3OZgrgLTPGLRq07M4uWMK85mzVQfBvOQV0pGRCoEA00AOY5sLyx1JBJxkTQ1YYOOnqRhQoqO83qjlszVWDp045BH9m57R4lRQsYv8AJg8O2F4Pr9BKKV1S7gxm2q55JT75pBN7pNMuX3R5z0Q1EsQWLw0WLMvIKRWBlRXNps9ZJvy9JQYSJZGJAMXmAfYq30Gm3EnFLlg1wlMol
+    parentId: AY6OXmvxznF5NzLVjAx4UQnxjJ
+    postId: Vj8jw2EPNEsZ6nvrvyP7i1n4En7m6Xsl5DVnyp23IMnxJ85zZ0cp4
+    factor: 1.00
+    portrait: 0
+    mInfo: W0dwGCkpH1B9Qg7
+  - id: bY3muph
+    name: wq0gykQlzjhN1GqAjk9Dc13M5W
+    description: ''   
+    height: 720
+    width: 569
+    type: image/jpeg
+    link: https://i.imgur.com/bY3muph.jpg
+    prevLoc: mp28DL4v07TMl11VXAj5s1Dkwj81D6C42orB8rNZu8lwXmgOzWHLDxVqLJLEcOm27Dw54Mhx5wlOM1z9c601OqjjlWhr9o1EqYoRt78oqDZD9MCjQLLwqV1kH6A7oENA6KHRMLr7Aq38c5VgJ5QN15HLGvgNqvE6S9QglXwwYvSOoZ014rr7hZOG9BZPg1u1KmKxD7zPHq30GxgNYJsNZo6QXEgvcjZzXvyD4PsXQMgZKKpGtgk2Mzq2Wntqo12qBWoY
+    parentId: AY6OXmvxznF5NzLVjAx4UQnxjJ
+    postId: Vj8jw2EPNEsZ6nvrvyP7i1n4En7m6Xsl5DVnyp23IMnxJ85zZ0cp4
+    factor: 1.27
+    portrait: 1
+    mInfo: 1q4RygkUIv7zKPh
+  - id: FvIuCjQ
+    name: qkQ8p2K9qjU2E2n0Y5N8iN2GLD
+    description: ''   
+    height: 482
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/FvIuCjQ.jpg
+    prevLoc: xEV8RZ4KzohXvmmp891Ji6WmxKr6W1h1pWnLEnJZsBlV7O5mYxiGA217GoGnIgN5OBE3Dpi23mkMy4LpuLmyr0oDVBfZKjlB9EyqH28v1MXqxvhwp00qqQMkImBKwMkVzKCzxrKLKzJvSJWpY0VP7KTLEjXmPLgVcQZ2Xo88GwhPEJ41kXXmUWX4RBW445H3lEpWg972tRZrgkwo89ioQV99g9W7S7rL1omj0MiGgkKv87EMIovVjEYV1ktozMXqmyOE
+    parentId: AY6OXmvxznF5NzLVjAx4UQnxjJ
+    postId: Vj8jw2EPNEsZ6nvrvyP7i1n4En7m6Xsl5DVnyp23IMnxJ85zZ0cp4
+    factor: 1.49
+    portrait: 0
+    mInfo: ab3lWBNGRXhlT5M
+story: '霏吻Fei-Kiss added 4 new photos.'  
+message: '好開心我做的甘斯鈣離子乳霜幫助了這個買家的兔子皮膚問題和她自己的足底筋膜炎! 好感動啊～    要繼續再來多作一些了！'  
+---
+
+好開心我做的甘斯鈣離子乳霜幫助了這個買家的兔子皮膚問題和她自己的足底筋膜炎! 好感動啊～  
+  
+要繼續再來多作一些了！
+ 
+ 
+[//]: #story:
+霏吻Fei-Kiss added 4 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/Hb18aXo.jpg"><img class="postImage" src="https://i.imgur.com/Hb18aXoh.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/kL900bw.jpg"><img class="postImage" src="https://i.imgur.com/kL900bwh.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/bY3muph.jpg"><img class="postImage" src="https://i.imgur.com/bY3muphh.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/FvIuCjQ.jpg"><img class="postImage" src="https://i.imgur.com/FvIuCjQh.jpg" />  
+</a>   
