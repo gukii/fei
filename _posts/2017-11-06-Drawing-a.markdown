@@ -1,25 +1,12 @@
 ---
 layout: post
-title: "Drawing a" 
+title: 'Drawing a' 
 date: 2017-11-06T06:10:27+0000 
 categories: [] 
 media:
-  - id: VEw8g1U
-    name: 1NgjvVlQxEtZP7lnrJLQC0GywmW
-    description: ""   
-    height: 720
-    width: 678
-    type: image/jpeg
-    link: https://i.imgur.com/VEw8g1U.jpg
-    prevLoc: vBYRPX4GxmIl8OOJ127Wf45VWGm45xsry9RjlRVnS3EropJAjMuXLjD6XnXvIzB4WXRMj1FXkDLYQ9Gqf7w3Q6RE0zIX07zygy7LSQnK7XrxVJCq4jA7518Lt0GAlzGZR5hLzRWG7R0xi5GzEMWNwMUYvzjnD3XmTzvV8zqw9YT0VVWEM4xpuAL2NDD7gJikoxJzGoPgT9AXRzzmR5h5oLkqLyXoUjpGOgPXrAUlGk1vV8J9SNojX7Yq1GU8V3mprn1LImD
-    parentId: pmNgj9v7rBHwV79DvJmwfoD7Wxk
-    postId: pmNYOl8zpquZxXwRPjjOtEPLmJQqRJCEyDlAMWnjfYzGx9K73mhG0m
-    factor: 1.06
-    portrait: 1
-    mInfo: Ff33iFnGwXeHHbP
   - id: 5ANE3qe
     name: mjKw97pGl8UMgmm38j27sJY10rN
-    description: ""   
+    description: ''   
     height: 671
     width: 720
     type: image/jpeg
@@ -30,7 +17,21 @@ media:
     factor: 1.07
     portrait: 0
     mInfo: G5AwvO69IQDmyPE
-story: "胡作霏為 Fei Fei Art added 2 new photos."  message: "Drawing at the riverside again after eating yummy A-Gei  吃完阿給，繼續在河邊畫畫。"
+  - id: VEw8g1U
+    name: 1NgjvVlQxEtZP7lnrJLQC0GywmW
+    description: ''   
+    height: 720
+    width: 678
+    type: image/jpeg
+    link: https://i.imgur.com/VEw8g1U.jpg
+    prevLoc: vBYRPX4GxmIl8OOJ127Wf45VWGm45xsry9RjlRVnS3EropJAjMuXLjD6XnXvIzB4WXRMj1FXkDLYQ9Gqf7w3Q6RE0zIX07zygy7LSQnK7XrxVJCq4jA7518Lt0GAlzGZR5hLzRWG7R0xi5GzEMWNwMUYvzjnD3XmTzvV8zqw9YT0VVWEM4xpuAL2NDD7gJikoxJzGoPgT9AXRzzmR5h5oLkqLyXoUjpGOgPXrAUlGk1vV8J9SNojX7Yq1GU8V3mprn1LImD
+    parentId: pmNgj9v7rBHwV79DvJmwfoD7Wxk
+    postId: pmNYOl8zpquZxXwRPjjOtEPLmJQqRJCEyDlAMWnjfYzGx9K73mhG0m
+    factor: 1.06
+    portrait: 1
+    mInfo: Ff33iFnGwXeHHbP
+story: '胡作霏為 Fei Fei Art added 2 new photos.'  
+message: 'Drawing at the riverside again after eating yummy A-Gei  吃完阿給，繼續在河邊畫畫。'  
 ---
 
 Drawing at the riverside again after eating yummy A-Gei  
@@ -42,8 +43,8 @@ Drawing at the riverside again after eating yummy A-Gei
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/VEw8g1U.jpg"><img src="https://i.imgur.com/VEw8g1U.jpg" height="300" width="282" /></a> 
-  
+<a href="https://i.imgur.com/5ANE3qe.jpg"><img class="postImage" src="https://i.imgur.com/5ANE3qeh.jpg" />  
+</a>    
 
-<a href="https://i.imgur.com/5ANE3qe.jpg"><img src="https://i.imgur.com/5ANE3qe.jpg" height="279" width="300" /></a> 
- 
+<a href="https://i.imgur.com/VEw8g1U.jpg"><img class="postImage" src="https://i.imgur.com/VEw8g1Uh.jpg" />  
+</a>   
