@@ -1,12 +1,25 @@
 ---
 layout: post
-title: "When the " 
+title: 'When the ' 
 date: 2018-01-30T16:56:37+0000 
 categories: [] 
 media:
+  - id: cBCGyDb
+    name: qnOjWjmw3lcv706Go01lIx6n83W
+    description: ''   
+    height: 389
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/cBCGyDb.jpg
+    prevLoc: 6qmG3rJOxYiWmVVRk1rosAL3vKoAL7tzAP4G74n6C3LXjw0rOGuRNQ7vRDR4tOx89RWorNhqAGMPVR6ES8E8XWl43xcPx0rxLk6GCvWOnGLxgrURLVJ1Kz7Bhvop4EWX0QIQKwG3JZOzfDnXg9QYzmHPQZMZX906Uy35RyzxW9C5QQJE2DXrSV10MLL23nSN8VKVyL9wSjWR015D78U15nYoLOLph3N0vvkWjXskQ97Y8KL2inN496pJZvS9Nr1q6J5lSmn
+    parentId: AlBnEngjVMs51Y8MBRX1flMl4xG
+    postId: mjKZLgOEmnhqREMQGmmPSZGygQrY5Qtl2ymLnY3KTX74G3gQqltr21
+    factor: 1.85
+    portrait: 0
+    mInfo: M7jhkQMEB9HGku6
   - id: wJcaPfI
     name: LzQgmgwMqvc2Yj16ZJVRuVE37y6
-    description: ""   
+    description: ''   
     height: 720
     width: 405
     type: image/jpeg
@@ -19,7 +32,7 @@ media:
     mInfo: 3aYgYZYgQlA19lC
   - id: YjdQaBe
     name: pmNgWglr3ksZxMrAYnxACoEWoEz
-    description: ""   
+    description: ''   
     height: 475
     width: 720
     type: image/jpeg
@@ -32,7 +45,7 @@ media:
     mInfo: GPWWwQe0UNlG24d
   - id: NQzHq7z
     name: 2NjRlRQz07sQElqQ3RG6SKjo7pj
-    description: ""   
+    description: ''   
     height: 313
     width: 720
     type: image/jpeg
@@ -45,7 +58,7 @@ media:
     mInfo: 2ovZvX71V3jyak9
   - id: YHnK7xj
     name: roP0W0ny3muOD95vVA62hMBVMBk
-    description: ""   
+    description: ''   
     height: 720
     width: 508
     type: image/jpeg
@@ -56,20 +69,8 @@ media:
     factor: 1.42
     portrait: 1
     mInfo: bN3WwazvO0JJPcD
-  - id: cBCGyDb
-    name: qnOjWjmw3lcv706Go01lIx6n83W
-    description: ""   
-    height: 389
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/cBCGyDb.jpg
-    prevLoc: 6qmG3rJOxYiWmVVRk1rosAL3vKoAL7tzAP4G74n6C3LXjw0rOGuRNQ7vRDR4tOx89RWorNhqAGMPVR6ES8E8XWl43xcPx0rxLk6GCvWOnGLxgrURLVJ1Kz7Bhvop4EWX0QIQKwG3JZOzfDnXg9QYzmHPQZMZX906Uy35RyzxW9C5QQJE2DXrSV10MLL23nSN8VKVyL9wSjWR015D78U15nYoLOLph3N0vvkWjXskQ97Y8KL2inN496pJZvS9Nr1q6J5lSmn
-    parentId: AlBnEngjVMs51Y8MBRX1flMl4xG
-    postId: mjKZLgOEmnhqREMQGmmPSZGygQrY5Qtl2ymLnY3KTX74G3gQqltr21
-    factor: 1.85
-    portrait: 0
-    mInfo: M7jhkQMEB9HGku6
-story: "胡作霏為 Fei Fei Art added 5 new photos."  message: "When the first painting  was sold, it was an exciting and odd feeling. And when the paintings were made into products like these, I just simply felt touched and thankful; at the same time still a bit odd  not because they might bring me income, but am just simply glad that at least someone thinks it's worth the effort making them.    When you follow your passion, the right things and people also follow.    當我的第一張畫賣出時，那是一種開心到無法自拔，帶點詭異的感覺。而當我的作品被製作成這些產品，卻是純粹的感動和感恩，雖然還是有點詭異 不是因為這些產品也許會帶來收入，而是單純的開心至少某個人認為這是值得努力去做的。    當你追隨自己的熱情，對的人事物也會追隨你。"
+story: '胡作霏為 Fei Fei Art added 5 new photos.'  
+message: 'When the first painting  was sold, it was an exciting and odd feelin..'  
 ---
 
 When the first painting  was sold, it was an exciting and odd feeling. And when the paintings were made into products like these, I just simply felt touched and thankful;( at the same time still a bit odd ) not because they might bring me income, but am just simply glad that at least someone thinks it's worth the effort making them.  
@@ -86,17 +87,17 @@ When you follow your passion, the right things and people also follow.
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/wJcaPfI.jpg"><img src="https://i.imgur.com/wJcaPfI.jpg" height="300" width="168" /></a> 
-  
+<a href="https://i.imgur.com/cBCGyDb.jpg"><img class="postImage" src="https://i.imgur.com/cBCGyDbh.jpg" />  
+</a>    
 
-<a href="https://i.imgur.com/YjdQaBe.jpg"><img src="https://i.imgur.com/YjdQaBe.jpg" height="197" width="300" /></a> 
-  
+<a href="https://i.imgur.com/wJcaPfI.jpg"><img class="postImage" src="https://i.imgur.com/wJcaPfIh.jpg" />  
+</a>    
 
-<a href="https://i.imgur.com/NQzHq7z.jpg"><img src="https://i.imgur.com/NQzHq7z.jpg" height="130" width="300" /></a> 
-  
+<a href="https://i.imgur.com/YjdQaBe.jpg"><img class="postImage" src="https://i.imgur.com/YjdQaBeh.jpg" />  
+</a>    
 
-<a href="https://i.imgur.com/YHnK7xj.jpg"><img src="https://i.imgur.com/YHnK7xj.jpg" height="300" width="211" /></a> 
-  
+<a href="https://i.imgur.com/NQzHq7z.jpg"><img class="postImage" src="https://i.imgur.com/NQzHq7zh.jpg" />  
+</a>    
 
-<a href="https://i.imgur.com/cBCGyDb.jpg"><img src="https://i.imgur.com/cBCGyDb.jpg" height="162" width="300" /></a> 
- 
+<a href="https://i.imgur.com/YHnK7xj.jpg"><img class="postImage" src="https://i.imgur.com/YHnK7xjh.jpg" />  
+</a>   
