@@ -6,7 +6,7 @@ categories: ["healing"]
 media:
   - id: aMF3BTl
     name: PEnXwE8oMXfnD8XWRPZNi2klmON
-    description: '20160719 The Healing Series NO.1; I'm sorry療癒系列 1號; " 對不起"21 x 30 cm'   
+    description: '20160719 The Healing Series NO.1; I'm sorry  療癒系..'   
     height: 720
     width: 506
     type: image/jpeg
@@ -18,7 +18,7 @@ media:
     portrait: 1
     mInfo: gcU77uyO2OoLctB
 story: '胡作霏為 Fei Fei Art added a new photo.'  
-message: '20160719 The Healing Series NO.1; I'm sorry  療癒系列 1號; " 對不起"  21 x 30 cm'  
+message: '20160719 The Healing Series NO.1; I'm sorry  療癒系列 1號; " 對不起"  21 x 3..'  
 ---
 
 20160719 The Healing Series NO.1: I'm sorry  
@@ -31,5 +31,7 @@ message: '20160719 The Healing Series NO.1; I'm sorry  療癒系列 1號; " 對�
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/aMF3BTl.jpg"><img src="https://i.imgur.com/aMF3BTl.jpg" height="300" width="210" /></a> 
- 
+<a href="https://i.imgur.com/aMF3BTl.jpg"><img class="postImage" src="https://i.imgur.com/aMF3BTlh.jpg" />  
+20160719 The Healing Series NO.1: I'm sorry
+療癒系..  
+ </a>   
