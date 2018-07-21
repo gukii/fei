@@ -1,0 +1,37 @@
+---
+layout: post
+title: '剪了這樣俐落的髮型' 
+date: 2018-02-13T02:59:55+0000 
+categories: [] 
+media:
+  - id: NR4QVIu
+    name: 3x1BrnkJ97f4l6k7xAkQuQ5RL5
+    description: '剪了這樣俐落的髮型，似乎需要唇蜜的柔和感來平衡一下。    天然唇蜜好舒服沒負擔  我沒有看起來..'   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/NR4QVIu.jpg
+    prevLoc: NmEXMZA3K7h63VVYLE0NC60W9MK60ohZxjgD2gnPczw1rPn0KmiBrQyN33wmTopB2kym1ys3rVgVwvDphlMmMpnpQYTZ06qlJYmMfwp5L756PWiJvRQZmkpZIyDARNkvPrF8z3k5D8BJfvkR53vpo6tEpEzjXzE7IQZwXQVDvOioKK0NxRWOtOzM9KKYAnFW4DNMZr04hRg9xO7oXPCOZjZnGRJxCX4xO39G2yhzRP3pjV7wCkY21mJgN2HZ6X4J3LlZuwX
+    parentId: 3x1BrnkJ97f4l6k7xAkQuQ5RL5
+    postId: xxZxpz3vl3cXV5O6OvQyS9zMgzLPrgio2GnMGxvwu7N4w4lzKMiqz
+    factor: 1.78
+    portrait: 0
+    mInfo: 8HFRV3HNgJEeBp2
+message: '剪了這樣俐落的髮型，似乎需要唇蜜的柔和感來平衡一下。    天然唇蜜好舒服沒負擔  我沒有看起來這麼強悍  年後再來多做幾個不同顏色唇蜜..'  
+---
+
+剪了這樣俐落的髮型，似乎需要唇蜜的柔和感來平衡一下。  
+  
+#天然唇蜜好舒服沒負擔  
+#我沒有看起來這麼強悍  
+#年後再來多做幾個不同顏色唇蜜  
+#天然彩妝天然氣色好運自然來
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/NR4QVIu.jpg"><img class="postImage" src="https://i.imgur.com/NR4QVIuh.jpg" />  
+剪了這樣俐落的髮型，似乎需要唇蜜的柔和感來平衡一下。
+
+#天然唇蜜好舒服沒負擔
+#我沒有看..  
+ </a>   
