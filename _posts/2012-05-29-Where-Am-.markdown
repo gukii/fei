@@ -6,7 +6,7 @@ categories: ["crayon","paper"]
 media:
   - id: IUtGiUf
     name: GV6LpEL2KqH8D8nQZ822ckONQn
-    description: 'Where Am I?crayon on paper39 x 27 cm20120529    $ US 300If you look outside of you, you'll never find yourself, no matter how dark or shiny it seems...no matter how real it feels...'   
+    description: 'Where Am I?  crayon on paper  39 x 27 cm  201205..'   
     height: 365
     width: 512
     type: image/jpeg
@@ -18,7 +18,7 @@ media:
     portrait: 0
     mInfo: 8ej7uHHfXfuCubp
 story: '胡作霏為 Fei Fei Art added a new photo.'  
-message: 'Where Am I?  crayon on paper  39 x 27 cm  20120529    $ US 300    If you look outside of you, you'll never find yourself, no matter how dark or shiny it seems...no matter how real it feels...'  
+message: 'Where Am I?  crayon on paper  39 x 27 cm  20120529    $ US 300    If..'  
 ---
 
 Where Am I?  
@@ -34,5 +34,9 @@ If you look outside of you, you'll never find yourself, no matter how dark or sh
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/IUtGiUf.jpg"><img src="https://i.imgur.com/IUtGiUf.jpg" height="213" width="300" /></a> 
- 
+<a href="https://i.imgur.com/IUtGiUf.jpg"><img class="postImage" src="https://i.imgur.com/IUtGiUfh.jpg" />  
+Where Am I?
+crayon on paper
+39 x 27 cm
+201205..  
+ </a>   
