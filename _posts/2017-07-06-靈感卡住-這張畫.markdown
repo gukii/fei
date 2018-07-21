@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "靈感卡住  這張畫" 
+title: '靈感卡住  這張畫' 
 date: 2017-07-06T10:44:10+0000 
 categories: [] 
 media:
   - id: HRsv4mv
     name: 43lx2R66KvS81BDOMoAki192p6k
-    description: ""   
+    description: ''   
     height: 720
     width: 540
     type: image/jpeg
@@ -17,22 +17,9 @@ media:
     factor: 1.33
     portrait: 1
     mInfo: gVBxR5VTuXsyxjD
-  - id: rTSsiJl
-    name: NBVkG9OO1KI6BNpRDzz5tGqwZEV
-    description: ""   
-    height: 405
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/rTSsiJl.jpg
-    prevLoc: lovXBK4rk8CMEOOWGA2osRYQLM8RYPhBKjWGMWE6upW3vjAnOVSDoLjpD0DvTLWO9q4RvZI7oxWXlGBMSY5rAzvYlofXQRz7rpQvhvARP13vomFog6RKEJ35i5N62GoN2wHADprKwg62um21njQWVVizDmQ3vxO6hOXPoOyzJ2IvBBwQA9jOi5xnz33X1ksXMJoR05zJHrvLVoVQNDiyJw35BzYnI0zzVmRJGqfz18zEOow7UV5Mg42xgpSgZY4pBmqOU6m
-    parentId: xxYkyv66jzFXAJj04KgDukP8QoV
-    postId: ODWY1zMZj2Ik2qOBo66ZiME2xP39qkiPYA5xVBzBHqkz6NoWNAUx2m
-    factor: 1.78
-    portrait: 0
-    mInfo: p0Y6nKPcw4cQmaG
   - id: V2AYl79
     name: 1NgwMr667phZYpXLrXkRT0oL6ZW
-    description: ""   
+    description: ''   
     height: 720
     width: 540
     type: image/jpeg
@@ -43,7 +30,21 @@ media:
     factor: 1.33
     portrait: 1
     mInfo: RdemIqzacLTjpw6
-story: "胡作霏為 Fei Fei Art added 3 new photos."  message: "靈感卡住  這張畫恐怕難產  Getting stuck"
+  - id: rTSsiJl
+    name: NBVkG9OO1KI6BNpRDzz5tGqwZEV
+    description: ''   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/rTSsiJl.jpg
+    prevLoc: lovXBK4rk8CMEOOWGA2osRYQLM8RYPhBKjWGMWE6upW3vjAnOVSDoLjpD0DvTLWO9q4RvZI7oxWXlGBMSY5rAzvYlofXQRz7rpQvhvARP13vomFog6RKEJ35i5N62GoN2wHADprKwg62um21njQWVVizDmQ3vxO6hOXPoOyzJ2IvBBwQA9jOi5xnz33X1ksXMJoR05zJHrvLVoVQNDiyJw35BzYnI0zzVmRJGqfz18zEOow7UV5Mg42xgpSgZY4pBmqOU6m
+    parentId: xxYkyv66jzFXAJj04KgDukP8QoV
+    postId: ODWY1zMZj2Ik2qOBo66ZiME2xP39qkiPYA5xVBzBHqkz6NoWNAUx2m
+    factor: 1.78
+    portrait: 0
+    mInfo: p0Y6nKPcw4cQmaG
+story: '胡作霏為 Fei Fei Art added 3 new photos.'  
+message: '靈感卡住  這張畫恐怕難產  Getting stuck'  
 ---
 
 靈感卡住  
@@ -56,11 +57,11 @@ Getting stuck
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/HRsv4mv.jpg"><img src="https://i.imgur.com/HRsv4mv.jpg" height="300" width="225" /></a> 
-  
+<a href="https://i.imgur.com/HRsv4mv.jpg"><img class="postImage" src="https://i.imgur.com/HRsv4mvh.jpg" />  
+</a>    
 
-<a href="https://i.imgur.com/rTSsiJl.jpg"><img src="https://i.imgur.com/rTSsiJl.jpg" height="168" width="300" /></a> 
-  
+<a href="https://i.imgur.com/V2AYl79.jpg"><img class="postImage" src="https://i.imgur.com/V2AYl79h.jpg" />  
+</a>    
 
-<a href="https://i.imgur.com/V2AYl79.jpg"><img src="https://i.imgur.com/V2AYl79.jpg" height="300" width="225" /></a> 
- 
+<a href="https://i.imgur.com/rTSsiJl.jpg"><img class="postImage" src="https://i.imgur.com/rTSsiJlh.jpg" />  
+</a>   
