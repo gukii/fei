@@ -44,11 +44,11 @@ media:
     portrait: 1
     mInfo: JzbhZ1K3qbkcFKR
 story: '胡作霏為 Fei Fei Art added 3 new photos.'  
-message: 'The tree of life --- on sale  $ 24999'  
+message: 'The tree of life   $ 88000'  
 ---
 
-The tree of life --- on sale  
-$ 24999
+The tree of life   
+$ 88000
  
  
 [//]: #story:
