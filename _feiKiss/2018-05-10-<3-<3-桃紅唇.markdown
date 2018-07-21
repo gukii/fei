@@ -1,0 +1,92 @@
+---
+layout: post
+title: '<3 <3 桃紅唇' 
+date: 2018-05-10T03:56:13+0000 
+categories: [] 
+media:
+  - id: YVxMCFq
+    name: zw6YGwX3RwCzLnYEroNoUolVwQ
+    description: ''   
+    height: 720
+    width: 328
+    type: image/jpeg
+    link: https://i.imgur.com/YVxMCFq.jpg
+    prevLoc: AGQWvJk3X8HROrrx0nN9TjMPwxDjMWskMJ1G91Pzu1E0ROX78WurAYVgrBrMiLXW9E4AwgIDZk6g5PW7SL63wNy4gyf8jYLl3y0LC6KOmrrWqofKGm7V9l4WUrRm50ZMwKH3k1nzKoErHxyw6LJg4JH8Q08nLO2Es186PANNjrHNgD2Kk33jSvLk0Xv3wqcxPWo1NEx8TKy8O7goZrIrZOXBOnPgtr0OW9xlzOUBA2JnrZ83SmZPKpgPqMc5kzky5z9x
+    parentId: rl2Vwl93JlTOWygBAxKpFjY144
+    postId: NBZBlKv98vI68qRKR3MASLQNVQJXZkUoJow8nrEoirxrVoMzV6SW0
+    factor: 2.20
+    portrait: 1
+    mInfo: tsJgjknW7zmm9id
+  - id: V2kSi36
+    name: 9E9Y5EgKlECjD44R23z1UPJG1A
+    description: ''   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/V2kSi36.jpg
+    prevLoc: Vx5oX8M32JTZy00VB5xlhPkoxwBPkYFR5qK4rK83c5xVBj6n8vI6Yjxq656Du2nXZNjB4WTy3RLnGEXmt5DXrLXLMqiGOOO6AN1yuq2yVngQR7HXM6joNnZBTAZZ4ol5YkcVwQv1ojN2T568owBlvqsR40pK4RRoS0Vj4w33mqCvJGKr977RFEVAxkEA4Qsv8EBBz9kDsB4zZkGxK4sw4PQxmEA2crlqxkqLWDhqmyQg91yDIr1XNV4XRKIKr8LxXAG5
+    parentId: rl2Vwl93JlTOWygBAxKpFjY144
+    postId: NBZBlKv98vI68qRKR3MASLQNVQJXZkUoJow8nrEoirxrVoMzV6SW0
+    factor: 1.33
+    portrait: 1
+    mInfo: o2EZXgxanCPq04z
+  - id: piGfATE
+    name: 8D3K5DEJkDTgrPGwGj0rfoYBQ3
+    description: ''   
+    height: 720
+    width: 513
+    type: image/jpeg
+    link: https://i.imgur.com/piGfATE.jpg
+    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBQNQ3uz1lOMR5wpF5QGPXjO2qS2QoVr8RqnhX4LrBx22GH395Dqqkk0cMr9ENXZkVCDqV4oMGGGs7g7DBYg6rFqp5n9Ookyi70Y8YExDzIWvAgVrr0NtvW18jg006Fp6Y1Bpmo6t4gXjAPJorSrPR35A39MhKPkrkEV4BC01M80QyVpim0ZBZ1w0wCM672qB7xlSGYB4Z1wLl
+    parentId: rl2Vwl93JlTOWygBAxKpFjY144
+    postId: NBZBlKv98vI68qRKR3MASLQNVQJXZkUoJow8nrEoirxrVoMzV6SW0
+    factor: 1.40
+    portrait: 1
+    mInfo: HybP4Gxe49d6Lei
+  - id: FLNZKfQ
+    name: 8D3K5DEJkDTgEmJQKj5pioYEwk
+    description: ''   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/FLNZKfQ.jpg
+    prevLoc: QpNjP3E9KATRPBBnV3k6TZA2vXzZANhxXJym9yNAhjw1Erq9LRt9PwVz9o97szyEO7X9YKF7VRowQEZPS8RXA1j80gFXywPV99wPFWZ5kgKRoPiqRQ08KJ4lSNmzD59Oq7SpE1z5OpLLHYR06DWzBMfp8w5q8RmNF6pYjgnnzZfE19RnYKKZcDwOWRDK0YCyLlxXXAkxFp0ALD8XJghw3Jv8rgwotBqoYPNzJqSP4J8z25LGTKjPp79PBlixQJGjGzNM
+    parentId: rl2Vwl93JlTOWygBAxKpFjY144
+    postId: NBZBlKv98vI68qRKR3MASLQNVQJXZkUoJow8nrEoirxrVoMzV6SW0
+    factor: 1.33
+    portrait: 1
+    mInfo: ygtL3CbnBs7nyyo
+story: '霏吻Fei-Kiss added 4 new photos.'  
+message: '<3 <3 桃紅唇蜜 <3 <3     春天的花開了，  一抹桃紅在唇上，  我是花仙子，  為妳帶來幸福與滋潤，  願妳永遠綻放笑容..'  
+---
+
+<3 <3 桃紅唇蜜 <3 <3   
+  
+春天的花開了，  
+一抹桃紅在唇上，  
+我是花仙子，  
+為妳帶來幸福與滋潤，  
+願妳永遠綻放笑容 <3   
+  
+成分:橄欖油，有機篦蔴油，乳油木果脂，蜜蠟，薄荷精油，食用色素  
+  
+<<<分享價一支230含運，盒裝$330含運>>>  
+<<<與口紅搭配再打九折>>>
+ 
+ 
+[//]: #story:
+霏吻Fei-Kiss added 4 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/YVxMCFq.jpg"><img class="postImage" src="https://i.imgur.com/YVxMCFqh.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/V2kSi36.jpg"><img class="postImage" src="https://i.imgur.com/V2kSi36h.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/piGfATE.jpg"><img class="postImage" src="https://i.imgur.com/piGfATEh.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/FLNZKfQ.jpg"><img class="postImage" src="https://i.imgur.com/FLNZKfQh.jpg" />  
+</a>   
