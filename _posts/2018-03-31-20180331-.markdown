@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "20180331 " 
+title: '20180331 ' 
 date: 2018-03-31T12:45:23+0000 
 categories: [] 
 media:
   - id: PBcfOUB
     name: roPRmOLj4xHO9wxx47BYCMRVOlQ
-    description: "20180331When you have to talk to someone who doesn't interest you, you can just doodle. Time goes faster this way."   
+    description: '20180331  When you have to talk to someone who d..'   
     height: 451
     width: 720
     type: image/jpeg
@@ -17,7 +17,7 @@ media:
     factor: 1.60
     portrait: 0
     mInfo: aG8Zcn3JJBK1S6x
-message: "20180331  When you have to talk to someone who doesn't interest you, you can just doodle. Time goes faster this way."
+message: '20180331  When you have to talk to someone who doesn't interest you,..'  
 ---
 
 20180331  
@@ -25,5 +25,7 @@ When you have to talk to someone who doesn't interest you, you can just doodle. 
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/PBcfOUB.jpg"><img src="https://i.imgur.com/PBcfOUB.jpg" height="187" width="300" /></a> 
- 
+<a href="https://i.imgur.com/PBcfOUB.jpg"><img class="postImage" src="https://i.imgur.com/PBcfOUBh.jpg" />  
+20180331
+When you have to talk to someone who d..  
+ </a>   
