@@ -1,0 +1,65 @@
+---
+layout: post
+title: '凡是購買過霏吻產品' 
+date: 2018-01-17T04:20:17+0000 
+categories: [] 
+media:
+  - id: T8AYk4R
+    name: 6A8rZloYV8tJ1gBgnpq8uxknKP
+    description: ''   
+    height: 369
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/T8AYk4R.jpg
+    prevLoc: 8voWjwLQzXukqOOm3z6jcpwx4Q7pwrTG4APkgP3xcJA0r2z68wS8wYyv878xI8w9k6GpV1uZgG0KDzO4hOXmYQBA0pFJp4DVzqjrUxANvyQXmwiwNwkEn42wSmvw0VRNp2ID4BB4Zz92HoKwMy4EPMUK2LKpV2JPFgvRqlmm0KFWnrpKN55PuJY79NJ3owH0N8YvAJ96C96wnk3WVmsZkV0JXlZQcp76mKqx8Di7AlMnKl8khOB630L65RT0OZxr4rBW
+    parentId: wqpYWz9ngpcnA665z74ru1G0QW
+    postId: DoMoXZg90gTxzLP2PAO1Co1yB129PRI4NGpoOol3T4DLJ4g1L0u17
+    factor: 1.95
+    portrait: 0
+    mInfo: 9QzCpBLMizBJUVl
+  - id: 4KVdTN3
+    name: k0RJEkQ6MRCvqNPyRo9yIJ3PzX
+    description: ''   
+    height: 394
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/4KVdTN3.jpg
+    prevLoc: NmEXMZA3K7h63VVYLE0NC60W9MK60ohZxjgD2gnPczw1rPn0KmiBrQyNBnB4CoRNpqgx5wC3ARx6K9qMflZ12JxP4GiZLG01Mw4KHkxpXQ6wyxfJqQDPnkKnSO2A26PD0Wu8jOKyXk07fm1jX43gkzFD5VZN3polIQDwLNKrAvUoKg3p9oxMI8RGryV5KEFlqBpl37j0SqNXB8KWlytO6BBpR4ggCyq4VlL1DWfzK7M8yJ1mfQ5Ek19MwRT86AJXwp5
+    parentId: wqpYWz9ngpcnA665z74ru1G0QW
+    postId: DoMoXZg90gTxzLP2PAO1Co1yB129PRI4NGpoOol3T4DLJ4g1L0u17
+    factor: 1.83
+    portrait: 0
+    mInfo: MUk3VaUwR9N53d4
+  - id: MYx9DbS
+    name: xrkZXAqojkij9lL2ZlDMiRBzgz
+    description: ''   
+    height: 720
+    width: 473
+    type: image/jpeg
+    link: https://i.imgur.com/MYx9DbS.jpg
+    prevLoc: MlENLYz3K7IJ3xxpPRq5uL1XNlvL1rTWjMkKZkD5hgKQXy7jnAcM5gmzM7MDcg2LY7xQvqi7PEjJGoqYS83GrLyLq4FP3zlzrjKJcMgKNOmjBVT2o7Vg3kY1SywEJW33GYiR4kZJ5B63HJkEW3MBmjszQ75vPRMQtKxzlo99k5FEP5k1Q22wcBxKOwBLW4fmYmPXG0pYTRWz4038mGT982yLR0WXUyL5mv1jEjTXo65rmn0PcvY68Nj6PmFPqAZ9WY9Y
+    parentId: wqpYWz9ngpcnA665z74ru1G0QW
+    postId: DoMoXZg90gTxzLP2PAO1Co1yB129PRI4NGpoOol3T4DLJ4g1L0u17
+    factor: 1.52
+    portrait: 1
+    mInfo: 2nIIIX8MTDC2zh9
+story: '霏吻Fei-Kiss added 3 new photos.'  
+message: '凡是購買過霏吻產品的朋友， 上傳使用的照片和心得 說明使用的顏色和感覺 在這個專頁上 和自己的臉書上， 自付郵費就可以獲得""玫瑰單色口..'  
+---
+
+凡是購買過霏吻產品的朋友， 上傳使用的照片和心得 (說明使用的顏色和感覺 )在這個專頁上 和自己的臉書上， 自付郵費就可以獲得""玫瑰單色口紅小盒""一個，不選色。( 可以當鑰匙圈，裡面還有小鏡子喔)! <3 <3 <3
+ 
+ 
+[//]: #story:
+霏吻Fei-Kiss added 3 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/T8AYk4R.jpg"><img class="postImage" src="https://i.imgur.com/T8AYk4Rh.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/4KVdTN3.jpg"><img class="postImage" src="https://i.imgur.com/4KVdTN3h.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/MYx9DbS.jpg"><img class="postImage" src="https://i.imgur.com/MYx9DbSh.jpg" />  
+</a>   
