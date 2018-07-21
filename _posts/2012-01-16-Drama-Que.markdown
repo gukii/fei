@@ -17,19 +17,28 @@ media:
     factor: 1.39
     portrait: 1
     mInfo: ADTcPZQra8Hjew2
-story: '胡作霏為 Fei Fei Art added a new photo.'  
-message: 'Drama Queen  39 x 27 CM  hard pastel on paper  Shih-Efei, 2012      ..'  
+story: '胡作霏為 Fei Fei Art added a new photo.'
+message: 'Drama Queen  39 x 27 CM  hard pastel on paper  Shih-Efei, 2012      ..'
 ---
 
-Drama Queen  
-39 x 27 CM  
-hard pastel on paper  
-Shih-Efei, 2012       ( $US300)  
-  
---------------------------------  
-I was too naive,  
-wanting to create some peace,  
-(with hard pastel that i hate)  
+Drama Queen
+  
+39 x 27 CM
+  
+hard pastel on paper
+  
+Shih-Efei, 2012       ( $US300)
+  
+
+  
+--------------------------------
+  
+I was too naive,
+  
+wanting to create some peace,
+  
+(with hard pastel that i hate)
+  
 when i'm nothing but a drama queen.
  
  
