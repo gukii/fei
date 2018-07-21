@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "這個cracked" 
+title: '這個cracked' 
 date: 2017-05-21T04:14:42+0000 
-categories: [] 
+categories: ["wall"] 
 media:
   - id: 5xEfdC6
     name: BY7NV9rX91tNloyMm7kAuWOjxN
-    description: ""   
+    description: ''   
     height: 405
     width: 720
     type: image/jpeg
@@ -17,7 +17,8 @@ media:
     factor: 1.78
     portrait: 0
     mInfo: ZzHdvnAuHwviMsW
-story: "胡作霏為 Fei Fei Art shared 廈門11's video."  message: "這個cracked wall 系列作品已經辛苦的陪我展來展去了…我很好奇最後它會情歸何處?  The "cracked wall series" has been displayed in several places for me , and i'm curious where it'll be at last?"
+story: '胡作霏為 Fei Fei Art shared 廈門11's video.'  
+message: '這個cracked wall 系列作品已經辛苦的陪我展來展去了…我很好奇最後它會情歸何處?  The "cracked wall ser..'  
 ---
 
 這個cracked wall 系列作品已經辛苦的陪我展來展去了…我很好奇最後它會情歸何處?  
@@ -29,5 +30,5 @@ The "cracked wall series" has been displayed in several places for me , and i'm 
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/5xEfdC6.jpg"><img src="https://i.imgur.com/5xEfdC6.jpg" height="168" width="300" /></a> 
- 
+<a href="https://i.imgur.com/5xEfdC6.jpg"><img class="postImage" src="https://i.imgur.com/5xEfdC6h.jpg" />  
+</a>   
