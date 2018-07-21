@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "20171018 " 
+title: '20171018 ' 
 date: 2017-10-18T12:29:12+0000 
-categories: [] 
+categories: ["crayon","wood"] 
 media:
   - id: 19Gm442
     name: olM2pRBXMGHm4KMxlo6ZSRqPQEA
-    description: "20171018甦醒Crayon on wood pad"   
+    description: '20171018  甦醒  Crayon on wood pad'   
     height: 720
     width: 499
     type: image/jpeg
@@ -17,7 +17,8 @@ media:
     factor: 1.44
     portrait: 1
     mInfo: HZlHdOi7vQOfl74
-story: "胡作霏為 Fei Fei Art added a new photo."  message: "20171018  甦醒  Crayon on wood pad"
+story: '胡作霏為 Fei Fei Art added a new photo.'  
+message: '20171018  甦醒  Crayon on wood pad'  
 ---
 
 20171018  
@@ -30,5 +31,8 @@ Crayon on wood pad
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/19Gm442.jpg"><img src="https://i.imgur.com/19Gm442.jpg" height="300" width="207" /></a> 
- 
+<a href="https://i.imgur.com/19Gm442.jpg"><img class="postImage" src="https://i.imgur.com/19Gm442h.jpg" />  
+20171018
+甦醒
+Crayon on wood pad  
+ </a>   
