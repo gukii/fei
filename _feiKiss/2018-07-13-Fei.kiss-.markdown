@@ -1,0 +1,54 @@
+---
+layout: post
+title: 'Fei.kiss ' 
+date: 2018-07-13T08:11:36+0000 
+categories: [] 
+media:
+  - id: cTI2KEo
+    name: vpQwQyRv3YSZyKzxrYvLIoZGMR
+    description: ''   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/cTI2KEo.jpg
+    prevLoc: orv8GN4xnAIwYllA9BrXTXoMEx4XowT9KwvWqvPnc05YNk3x9MS8JX0m8Z8BIzwkGY3qmnFry1M9Rp0QsZgonWZPANCKqjy3znQ7Hym8kB6EBAUN588WvxgWTZQQvw8JWKfyElgN5pQQirxVnoZkyVHKRNl3xkPmh7pwJRPPlYfE4yRPkggOc6WvqA6rL8iYP81n5QgWT2Lg649Q8LSQW7qJ1kkjs5Nj6GwXy2hw3oDyQQrvSrAzn04z3OI4xWYBPJW9
+    parentId: EVqyqE1pjZUjgGXDV1OBSZo7oO
+    postId: zz2zr43Kn3FrZYLlLqm3FGqZMqOl00u2n53N2gMWtw6X33AqyYtNB
+    factor: 1.33
+    portrait: 1
+    mInfo: 6c4HX6MwHLwONaL
+  - id: b2appcv
+    name: AY6r6zWlVQT516ygJJWAUQ5O1z
+    description: ''   
+    height: 720
+    width: 572
+    type: image/jpeg
+    link: https://i.imgur.com/b2appcv.jpg
+    prevLoc: Vx5oX8M32JTZy00VB5xlhPkoxwBPkYFR5qK4rK83c5xVBj6n8vI6Yjxq656Du2nXZNjB4WTy3RLnGEXmt5DA1lWMM4TGKRQjZJKRiqWPgkK2ARfXZvLDynmRhAZZ9LWqEYSVN90jRBW3TBNEvPYwm8HRKN5KOojVu0Vj4w33mqCvJGKr977RFEVAxkEAMgUpO2NK7VGDIB4D11ym48IZQw4ZDvoZfrV0LwnNrJHJPxG2rLYqCr1XNV4XRKIKr6AogvWy
+    parentId: EVqyqE1pjZUjgGXDV1OBSZo7oO
+    postId: zz2zr43Kn3FrZYLlLqm3FGqZMqOl00u2n53N2gMWtw6X33AqyYtNB
+    factor: 1.26
+    portrait: 1
+    mInfo: 2FO82v2MeQgOutt
+story: '霏吻Fei-Kiss added 2 new photos.'  
+message: 'Fei.kiss 8    天然唇膏  無添加化學成分防腐劑  天然精油保濕味道自然  製作耗時耗力打算漲價'  
+---
+
+Fei.kiss #8  
+  
+#天然唇膏  
+#無添加化學成分防腐劑  
+#天然精油保濕味道自然  
+#製作耗時耗力打算漲價
+ 
+ 
+[//]: #story:
+霏吻Fei-Kiss added 2 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/cTI2KEo.jpg"><img class="postImage" src="https://i.imgur.com/cTI2KEoh.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/b2appcv.jpg"><img class="postImage" src="https://i.imgur.com/b2appcvh.jpg" />  
+</a>   
