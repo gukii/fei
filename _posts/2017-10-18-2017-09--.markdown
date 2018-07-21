@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "2017 09- " 
+title: '2017 09- ' 
 date: 2017-10-18T12:31:23+0000 
 categories: [] 
 media:
   - id: Cs5zTY1
     name: GrL6ynkK62T8R9kMEy4qtG3JE2v
-    description: ""   
+    description: ''   
     height: 512
     width: 720
     type: image/jpeg
@@ -19,7 +19,7 @@ media:
     mInfo: Pt9ZbWpmLWqs6dq
   - id: jehxD7g
     name: 3Xk1BRqJ1pF4lDoxkD2MuZNK5JR
-    description: ""   
+    description: ''   
     height: 513
     width: 720
     type: image/jpeg
@@ -30,7 +30,8 @@ media:
     factor: 1.40
     portrait: 0
     mInfo: 8sv0YT4BuREEf4T
-story: "胡作霏為 Fei Fei Art added 2 new photos."  message: "2017 09-"
+story: '胡作霏為 Fei Fei Art added 2 new photos.'  
+message: '2017 09-'  
 ---
 
 2017 09-
@@ -41,8 +42,8 @@ story: "胡作霏為 Fei Fei Art added 2 new photos."  message: "2017 09-"
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/Cs5zTY1.jpg"><img src="https://i.imgur.com/Cs5zTY1.jpg" height="213" width="300" /></a> 
-  
+<a href="https://i.imgur.com/Cs5zTY1.jpg"><img class="postImage" src="https://i.imgur.com/Cs5zTY1h.jpg" />  
+</a>    
 
-<a href="https://i.imgur.com/jehxD7g.jpg"><img src="https://i.imgur.com/jehxD7g.jpg" height="213" width="300" /></a> 
- 
+<a href="https://i.imgur.com/jehxD7g.jpg"><img class="postImage" src="https://i.imgur.com/jehxD7gh.jpg" />  
+</a>   
