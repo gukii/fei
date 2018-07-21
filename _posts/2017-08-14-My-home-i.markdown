@@ -95,8 +95,8 @@ media:
     factor: 1.78
     portrait: 0
     mInfo: Q0yABXBSTn2qAWa
-story: '胡作霏為 Fei Fei Art added 7 new photos.'  
-message: 'My home is my gallery.    All the paintings that weren't sold at the..'  
+story: '胡作霏為 Fei Fei Art added 7 new photos.'
+message: 'My home is my gallery.    All the paintings that weren't sold at the..'
 ---
 
 My home is my gallery.  
