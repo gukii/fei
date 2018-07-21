@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about/
+permalink: /about/  
 title: About-Fei
 ---
 
@@ -13,40 +13,36 @@ Some lines, some paintings are without sense at the outset. Sometimes it takes t
 
 Generally I like the idea of starting from a broken out-set. Where others might see imperfection, even a need to repair, I see a way forward. All it requires is a shift in perspective and thinking and a willingness to create and experiment. 
 
-Reflections on my past, people and abstract patterns surrounding myself such as the cracked wall tiles in the bathroom. 
+There are a number of paintings that cover a similar topic or were created using a process specific to that series:
 
 
 ### Cracked Wall Series
 
-Abstract paintings and pictures that want to come into this world. Recently I started painting reflections of strangers within the talking canvas series. 
+My paitings are reflections on the past, people and abstract patterns surrounding myself such as the cracked wall tiles in the bathroom. 
 
-Reflections on my past, people and abstract patterns surrounding myself such as the cracked wall tiles in the bathroom. Creating something new out of broken surroundings. All it requires is a shift in perspective and thinking and a willingness to create and experiment. 
 
-We are an expert-center for education, research and trade, based on the island of Taiwan.
+### Healing Canvas Series
+
+Painting to heal. Issues of the past brought to canvas. These are not easy and light paintings. Hard work pays off in one way or another..
 
 
 ### Talking Canvas Series
 
+A 1-2 hour talk with a person. Mostly the person talks while I paint my impressions of the preson and the things being said. Nobody knows where the talk will go to, or what image it will create. As trust builds up more difficult topics and memories are reached. Similar to the cracks in the wall, these talks reveal the cracks in people's personalities and lifes. The gradually developing painting is a new perspecitve, a constructive angle on matter coming from the past. 
 
-### Education  
-
-IKI provides courses, lectures, research programs and internships to Koi enthusiasts ranging from beginners to experts. These programs are offered in cooperation with universities, associations and Koi breeders. Courses are held at IKI and partner institutions. Among the lecturers are Koi breeders Kentaro Sakai of Japan, Ms. Chung Yingying of Taiwan, ZNA judges, professors and leading researchers.  
-
-### Research  
-  
-IKI cooperates with a number of institutions that are on the forefront of Koi-related research. The fields range from virology, bacteria, business to Koi food. Partner Koi farms actively run experiments, improve their practices and provide feedback.   
-
-### Trade  
-  
-IKI serves as a trading partner for Koi farms in Japan and Taiwan. We provide high-grade parent Koi that have been tested for fertility and health, certified and issued all necessary papers. More about breeders [here](/breeders/).  
+It can be refreshing, revealing, surprising or just an experience to see what kind of painting connects all these dots. As always with abstract painting, interpretation of paintings is differrent from person to person.
 
 
-### Experts in shipping  
-
-Our expertise in Koi purchasing, health checking and transporting Koi enables us to ship certified Koi with all necessary papers to breeders all around the world. Koi a packaged in special boxes to ensure optimal health, even on longer shipments. More info [here](/shipping/)
+Mostly this is done with people I don't really know. 
 
 
-### Parent Koi for breeding  
+### Paintings for sale
 
-Parent Koi undergo a number of tests including ultrasound, X-ray, blood tests and bacteria tests to ensure that they are suitable for breeding and healthy. If deemed suitable, they get certified and shipped to their final destination.  
+All my paintings are for sale. Please contact me by email should you be interested.
+
+
+
+### Exhibitions & Galleries
+
+I did some exhibitions in Taiwan. There might still be some video content and interviews online. I ll try to find some links. 
 
