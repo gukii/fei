@@ -1,0 +1,49 @@
+---
+layout: post
+title: '可愛帶點日本氣質的' 
+date: 2018-01-03T04:11:21+0000 
+categories: [] 
+media:
+  - id: XLsZ3De
+    name: MV8YEQxl4GHYjvWAp1GGHQALX5
+    description: ''   
+    height: 720
+    width: 405
+    type: image/jpeg
+    link: https://i.imgur.com/XLsZ3De.jpg
+    prevLoc: ZBwv2lQ7GZIjgPP1vD5MuOP6m45OPWsGLxqNVq64cR9vZK8VYmiDAgNwQQ1oTQKm1DNj0Nc4oxExOLkGfVm1mV6orZUXKBDEvOR9ImPP87nmxzSY7KR7Vyg1HqE81EWMLvf4PXmzmkz2cW1EJq78l6FlnzxLYWvZcM3QpMOKvkh855q1zGQLc6AErNND79HVOEOAyAYAHm02jAnWDvfJM6WD7LloIpNKx2v3rMtpwr1R0OGrUElAoPYvxXu8YLnjrM27Iy8
+    parentId: yvP16rxGYjt3YE962JpWiN6XKO
+    postId: QG3GoKy0OysRp1xGxPN8S1R8QRL6zAC500wlQ513HE1791owWkUGW
+    factor: 1.78
+    portrait: 1
+    mInfo: oRX8pfdOgSZt4gV
+  - id: Ip9NlAs
+    name: LV9XY8wk4EH2LLmpovWBsjovJW
+    description: ''   
+    height: 720
+    width: 405
+    type: image/jpeg
+    link: https://i.imgur.com/Ip9NlAs.jpg
+    prevLoc: q0V6KP4zpAI2NLLgBz8OuKr4YGkKrAHVOW6YK6wMHzy7XQ18AWinwryA883Ot50yZ8rlkrhyzRrR0x75uGjNjGyPYRSvREXDD72qtV55n3wVpBfO8MG8jWRYfjRzXPQVr3fypGDXDRjJsrQKVGQkPYf5Y8VwwxGOuKMnrKXGzAFVkkNvjn4zU56KXQQzknHwQZZ2Y3E2hrDogP27RVs4lmqomQBAhnp1LlRRQAhyJk53YxW4FOoPMDXpmZuXYVJQABKZu7W
+    parentId: yvP16rxGYjt3YE962JpWiN6XKO
+    postId: QG3GoKy0OysRp1xGxPN8S1R8QRL6zAC500wlQ513HE1791owWkUGW
+    factor: 1.78
+    portrait: 1
+    mInfo: akTuMlylktPoOVS
+story: '霏吻Fei-Kiss added 2 new photos.'  
+message: '可愛帶點日本氣質的女孩，使用的是 "霏吻10, 5"。 俏皮中還有點酷 <3'  
+---
+
+可愛帶點日本氣質的女孩，使用的是 "霏吻#10, #5"。 俏皮中還有點酷 <3
+ 
+ 
+[//]: #story:
+霏吻Fei-Kiss added 2 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/XLsZ3De.jpg"><img class="postImage" src="https://i.imgur.com/XLsZ3Deh.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/Ip9NlAs.jpg"><img class="postImage" src="https://i.imgur.com/Ip9NlAsh.jpg" />  
+</a>   
