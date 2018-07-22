@@ -1,28 +1,13 @@
 ---
 layout: post
 title: '霏吻Fei-Kis' 
-date: 2017-12-08T10:04:53+0000 
+date: 2017-12-08T10:08:18+0000 
 categories: [] 
 media:
-  - id: VjeZrTh
-    name: 43p3AvBR9Bh8O2oNo57yHVLnMR
-    description: ''   
-    height: 405
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/VjeZrTh.jpg
-    prevLoc: lovXBK4rk8CMEOOWGA2osRYQLM8RYPhBKjWGMWE6upW3vjAnOVSDoLjprrZBTL9p6rB0gBH7QrDrgJ4OcYngnJ3mOEURv9ZYk1EWHvnooDk5KZFoEXljARgzU5GOK5QmGpUp9QqMY13otmqm3mnxAyCzPRz63VqxfOXPoOyzJ2IvBBwQA9jOi5xnz33Xk1sXOVA5r74pUxQl7Q8XEjC7PXoNr5NAh0JoYoREDEC5o6NM5LkEiV5Mg42xgpSgZXXVoXYXc6E
-    parentId: 43p3AvBR9Bh8O2oNo57yHVLnMR
-    postId: W0g0xKG78Gh4KLk7kqy2cvqVLqEM3mU3MqqX2050H9n7o7LkvWtMW
-    factor: 1.78
-    portrait: 0
-    mInfo: 6szxrDgxO4hW75J
-story: '霏吻Fei-Kiss updated their cover photo.'  
+story: '霏吻Fei-Kiss updated their profile picture.'  
 ---
 
-霏吻Fei-Kiss updated their cover photo.
+霏吻Fei-Kiss updated their profile picture.
 
 
-[//]: #media:  
-<a href="https://i.imgur.com/VjeZrTh.jpg"><img class="postImage" src="https://i.imgur.com/VjeZrThh.jpg" />  
-</a>   
+ 
