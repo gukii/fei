@@ -1,0 +1,89 @@
+---
+layout: post
+title: '霏吻 NO.7  ' 
+date: 2017-07-15T14:59:31+0000 
+categories: [] 
+media:
+  - id: rfQHV2e
+    name: EVRYoONN0ZtjBOJnNXV6hZXgX3
+    description: ''   
+    height: 720
+    width: 629
+    type: image/jpeg
+    link: https://i.imgur.com/rfQHV2e.jpg
+    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnAqPqMuAGo2Eq18ZS41W0N5ZGwcor2LLDNmBcjzEZAXAN1iEB0RR7yywtWjkl8A0n5CQW8gzKYZ9inV8yQYByDCRz2Gr0NrWFQ54A6worycNEGm9RRZnS7kgP6ZwwpT9gYk59YX0fLr5n299yZtlVvwBqBpWfYG9pD7yqAtA9REzvQDysjLEn8LNEPcroEKQDEz6I21yZ2LrOl
+    parentId: wqpo49YYKEInoXqG5Kx4T1znPY
+    postId: 3XoXzrA29As4lgB1BKRwc7B1EBXr31iLMAMRn7NLHxkAW362Lgujg
+    factor: 1.14
+    portrait: 1
+    mInfo: lo8gyHe4bZoCE6a
+  - id: bG8Sg5F
+    name: j9RX4QGG0vc0gk6xQwqNf14DZA
+    description: ''   
+    height: 720
+    width: 710
+    type: image/jpeg
+    link: https://i.imgur.com/bG8Sg5F.jpg
+    prevLoc: gjx8wB4mD7hByPPv6mAlfD74JgRD70hNDYpwkp54Cm6AOM2rjvipZ40qpVpWhRyQMV5AKPuOLNJz1K3GiPn0J8VQB7ipPKERDWRZFlgJVVNPGmuYoY3DpDVPTQwRDxjQ41cvG7rxNQnyS6VLk28p1otN4JppRMzKFq6QxOGGmyuXzKRwrZZGSBW5pnB1OPfWMZ5xzKLASLKPZ47gPZUQ8YxVW7z8CQZDY4Py2otDEvxE1314Fmk5Wj35pyfKXlAwPXVD
+    parentId: wqpo49YYKEInoXqG5Kx4T1znPY
+    postId: 3XoXzrA29As4lgB1BKRwc7B1EBXr31iLMAMRn7NLHxkAW362Lgujg
+    factor: 1.01
+    portrait: 1
+    mInfo: xOA7uUObjvxBP0V
+  - id: j3kDQy0
+    name: l9YZ4QKK2vclLk8ELBGXS1JOWq
+    description: ''   
+    height: 720
+    width: 662
+    type: image/jpeg
+    link: https://i.imgur.com/j3kDQy0.jpg
+    prevLoc: NmEXMZA3K7h63VVYLE0NC60W9MK60ohZxjgD2gnPczw1rPn0KmiBrQyNBnB4CoRNpqgx5wC3ARx6K9qMflZ0mmgOWQSZNB0lZ3gGiwoV4467yKhJqJ8x7xP0CO2WG6qv12I8QPGpW97gsv09Jq4Z0KSDQqq7EBW2IQA8OnWWVjhozyQJN44muO5DqvOVE6i2p14oB6oGHqjgGAQg56cM5B825XO0UyRLX648jEtlPwDYqE3qUkKYNAmYjMcZRmMkmORD
+    parentId: wqpo49YYKEInoXqG5Kx4T1znPY
+    postId: 3XoXzrA29As4lgB1BKRwc7B1EBXr31iLMAMRn7NLHxkAW362Lgujg
+    factor: 1.09
+    portrait: 1
+    mInfo: Y2qEJFsJklrVgPg
+  - id: B5Q5Il5
+    name: n9524QMMgYcVKY5AwnLQSmMw96
+    description: ''   
+    height: 720
+    width: 624
+    type: image/jpeg
+    link: https://i.imgur.com/B5Q5Il5.jpg
+    prevLoc: Vx5oX8M32JTZy00VB5xlhPkoxwBPkYFR5qK4rK83c5xVBj6n8vI6Yjxq656Du2nXZNjB4WTy3RLnGEXmtWXN2Pg60wSoEKygEY03Tr0MRRME0GUX9Qzr6N7xSAZn5V4LJKuVZY19m3m5hBA2gzgVn7C1zJEnK423c0Vj4w33mqCvJGKr977RFEVAxkE3WVTpOg3Kg0zPHNqvJXQ1nLuwgAOWZDvLsvk9K0vGZmcJQ44Xo9DpTr1XNV4XRKIKrkr7BYA7
+    parentId: wqpo49YYKEInoXqG5Kx4T1znPY
+    postId: 3XoXzrA29As4lgB1BKRwc7B1EBXr31iLMAMRn7NLHxkAW362Lgujg
+    factor: 1.15
+    portrait: 1
+    mInfo: Tp6dkMBfcoxcApE
+story: '霏吻Fei-Kiss added 4 new photos.'  
+message: '霏吻 NO.7  -- 經典Classic  做了十支與您分享，一支$450    不同以往滋潤度高的唇膏，霏吻7號使用更顯色的配方，讓..'  
+---
+
+霏吻 NO.7  -- 經典Classic  
+做了十支與您分享，一支$450  
+  
+不同以往滋潤度高的唇膏，霏吻7號使用更顯色的配方，讓夏日的高溫裡不容易掉色。  
+  
+亮紅色的唇，讓你耀眼在整個盛夏。  
+  
+#含天然植物油維他命E食用級色素  
+#不含蜜蠟
+ 
+ 
+[//]: #story:
+霏吻Fei-Kiss added 4 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/rfQHV2e.jpg"><img class="postImage" src="https://i.imgur.com/rfQHV2eh.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/bG8Sg5F.jpg"><img class="postImage" src="https://i.imgur.com/bG8Sg5Fh.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/j3kDQy0.jpg"><img class="postImage" src="https://i.imgur.com/j3kDQy0h.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/B5Q5Il5.jpg"><img class="postImage" src="https://i.imgur.com/B5Q5Il5h.jpg" />  
+</a>   
