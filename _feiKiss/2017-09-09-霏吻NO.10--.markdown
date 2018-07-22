@@ -1,0 +1,98 @@
+---
+layout: post
+title: '霏吻NO.10--' 
+date: 2017-09-09T04:15:58+0000 
+categories: [] 
+media:
+  - id: mS5Ibxf
+    name: KVrPwPP8B6I1NOmWrzANCpXDpz
+    description: ''   
+    height: 720
+    width: 647
+    type: image/jpeg
+    link: https://i.imgur.com/mS5Ibxf.jpg
+    prevLoc: QpNjP3E9KATRPBBnV3k6TZA2vXzZANhxXJym9yNAhjw1Erq9LRt9PwVz9o97szyEO7X9YKF7VRowQEZPSrj4L82kEVFX0Pn20l1LFWxElZ7ovkhqLRpE3Km0CNmWYvVWkGcp1mEY4XnQCYwKrNYWmqUpYA1y7GVoH6pYjgnnzZfE19RnYKKZcDwOWRDK5nFyZVOBYEoqUWnW3VNGMqcgoX4BvOq8sW1kJr8pPgCPL559qmrKFKjPp79PBlixQnv3nPLg
+    parentId: l9YJqJJRLpFMZolV2LWLI1K1yO
+    postId: lgKgZk35p3tM8w7J7EzysW3Bg3km89skPP28PqZ7fvEGV1yWM2I0K
+    factor: 1.11
+    portrait: 1
+    mInfo: lnFz6QvZuVpnxkL
+  - id: eqBUXMv
+    name: RV6ZEZZlnLIOLkR0mERGtqjj96
+    description: ''   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/eqBUXMv.jpg
+    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZRZguonpPQWA3yClWJjwO26vtApwr4mGzEU3k3kXMBzpcGL4vgogB5So48NpP0m1TOGqR3Kl1KF6NAZkR4WJF1JM4DLwoVCKyqOx73jAToQJgprrB5FLKZOV4xxJC95op79vK3HgzvvgklDRulpYpW2PWGUWg8mpK1NEcgMV4qYwR6fq2lJ0OOZlIgvk72okzxtMYj14xV3Z
+    parentId: l9YJqJJRLpFMZolV2LWLI1K1yO
+    postId: lgKgZk35p3tM8w7J7EzysW3Bg3km89skPP28PqZ7fvEGV1yWM2I0K
+    factor: 1.33
+    portrait: 1
+    mInfo: YwOpR1sVZIcpHQK
+  - id: zvo9xI6
+    name: 9ErqVqq9B2HOXLxVXl1ZtPnn0x
+    description: ''   
+    height: 720
+    width: 675
+    type: image/jpeg
+    link: https://i.imgur.com/zvo9xI6.jpg
+    prevLoc: 5plV2qGNwATl9ggy8xZ0fK8LjrXK8gH31MOBqOnmFomzOxQ9KLhj9Y1JjxjEiR7N31nwMXumLEJk7qBPi9Nxl890l7SVjPOoj23LiWzrKoQMEQUm12g60GNXsMPmkRZEZWcQM8nrjqz4fBvk93jWjnFJ5QKwMv5wSkZ6VBJJEjtMlQ4z3PPjTpKNmMpNMEuVQzxgw03BcXzrxB30BYczxBWyvrJkUGDm8GRl99t71nG7BjXWF6Xxl7AxLWfrlkvDk4rO
+    parentId: l9YJqJJRLpFMZolV2LWLI1K1yO
+    postId: lgKgZk35p3tM8w7J7EzysW3Bg3km89skPP28PqZ7fvEGV1yWM2I0K
+    factor: 1.07
+    portrait: 1
+    mInfo: mFtuyyNntO3q6Gi
+  - id: ZVho20i
+    name: m9ZKrKKq6EFMnjE8kJr8HQkkGm
+    description: ''   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/ZVho20i.jpg
+    prevLoc: 4okV1p0MvWC85YYZPmBJSrMK5nlrMwuJQLxDGxgyF1VqyLJ3pGu06v780R0Efy1YmGJDrwcxAgzYovV9cl0OVDx3vYFv9z02yEO2uvGwZNQN8EClz46VjGNnszZZYwRn43c5DM5g4G8Zhp4kNPRmEJsQEOoEKrQxIpKmNPDDOYfXjlm6N11gS7GxX47xPqc6rO3QVRrWuxAPA0OzjWHX6AGXG95EuQMGrVYMWyI8lvEpgYNjfozw6mMwW8tLxoL6AMR9
+    parentId: l9YJqJJRLpFMZolV2LWLI1K1yO
+    postId: lgKgZk35p3tM8w7J7EzysW3Bg3km89skPP28PqZ7fvEGV1yWM2I0K
+    factor: 1.00
+    portrait: 0
+    mInfo: L6XwZuAJVnz5LDz
+story: '霏吻Fei-Kiss added 4 new photos.'  
+message: '霏吻NO.10--Denial  做了10支與您分享  一支$450    霏吻10號-=- 否定自我。終於誕生。  不要問我為什麼取這..'  
+---
+
+霏吻NO.10--Denial  
+做了10支與您分享  
+一支$450  
+  
+霏吻10號--- 否定自我。終於誕生。  
+不要問我為什麼取這個名字，因為有時候藏在美麗的顏色後面也許是來自對自己的否定?   
+  
+成分:維他命E,天然堪蜜里蠟,可可脂,有機植物油,植物精油，食用色素。  
+無添加蜜蠟，防腐劑，鉛等化學物質。  
+假裝美麗的同時也保養自己的唇。  
+  
+Fei-Kiss NO.10--Denial  
+Don't ask me why it's named "Denial".  
+But maybe sometimes what's hidden behind a beautiful color, is actually denial of self?   
+  
+Natural Ingredients (without beeswax, preservatives )  
+  
+Vitamin E, Natural licensor was, organic plant oil, essential oil, edible pigment
+ 
+ 
+[//]: #story:
+霏吻Fei-Kiss added 4 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/mS5Ibxf.jpg"><img class="postImage" src="https://i.imgur.com/mS5Ibxfh.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/eqBUXMv.jpg"><img class="postImage" src="https://i.imgur.com/eqBUXMvh.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/zvo9xI6.jpg"><img class="postImage" src="https://i.imgur.com/zvo9xI6h.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/ZVho20i.jpg"><img class="postImage" src="https://i.imgur.com/ZVho20ih.jpg" />  
+</a>   
