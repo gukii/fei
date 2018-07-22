@@ -1,0 +1,51 @@
+---
+layout: post
+title: '今天輕輕的擦上"霏' 
+date: 2017-10-25T03:22:53+0000 
+categories: [] 
+media:
+  - id: QtPm1EA
+    name: BYBzoy9P63hNlZE3ZL41cWMzZ3
+    description: ''   
+    height: 720
+    width: 396
+    type: image/jpeg
+    link: https://i.imgur.com/QtPm1EA.jpg
+    prevLoc: QpNjP3E9KATRPBBnV3k6TZA2vXzZANhxXJym9yNAhjw1Erq9LRt9PwVz9o97szyEO7X9YKF7VRowQEZPSrjVlkX4jBU6RvojLgWRsWxzp2XkO8TqVkBqj583cNmDm70q8XIp146x70rEIYq1BzOg7MTp44mpkD2nt6pYjgnnzZfE19RnYKKZcDwOWRDKZgtx8mmXk1BgHpBJW7qgOlFgL9QBM2MWiDqRz3PjvEUnznzMw3rOuKjPp79PBlixk8mVyo1m
+    parentId: VVO1p9n7Q3C8P9gv2NwyIQOGPn
+    postId: kLJLYj3Zo3TwjyNVNBq7u7PENPgjm9C8DpNGNWJqFyN1qp9VA2cWV
+    factor: 1.82
+    portrait: 1
+    mInfo: 5vI4Mu0LmRxhxzh
+  - id: 1p1Ew4D
+    name: PVNRm8WzQ3Cn5DjD9kXnU69zMG
+    description: ''   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/1p1Ew4D.jpg
+    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBQNQ3uz1lOM7JqmF5QGPXjO2qSYpKE5Zv3ysEA5GnGj9KU32kEGxDLksMgnvMmVNlUDqVo1K3pxH7MxEV9zYKUKQ3GpnpEwSpL9j81D1rIWvAgVrr0NtvW18jg006Fp6Y1BpmxmuW2pKK6GqYIr0VVVglXgCXxP04vr8JhLYnzljvQ5TmnEYBN9G2FM672qB7xlSGYEEN1J3O
+    parentId: VVO1p9n7Q3C8P9gv2NwyIQOGPn
+    postId: kLJLYj3Zo3TwjyNVNBq7u7PENPgjm9C8DpNGNWJqFyN1qp9VA2cWV
+    factor: 1.00
+    portrait: 0
+    mInfo: wIcxah1cOKbR9yy
+story: '霏吻Fei-Kiss added 2 new photos.'  
+message: '今天輕輕的擦上"霏吻12號--橘色雲"護唇膏，是不是很搭這條橘色的絲質圍巾?    Today I'm wearing" No.12-"..'  
+---
+
+今天輕輕的擦上"霏吻12號--橘色雲"護唇膏，是不是很搭這條橘色的絲質圍巾?  
+  
+Today I'm wearing" No.12-" Doesn't it match well the orange scarf?
+ 
+ 
+[//]: #story:
+霏吻Fei-Kiss added 2 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/QtPm1EA.jpg"><img class="postImage" src="https://i.imgur.com/QtPm1EAh.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/1p1Ew4D.jpg"><img class="postImage" src="https://i.imgur.com/1p1Ew4Dh.jpg" />  
+</a>   
