@@ -1,0 +1,76 @@
+---
+layout: post
+title: '"橘色雲" 好多人' 
+date: 2017-11-07T05:16:53+0000 
+categories: [] 
+media:
+  - id: idcySfx
+    name: g9JvY1O57jhBoD92lxLvhEPN5Y
+    description: ''   
+    height: 370
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/idcySfx.jpg
+    prevLoc: 6qmG3rJOxYiWmVVRk1rosAL3vKoAL7tzAP4G74n6C3LXjw0rOGuRNQ7vRDR4tOx89RWorNhqAGMPVR6ES8E6NlpJYvTPWWWLkWlrIg60W8v4m2fm9ZrBP9R3CpV4xjNNQnFjvLZKqg1mFDqWRLBLnPiPoEp9Krqkuymq9E88zlf5KZA8E44qsVmAOJVB2Rfy9YWrEgNBujqJoNPQ3wcBJywAg8JZsorLVEwQ60iAEpvzvZWPH1Z4MWE4QlU9lNV42RzG
+    parentId: X9D3xmv6YzhZXYQR11v9FmX68x
+    postId: YmkmzYKvMKC9qW8R8l6QsPL7jLnDNVIqymmvOPWKho6lRQ5YWYTrW
+    factor: 1.95
+    portrait: 0
+    mInfo: Q8yVXoIMRJFyIFq
+  - id: 9b3gDoF
+    name: MV80DOPj7lsJwJDKNZV4sQ3wA7
+    description: ''   
+    height: 688
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/9b3gDoF.jpg
+    prevLoc: BJ8OwK03X1TnKPPxqM7VhZ1gPwxZ15hGLp3Ny3E1cRAvlN63MoiOA6J7ODOjIzM17YR5BOFYn9wNALBGfZM1X2wEYRF8r6QQ8r9rFYOokZAD5vsrxOAVZxMGuQ358BZp0XuLEAAYVlvWSAPw8jq2AGtXKXKOrkRgij0XNkPPAzfD7mJL0nnXCzPZV7zkwZhDE3WXE94lH9GznnqYpoi3ozgQRLZQSAl98x95vKiqPjpjGQELhwjvgZWvYJs3PnB1WDRP
+    parentId: X9D3xmv6YzhZXYQR11v9FmX68x
+    postId: YmkmzYKvMKC9qW8R8l6QsPL7jLnDNVIqymmvOPWKho6lRQ5YWYTrW
+    factor: 1.05
+    portrait: 0
+    mInfo: ugzb7uSVWoll1qh
+  - id: HnsGyVU
+    name: 0rR4qvNgAkhy7zKDWVD3fOjwJj
+    description: ''   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/HnsGyVU.jpg
+    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvOLNynM19c769yJK4k8SDjElx34vXTLGJZQxXgPc13DpwyAYKCLB28o3BO7SloyZ68Z9ZsPz0xXAW39HLXwZ6WkrzIkg90oxj0LuOKmg8ppRVsR2W8pOooVuklP5NkPE8u3kMqqr7q5H5MW71ZvEATMv7x4GVGBcKqEjXy8pZcA1p8n2EGNhJ0DWQoDEzcnXq3gOpxg
+    parentId: X9D3xmv6YzhZXYQR11v9FmX68x
+    postId: YmkmzYKvMKC9qW8R8l6QsPL7jLnDNVIqymmvOPWKho6lRQ5YWYTrW
+    factor: 1.00
+    portrait: 0
+    mInfo: a37xlHatPa2x2yn
+story: '霏吻Fei-Kiss added 3 new photos.'  
+message: '"橘色雲" 好多人喜歡，多做了一批與您分享!  一支$450    成分;玻尿酸，薰衣草精油，橄欖油，堪地里蠟，食用色素。    無添加..'  
+---
+
+"橘色雲" 好多人喜歡，多做了一批與您分享!  
+一支$450  
+  
+成分:玻尿酸，薰衣草精油，橄欖油，堪地里蠟，食用色素。  
+  
+無添加化學成分，#純天然的口紅，也可以當#護唇膏喔～  
+  
+#Homemade 100% #Natural  #lipstick/lipbalm  
+No.12- Orange Cloud  
+  
+Ingredients:   
+Olive oil/hyaluromic acid/Lavender essential oil/candelilla wax
+ 
+ 
+[//]: #story:
+霏吻Fei-Kiss added 3 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/idcySfx.jpg"><img class="postImage" src="https://i.imgur.com/idcySfxh.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/9b3gDoF.jpg"><img class="postImage" src="https://i.imgur.com/9b3gDoFh.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/HnsGyVU.jpg"><img class="postImage" src="https://i.imgur.com/HnsGyVUh.jpg" />  
+</a>   
