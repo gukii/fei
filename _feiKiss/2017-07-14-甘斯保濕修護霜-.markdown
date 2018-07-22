@@ -1,0 +1,53 @@
+---
+layout: post
+title: '甘斯保濕修護霜  ' 
+date: 2017-07-14T08:21:40+0000 
+categories: [] 
+media:
+  - id: OYAjvFP
+    name: RV6pqRvOwzsOMXJmw2xjTqLODo
+    description: ''   
+    height: 447
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/OYAjvFP.jpg
+    prevLoc: 1lYEXmAJpVIZGnnrgkMph91EWgv91xugB2XkpXP0srwjYE0R3BHM46pAMNMRcE0LxR73BwcYwn2m0ABqf1B7xxPJvjt8Ekm6rJP8CBL3w9qpoMt5qkW0K4OvT8w14m4LKvI2LkkYzzJztj5GG5X75XhjKAPB8zyVhroBvkM9ORCx4Z1DAxMrhl6K2Jz041IvAVo4ZQjZC89YPgRyOMCXmrOn67NxhjE2JjN2JwUnXM8nZLOXFoE5M7Gq8Qc7pOrNN6p
+    parentId: MV8klMnworsYqZDkOABRhQYWvW
+    postId: PE2EnKxZYxH6R1lYlX5OSxLlZL7kKlcj8QkjZQm3UkvXK6JoDvfMR
+    factor: 1.61
+    portrait: 0
+    mInfo: wffM0znvd9DGjd7
+  - id: 1VxnxFz
+    name: VVOwxYzAlEsZWZR2zRWqTQOz54
+    description: ''   
+    height: 720
+    width: 405
+    type: image/jpeg
+    link: https://i.imgur.com/1VxnxFz.jpg
+    prevLoc: LkY0KXy31AC39NN0qmRPuvgJAQRvgpT0xB9MD9oVtlQM4YrEROijwl4kjojViJy7wG1x3MF05RDg9kNvS31oA7YA5AuwqMkkwRpWUG2pM5wW35ulVRYZGzgzIEg8XoBZ0kF3y71JJYMDTqjZ8YPppAtM16PR5WrVu76PNOgg2AfYlgkKGww3IXErgzXrD1sDGnVj0QX6f4o1XkVvznix1RJBwmZwSJqmOO9GO4hqRkymjKr3Iok8R7j8mYtRy81JoR1E
+    parentId: MV8klMnworsYqZDkOABRhQYWvW
+    postId: PE2EnKxZYxH6R1lYlX5OSxLlZL7kKlcj8QkjZQm3UkvXK6JoDvfMR
+    factor: 1.78
+    portrait: 1
+    mInfo: 6WTl7fXTsvdT4j4
+story: '霏吻Fei-Kiss added 2 new photos.'  
+message: '甘斯保濕修護霜  全身適用    成分; 天然有機植物油，精油，兩種甘斯能量水  無添加防腐劑 ，建議3個月使用完畢'  
+---
+
+甘斯保濕修護霜  
+全身適用  
+  
+成分: 天然有機植物油，精油，兩種甘斯能量水  
+無添加防腐劑 ，建議3個月使用完畢
+ 
+ 
+[//]: #story:
+霏吻Fei-Kiss added 2 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/OYAjvFP.jpg"><img class="postImage" src="https://i.imgur.com/OYAjvFPh.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/1VxnxFz.jpg"><img class="postImage" src="https://i.imgur.com/1VxnxFzh.jpg" />  
+</a>   
