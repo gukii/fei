@@ -1,0 +1,66 @@
+---
+layout: post
+title: '為了環保愛地球，並' 
+date: 2017-10-15T09:43:53+0000 
+categories: [] 
+media:
+  - id: wuW2AP4
+    name: X9D1A6V6z7i9817M64DpFm2MZQ
+    description: ''   
+    height: 720
+    width: 675
+    type: image/jpeg
+    link: https://i.imgur.com/wuW2AP4.jpg
+    prevLoc: Vx5oX8M32JTZy00VB5xlhPkoxwBPkYFR5qK4rK83c5xVBj6n8vI6Yjxq656Du2nXZNjB4WTy3RLnGEXmtWARwnwkK9TGOA1JLKPMHq6Kj1XVM7CXZ43Mj11QfAZg0LqlAgiv1VPNM3gxIBMpkqmLlRHRy6zyZ9AoS0Vj4w33mqCvJGKr977RFEVAxkEv8yIw4QmJVOV9UNp72mDj7OfYr9y4l58LTXpn1X93yqhJgrpDnKLxCr1XNV4XRKIKrQ8nrZ8Y
+    parentId: VVOYymZmx5SZWZROEOXrCQmEVJ
+    postId: zz2zr43Kn3FrZYLlLqm3FGqZMqOl3gTmRA5XgqOYIwML2wg4qGt9Y
+    factor: 1.07
+    portrait: 1
+    mInfo: IotKQzX6GDR09ec
+  - id: ch29A3p
+    name: Y9E2B6X6AQi9nzzWplvlFMxNj8
+    description: ''   
+    height: 720
+    width: 405
+    type: image/jpeg
+    link: https://i.imgur.com/ch29A3p.jpg
+    prevLoc: OnELN1B3XJsOx55DY0pAhz5BYQ4z57s4VjyzBy9xumZ9q5NzQYirP8BnrXrmiD6KlBLZG0c6n7K5AJEOTP0zXYOLEVhmP02WYZ33C7VGERlMZZuvEvqNOZ95Ig86xVw68DhkGV30my6ZIrJjrWOL7PfowXP53Gnyc2B680OODASlnrAzLRREUo73rYomQLCNZD3M9ZE0f0YYqMVxxQu9jJjrDKQ8hD3YmmVONAhAKPwopjBwcNWmo7Amj5s35q3KjRDw
+    parentId: VVOYymZmx5SZWZROEOXrCQmEVJ
+    postId: zz2zr43Kn3FrZYLlLqm3FGqZMqOl3gTmRA5XgqOYIwML2wg4qGt9Y
+    factor: 1.78
+    portrait: 1
+    mInfo: bI4htCYytJ4aDy9
+  - id: p4QU9QK
+    name: J96JjZXZgYin6VZj7rJzHvD6MM
+    description: ''   
+    height: 473
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/p4QU9QK.jpg
+    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnAqPqMuAGo2Eq18ZS41W0N5ZGwcorzBK2gm8cjym8nM6wPH81ryvMgXWsrN1EL37W5IQWWo0WR3yu8k064GwDWf0DzjgRGqGHQ1LyGQKAncNEGm9RRZnS7kgP6ZwwpT9gYk59Y56iLkO87RQNBIvqNZq0RoJcKV2653kqWclMWOJRAJlSjmLX2poyVcroEKQDEz6I21gO64VYm
+    parentId: VVOYymZmx5SZWZROEOXrCQmEVJ
+    postId: zz2zr43Kn3FrZYLlLqm3FGqZMqOl3gTmRA5XgqOYIwML2wg4qGt9Y
+    factor: 1.52
+    portrait: 0
+    mInfo: GK6ckhlyuOeMCZ5
+story: '霏吻Fei-Kiss added 3 new photos.'  
+message: '為了環保愛地球，並讓更多人體驗最近所學的"甘斯能量"，所有我製作的口紅和乳液的包裝都是使用自製的"甘斯再生紙"，整張紙都是甘斯能量製作，..'  
+---
+
+為了環保愛地球，並讓更多人體驗最近所學的"甘斯能量"，所有我製作的口紅和乳液的包裝都是使用自製的"甘斯再生紙"，整張紙都是甘斯能量製作，並可以拿來運用。  
+希望讓大家美麗的同時，也可以盡量不製造更多垃圾。
+ 
+ 
+[//]: #story:
+霏吻Fei-Kiss added 3 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/wuW2AP4.jpg"><img class="postImage" src="https://i.imgur.com/wuW2AP4h.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/ch29A3p.jpg"><img class="postImage" src="https://i.imgur.com/ch29A3ph.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/p4QU9QK.jpg"><img class="postImage" src="https://i.imgur.com/p4QU9QKh.jpg" />  
+</a>   
