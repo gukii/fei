@@ -1,0 +1,92 @@
+---
+layout: post
+title: '霏吻8號--粉紅之' 
+date: 2017-07-19T04:35:30+0000 
+categories: [] 
+media:
+  - id: bPQcFTC
+    name: 7B3EK92D8BsYWoNVOG9JTq4xK1
+    description: ''   
+    height: 399
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/bPQcFTC.jpg
+    prevLoc: BJ8OwK03X1TnKPPxqM7VhZ1gPwxZ15hGLp3Ny3E1cRAvlN63MoiOA6J7ODOjIzM17YR5BOFYn9wNALBGfZM2J3Y46wfn7ONYVoNBTA3rBRQV3ZTMWJqjENV9IQ358RQ7ZMHLDYY79n1gSYzmYJgNDlSyXpPmnKgNcjOVKwgY0BtDxVzPgD6oCg9MJjXZB6cWL9q9OQ3WT9GYp0KX8zc3lMNGGrNlS5y5ZQ4BGZiqzZMpWVv1s7onwz4JPWTQgDrY2Pp
+    parentId: 0rRwz8PAqrczM5R8lJjvCOJzpj
+    postId: Vj8jw2EPNEsZ6nvrvyP7i1n4En7mB4flZyoGqnA5fB7qL60Z5As50
+    factor: 1.80
+    portrait: 0
+    mInfo: 6Xfsi90HO0Ztsb6
+  - id: 1S7FA7w
+    name: og234ZkARgHmKqp8ZMvghOrpAm
+    description: ''   
+    height: 720
+    width: 595
+    type: image/jpeg
+    link: https://i.imgur.com/1S7FA7w.jpg
+    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBQNQ3uz1lOMR5wpF5QGPXjO2qSYpRkxA6mriEGwyq3rXKt32DZNXYJJT8yB9lzo2zSDq0mM88yWu7MD25xjE4Fq0MWYEEl5U7NGljYEjVFWvAgVrr0NtvW18jg006Fp6Y1Bp97yT6xkoOp9v0irPkkVojX3cKoX4XEA46f4A8p8j9Y0TRQwQ08Qo8cM672qB7xlSGLjANAZAw
+    parentId: 0rRwz8PAqrczM5R8lJjvCOJzpj
+    postId: Vj8jw2EPNEsZ6nvrvyP7i1n4En7mB4flZyoGqnA5fB7qL60Z5As50
+    factor: 1.21
+    portrait: 1
+    mInfo: F183G63Qug9psNR
+  - id: w79OWwY
+    name: 6A8DJW4YoAHJGDqxMMkyhxNR0v
+    description: ''   
+    height: 720
+    width: 694
+    type: image/jpeg
+    link: https://i.imgur.com/w79OWwY.jpg
+    prevLoc: GOYzBPq3XwU84WWrn01JSq0OX59q0xfRyLZPmZ5pcwOq06RQ1xuEGNDrE0EQTXrpRqy1QJFE398Zpq0vSVgNAW40DMsRr1WLR1OBuqymkln04ASwPqAJzDQgizMLPjRBQZI3rY4kDg8RcY7Yp9gWLwIP49MxXKxVcOQ7XPMMJ9sj58V47DDNcA4W9PAorkTnDx5NG7K4S9O9Y13rZZS4J5oqX5BOs86KZV4WP0h9zWBBA3R2urOjLgkj8AIM4W1zv6Ox
+    parentId: 0rRwz8PAqrczM5R8lJjvCOJzpj
+    postId: Vj8jw2EPNEsZ6nvrvyP7i1n4En7mB4flZyoGqnA5fB7qL60Z5As50
+    factor: 1.04
+    portrait: 1
+    mInfo: 48xrPu9QOEHijT4
+  - id: 04njsrv
+    name: vp2n4QrmqpTZ2PoBD0nxfo0KWn
+    description: ''   
+    height: 546
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/04njsrv.jpg
+    prevLoc: OnELN1B3XJsOx55DY0pAhz5BYQ4z57s4VjyzBy9xumZ9q5NzQYirP8BnrXrmiD6KlBLZG0c6n7K5AJEOTP0RAxoypWsmq4EEl32Zi7YMGQjGzyHoAZBJ38oVIg8XWRE43LTkr37EWqLot9ywNxvM74iJxL2qjOjBu2B680OODASlnrAzLRREUo73rYo3Yquzp8Y2QlRZF2JMVR9DxWtKl0lWXBqyhomWVyv9wAIjgkLA1vZRtNWmo7Amj5s35A6nOvl3
+    parentId: 0rRwz8PAqrczM5R8lJjvCOJzpj
+    postId: Vj8jw2EPNEsZ6nvrvyP7i1n4En7mB4flZyoGqnA5fB7qL60Z5As50
+    factor: 1.32
+    portrait: 0
+    mInfo: wC8rz9YZsOtp5Ql
+story: '霏吻Fei-Kiss added 4 new photos.'  
+message: '霏吻8號--粉紅之戀  Fei-Kiss NO.8 -- Pink Romance  做了十支與您分享，一支$450    微微粉紅帶出..'  
+---
+
+霏吻8號--粉紅之戀  
+Fei-Kiss NO.8 -- Pink Romance  
+做了十支與您分享，一支$450  
+  
+微微粉紅帶出夏日好氣色  
+適合喜歡微笑的你  
+  
+#滿滿的植物精油維他命E淡化唇紋  
+#純植物油精油維他命E製作  
+#不含人工香精防腐劑鉛汞  
+#AllNaturallipsticks  
+#plantoilsessentialoilvitaminE
+ 
+ 
+[//]: #story:
+霏吻Fei-Kiss added 4 new photos.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/bPQcFTC.jpg"><img class="postImage" src="https://i.imgur.com/bPQcFTCh.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/1S7FA7w.jpg"><img class="postImage" src="https://i.imgur.com/1S7FA7wh.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/w79OWwY.jpg"><img class="postImage" src="https://i.imgur.com/w79OWwYh.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/04njsrv.jpg"><img class="postImage" src="https://i.imgur.com/04njsrvh.jpg" />  
+</a>   
