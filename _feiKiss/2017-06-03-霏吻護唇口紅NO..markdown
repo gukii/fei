@@ -1,37 +1,36 @@
 ---
 layout: post
 title: '霏吻護唇口紅NO.' 
-date: 2017-06-02T16:15:34+0000 
+date: 2017-06-02T16:14:32+0000 
 categories: [] 
 media:
-  - id: PIfrChd
-    name: EpNV7mWg3yCqDW4WRyWguZ0EK2
-    description: '霏吻護唇口紅NO.5    下午茶 Tea time                適合成穩內斂..'   
+  - id: sC5tRHP
+    name: PE2VpAWw3KcnPznL8Vq6F6kDwo
+    description: '霏吻護唇口紅NO.4    讀我      Read Me                適合魅..'   
     height: 720
     width: 720
     type: image/jpeg
-    link: https://i.imgur.com/PIfrChd.jpg
-    prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VL11m7ILmWDYoB0YCRvNDNGBOKH3zGnZkgpXh8r9Vpq2G6hvyNjzVlMQSYJEwPLxDRugV4YMMlgDfRzL2ygRkoFYWWX7B11Yi8ljXmMORniYW2zYRqEmFNPPDJXlz2FgYMWzz3KxCN3rv4Xm9AiXNyjoKBwvimgqY1gKzXUpKPyyLm5YcPjKKQxgnMCJ8AxxEZ80CzLK99oyDoCo2
-    parentId: EpNV7mWg3yCqDW4WRyWguZ0EK2
-    postId: JxVx4KoqPocnvWXGXwQRfoRgyRA3QDIX5231oYOZTQAzBY9vm8FEQ
+    link: https://i.imgur.com/sC5tRHP.jpg
+    prevLoc: JgYz0Vw3KEunwppkO1q8hMO9njxMOrTK7OL93Lkjcp4LQYAxkrSwxrVlzzN6FwzEXlkVDlh1kyGyBzn8FvRLQAw5wjfN7B900ROns2BJNDGYK1tJYLEXozMKtLqBmWDxgNFmRJZKzQRwckZ3j2x9j7HVGJ1XJvQzip74ZpgM9yTX22104KMBsYpqQzzl06SD4Zqjg74QuX455OM5NRhrzoM4r56zCAE87Kq9x8UQgqz2Mk5JfJ1Z9K7W1MSr7MXMp0lKTkM
+    parentId: PE2VpAWw3KcnPznL8Vq6F6kDwo
+    postId: xxZxpz3vl3cXV5O6OvQyS9zMgzLPpBTo3lEA0L1jUkxVolN7rZsoE
     factor: 1.00
     portrait: 0
-    mInfo: JmrAARNvDkRI8bg
-message: '霏吻護唇口紅NO.5    下午茶 Tea time                適合成穩內斂的妳       做了十支與您分享，一支..'  
+    mInfo: hsAIjyWOxSNiuTO
+message: '霏吻護唇口紅NO.4    讀我      Read Me                適合魅力四射 在派對成為焦點的妳       ..'  
 ---
 
-霏吻護唇口紅NO.5  
+霏吻護唇口紅NO.4  
   
-下午茶 Tea time  
-              適合成穩內斂的妳  
-  
-   做了十支與您分享，一支$450  
+讀我      Read Me  
+              適合魅力四射 在派對成為焦點的妳  
+                
+做了十支與您分享，一支450  
   
 成分:  
 純植物油  
 純精油  
-維他命E  
-食用色素  
+維他命食用色素  
   
 無添加防腐劑, 鉛等化學成分。  
 因此保存期限最多一年  
@@ -39,9 +38,9 @@ message: '霏吻護唇口紅NO.5    下午茶 Tea time                適合成�
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/PIfrChd.jpg"><img class="postImage" src="https://i.imgur.com/PIfrChdh.jpg" />  
-霏吻護唇口紅NO.5
+<a href="https://i.imgur.com/sC5tRHP.jpg"><img class="postImage" src="https://i.imgur.com/sC5tRHPh.jpg" />  
+霏吻護唇口紅NO.4
 
-下午茶 Tea time
-              適合成穩內斂..  
+讀我      Read Me
+              適合魅..  
  </a>   
