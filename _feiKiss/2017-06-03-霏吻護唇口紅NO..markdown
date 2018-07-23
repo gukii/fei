@@ -1,31 +1,31 @@
 ---
 layout: post
 title: '霏吻護唇口紅NO.' 
-date: 2017-06-02T16:08:42+0000 
+date: 2017-06-02T16:15:34+0000 
 categories: [] 
 media:
-  - id: ZSSGPD7
-    name: GrPV7oWk3KS90lXR22wOCkmQJK
-    description: '霏吻護唇口紅NO.2    晚霞  Sunset                 適合喜歡自然，..'   
+  - id: PIfrChd
+    name: EpNV7mWg3yCqDW4WRyWguZ0EK2
+    description: '霏吻護唇口紅NO.5    下午茶 Tea time                適合成穩內斂..'   
     height: 720
     width: 720
     type: image/jpeg
-    link: https://i.imgur.com/ZSSGPD7.jpg
-    prevLoc: ZBwv2lQ7GZIjgPP1vD5MuOP6m45OPWsGLxqNVq64cR9vZK8VYmiDAgNwQQ1oTQKm1DN9wDf4oxExOLkGfVm130q82vhXKl3DyG0GTX7Br4kwPyTYN1JEYmP2iqLXjOEDnZt4rRW9D71yiWLWBE2mwAC7v53pJA2LFM3QpMOKvkh855q1zGQLc6AErNNDBRfVy3NN5AMMfrZEngEq5MIo0VQEM7Z4cpNW74AlO8IpgY1859QXUJZ9263WZvS8YLnOG3oxTyK
-    parentId: GrPV7oWk3KS90lXR22wOCkmQJK
-    postId: LzXzj1q8PqF3rDvxv9YAhM7ZK76X9ySgnlDY2XPGI4wzAJ4WZgS9G
+    link: https://i.imgur.com/PIfrChd.jpg
+    prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VL11m7ILmWDYoB0YCRvNDNGBOKH3zGnZkgpXh8r9Vpq2G6hvyNjzVlMQSYJEwPLxDRugV4YMMlgDfRzL2ygRkoFYWWX7B11Yi8ljXmMORniYW2zYRqEmFNPPDJXlz2FgYMWzz3KxCN3rv4Xm9AiXNyjoKBwvimgqY1gKzXUpKPyyLm5YcPjKKQxgnMCJ8AxxEZ80CzLK99oyDoCo2
+    parentId: EpNV7mWg3yCqDW4WRyWguZ0EK2
+    postId: JxVx4KoqPocnvWXGXwQRfoRgyRA3QDIX5231oYOZTQAzBY9vm8FEQ
     factor: 1.00
     portrait: 0
-    mInfo: Lrx5BdUZgVfiipS
-message: '霏吻護唇口紅NO.2    晚霞  Sunset                 適合喜歡自然，給人溫暖感覺的妳            ..'  
+    mInfo: JmrAARNvDkRI8bg
+message: '霏吻護唇口紅NO.5    下午茶 Tea time                適合成穩內斂的妳       做了十支與您分享，一支..'  
 ---
 
-霏吻護唇口紅NO.2  
+霏吻護唇口紅NO.5  
   
-晚霞  Sunset   
-              適合喜歡自然，給人溫暖感覺的妳  
-                
-做了十支與您分享，一支$450  
+下午茶 Tea time  
+              適合成穩內斂的妳  
+  
+   做了十支與您分享，一支$450  
   
 成分:  
 純植物油  
@@ -39,9 +39,9 @@ message: '霏吻護唇口紅NO.2    晚霞  Sunset                 適合喜歡�
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/ZSSGPD7.jpg"><img class="postImage" src="https://i.imgur.com/ZSSGPD7h.jpg" />  
-霏吻護唇口紅NO.2
+<a href="https://i.imgur.com/PIfrChd.jpg"><img class="postImage" src="https://i.imgur.com/PIfrChdh.jpg" />  
+霏吻護唇口紅NO.5
 
-晚霞  Sunset 
-              適合喜歡自然，..  
+下午茶 Tea time
+              適合成穩內斂..  
  </a>   
