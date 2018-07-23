@@ -1,0 +1,29 @@
+---
+layout: post
+title: '1號到5號顏色 全' 
+date: 2017-06-06T02:19:28+0000 
+categories: [] 
+media:
+  - id: lyBo99L
+    name: EpNV7wPMzVIj69oKZ2XVtZ06xZ
+    description: '1號到5號顏色 全到齊了。'   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/lyBo99L.jpg
+    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBDDRjuzOnr0JGVJU5Z1l1ogYvTYWk3JVBkoFX0G1Jnr3kTO69BNpqLAuMrPVj7Y4XiXRz051Lw1U7kqBB99X7cqVjo82QWPhpE8mEonPKUW9O8W01KgfvAAwgJxrmip3jEKK5N5H6PY7DG9OQCrygm7Ow6EuGxM2m1Y6Nf4AyRnAPD3cRxV6v3MxKcPX9G1DyG4UGxmr9xVMDtP4
+    parentId: EpNV7wPMzVIj69oKZ2XVtZ06xZ
+    postId: QG3GoKy0OysRp1xGxPN8S1R8QRL6ElcEoX1WMjRlfEAK4v7YV8iGv
+    factor: 1.78
+    portrait: 0
+    mInfo: 0ZGoU4TkGNUSCfA
+message: '1號到5號顏色 全到齊了。'  
+---
+
+1號到5號顏色 全到齊了。
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/lyBo99L.jpg"><img class="postImage" src="https://i.imgur.com/lyBo99Lh.jpg" />  
+1號到5號顏色 全到齊了。  
+ </a>   
