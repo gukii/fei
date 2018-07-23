@@ -1,0 +1,33 @@
+---
+layout: post
+title: '霏吻Fei-Kis' 
+date: 2017-06-18T08:33:36+0000 
+categories: [] 
+media:
+  - id: aq7TxAF
+    name: lgZjy8QPEYcl7X0l79EOHq1ZBr55O
+    description: '這次試用的是1號的護唇膏  意外的成份天然卻很顯色  很柔順好擦  滋潤度也很好  不像一般口紅..'   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/aq7TxAF.jpg
+    prevLoc: xEV8RZ4KzohXvmmp891Ji6WmxKr6W1h1pWnLEnJZsBlV7O5mYxiGA217NN9ZhgOnykGAWkc2vzqzYw1EtB0QZz6zDptZLVmkq9ggsDVLqGNxr4ckYDoNvNMrcOzj6pM5QZU79JzER8E7UJ15WGLo0ktLgVo3gZjWTQo1wx0P9jtPE0OMGvW3H1MkBvAQvwC34loxgPkGuRW2jKMgZ7hoq3rnq2Vwt7ZqqJ4ZOjtGmpKLvB4DTGvq8Rr6E7h8QVEw0Aw3cLpLv2
+    parentId: lgZjy8QPEYcl7X0l79EOHq1ZBr55O
+    postId: 43p3AvBR9Bh8O2oNo57yH4ARNAyJgQt5vyZYWOJkcy6QvOq9j0h1J
+    factor: 1.00
+    portrait: 0
+    mInfo: UJbD1R3g078gBJS
+story: '霏吻Fei-Kiss shared Zarita Tsai's post.'  
+---
+
+霏吻Fei-Kiss shared Zarita Tsai's post.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/aq7TxAF.jpg"><img class="postImage" src="https://i.imgur.com/aq7TxAFh.jpg" />  
+這次試用的是1號的護唇膏
+意外的成份天然卻很顯色
+很柔順好擦
+滋潤度也很好
+不像一般口紅..  
+ </a>   
