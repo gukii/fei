@@ -1,0 +1,70 @@
+---
+layout: post
+title: '霏吻10號  適合' 
+date: 2017-10-29T12:25:43+0000 
+categories: [] 
+media:
+  - id: avl8fwL
+    name: wqpP9LkkBRinO4vlOAwYf1z7Q8
+    description: ''   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/avl8fwL.jpg
+    prevLoc: AGQWvJk3X8HROrrx0nN9TjMPwxDjMWskMJ1G91Pzu1E0ROX78WurAYVgrBrMiLXW9E4AwgIDZk6g5PW7SyX2zq7XMouEvYGBq35rCXP77RRzYLsKRQxzNlZlTrR5RAMXKEh38GRvB613uZ1Q9gKpjDT8XrEqw5mxS186PANNjrHNgD2Kk33jSvLk0Xv3BLSxQoG1R6n5SBwYzjWAW3FDK61NDrPBUO4VZ5KKpPTwVXDKG0oYTmZPKpgPqMc5AvwXokWM
+    parentId: X9D3xKMMEkTZJBzll3KvHmX69N
+    postId: pmOm4o3Qz3CwW0DrDoxGuXLRkLQ04GTV2k9nJBzGconvNWv29PiBv
+    factor: 1.33
+    portrait: 1
+    mInfo: RwPt0mFYmtXBsdN
+  - id: bve1opM
+    name: LV9N6rPPo5U2o91J3v5mFjovKK
+    description: ''   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/bve1opM.jpg
+    prevLoc: 5plV2qGNwATl9ggy8xZ0fK8LjrXK8gH31MOBqOnmFomzOxQ9KLhj9Y1JjxjEiR7N31nwMXumLEJk7qBPi9N8jAlNxjuVXl7GzQyDFvgxxAAGg1TmxYXvJkVQcMPmk7ooE0IQxGpWz1VzTp597Ylzn1fV0kKNK6wwIkZ6VBJJEjtMlQ4z3PPjTpKNmMp91OhZWGzDr5KLswZLqANAz8TYvZZRLPv0im8JJ3BZEls7A5Vw8qy1i6Xxl7AxLDcGOl3KORKx
+    parentId: X9D3xKMMEkTZJBzll3KvHmX69N
+    postId: pmOm4o3Qz3CwW0DrDoxGuXLRkLQ04GTV2k9nJBzGconvNWv29PiBv
+    factor: 1.33
+    portrait: 1
+    mInfo: aLnlrQzvpTQhkLL
+  - id: oOyCZw6
+    name: wqpP9LkkBRinO3rwMDqBc1LBlB
+    description: ''   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/oOyCZw6.jpg
+    prevLoc: 0k2EWlzGoACyBJJnvMG2I63VpEG63mhr8kJ9PJM2S6Xyzw0n7pHzZBX7z4z5cmLEXgr3ZkUqxL2y4EgXSW5yQBx5w9UkvWWpMGyxtGqKKxxYGQsrZ1xM8g6LcDP9xyj7yETlpow4grwGs8mBgZVWOqTGm6WvJGzPuA1wp5xxOMhKl17LQ44xFL2gVKL1gwCYjrj77P7KsRmN0x1wL5h8zBKK4NYAiy6NMBv6JpHRWD3llDQmimNPoW4PROcg2LLq8V3N
+    parentId: X9D3xKMMEkTZJBzll3KvHmX69N
+    postId: pmOm4o3Qz3CwW0DrDoxGuXLRkLQ04GTV2k9nJBzGconvNWv29PiBv
+    factor: 1.00
+    portrait: 0
+    mInfo: hTqOBUHQ4XoLzD2
+story: '霏吻Fei-Kiss added 3 new photos — with Efei Shih.'  
+message: '霏吻10號  適合這個季節和溫度。    純天然口紅  無添加防腐劑香精  使用純植物油精油食用色素'  
+---
+
+霏吻10號  
+適合這個季節和溫度。  
+  
+#純天然口紅  
+#無添加防腐劑香精  
+#使用純植物油精油食用色素
+ 
+ 
+[//]: #story:
+霏吻Fei-Kiss added 3 new photos — with Efei Shih.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/avl8fwL.jpg"><img class="postImage" src="https://i.imgur.com/avl8fwLh.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/bve1opM.jpg"><img class="postImage" src="https://i.imgur.com/bve1opMh.jpg" />  
+</a>    
+
+<a href="https://i.imgur.com/oOyCZw6.jpg"><img class="postImage" src="https://i.imgur.com/oOyCZw6h.jpg" />  
+</a>   
