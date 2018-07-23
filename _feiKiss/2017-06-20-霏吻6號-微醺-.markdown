@@ -1,0 +1,39 @@
+---
+layout: post
+title: '霏吻6號  微醺 ' 
+date: 2017-06-20T14:41:28+0000 
+categories: [] 
+media:
+  - id: i1FqPLw
+    name: roQlvE37q9fmk9DVEQBDfj07Jo
+    description: '霏吻6號  微醺  Fei-Kiss NO.6    Tipsy  這是一支適合喜歡裸色淡橘的女..'   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/i1FqPLw.jpg
+    prevLoc: wDE2QY4JynINx0056AGLU78gXMW78jS3xM4kG4D7F659koQgVNHvz4Ko8823S1xzG92nm9CAJ4R4pv9GclDZymokKrsROpyEV4yzs4ryXOMBGwT6JNN3WDgvFxjAkvKJXMI4pAOR9OwXtg300yGP7gtwr6gXLn2yTnyg1nOA5DFXyy9vAG5rs5JngOOqPxiRoJRkvR3OI0R0K1wW8XhB8yyM4GwkhwRzQ6DMEGc8Q9XqAnD4S2n552QLkxHpl51XYxmZTkZ
+    parentId: roQlvE37q9fmk9DVEQBDfj07Jo
+    postId: 54q4BwD9WDul7Pvmv9WounZvlZWB7PCjzO7M5Y1EUOzMMEJ3YqFZK
+    factor: 1.00
+    portrait: 0
+    mInfo: N9MGW8bPCdYWrhJ
+message: '霏吻6號  微醺  Fei-Kiss NO.6    Tipsy  這是一支適合喜歡裸色淡橘的女孩  盛夏裡  看著妳唇上的一抹微醺  ..'  
+---
+
+霏吻6號  微醺  
+Fei-Kiss NO.6    Tipsy  
+這是一支適合喜歡裸色淡橘的女孩  
+盛夏裡  看著妳唇上的一抹微醺    
+不醉也難  
+  
+#純天然植物油精油維他命e製作  
+#不含防腐劑鉛汞  
+#滋潤保濕唇膏
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/i1FqPLw.jpg"><img class="postImage" src="https://i.imgur.com/i1FqPLwh.jpg" />  
+霏吻6號  微醺
+Fei-Kiss NO.6    Tipsy
+這是一支適合喜歡裸色淡橘的女..  
+ </a>   
