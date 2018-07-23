@@ -1,31 +1,31 @@
 ---
 layout: post
 title: '霏吻護唇口紅NO.' 
-date: 2017-06-02T16:10:44+0000 
+date: 2017-06-02T16:08:42+0000 
 categories: [] 
 media:
-  - id: onl9FVs
-    name: nkM9Vj6AwmfWoXDO0ggDum19gv
-    description: '霏吻護唇口紅NO.3    橘色的夢 Orange dreams                ..'   
+  - id: ZSSGPD7
+    name: GrPV7oWk3KS90lXR22wOCkmQJK
+    description: '霏吻護唇口紅NO.2    晚霞  Sunset                 適合喜歡自然，..'   
     height: 720
     width: 720
     type: image/jpeg
-    link: https://i.imgur.com/onl9FVs.jpg
-    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBDDRjuzOnr0JNW0U5Z1l1ogYvTYWk3JOzlmuEnVLN6G5qfOAXQkY6PLI8yo2DZmP3fXPEJLJDyxt7zoE4Po19FqV9KXDJBmTpED1v8nWjtW9O8W01KgfvAAwgJxrmip3jEKK5x7H4PM7A4g5qUryE52vnAZsKDOlXJzv9tLvEpjMW4Wfn54mgD2YmTPX9G1DyG4UGy17A17PzSEg
-    parentId: nkM9Vj6AwmfWoXDO0ggDum19gv
-    postId: XljlyXJoMJu9RPJvJKM1snq3Mqp2loCx5mLEMnJzuB45nQljkmi52
+    link: https://i.imgur.com/ZSSGPD7.jpg
+    prevLoc: ZBwv2lQ7GZIjgPP1vD5MuOP6m45OPWsGLxqNVq64cR9vZK8VYmiDAgNwQQ1oTQKm1DN9wDf4oxExOLkGfVm130q82vhXKl3DyG0GTX7Br4kwPyTYN1JEYmP2iqLXjOEDnZt4rRW9D71yiWLWBE2mwAC7v53pJA2LFM3QpMOKvkh855q1zGQLc6AErNNDBRfVy3NN5AMMfrZEngEq5MIo0VQEM7Z4cpNW74AlO8IpgY1859QXUJZ9263WZvS8YLnOG3oxTyK
+    parentId: GrPV7oWk3KS90lXR22wOCkmQJK
+    postId: LzXzj1q8PqF3rDvxv9YAhM7ZK76X9ySgnlDY2XPGI4wzAJ4WZgS9G
     factor: 1.00
     portrait: 0
-    mInfo: ToP6VIHZw6bQ0KJ
-message: '霏吻護唇口紅NO.3    橘色的夢 Orange dreams                   適合單純，夢幻的妳        ..'  
+    mInfo: Lrx5BdUZgVfiipS
+message: '霏吻護唇口紅NO.2    晚霞  Sunset                 適合喜歡自然，給人溫暖感覺的妳            ..'  
 ---
 
-霏吻護唇口紅NO.3  
+霏吻護唇口紅NO.2  
   
-橘色的夢 Orange dreams  
-                 適合單純，夢幻的妳  
+晚霞  Sunset   
+              適合喜歡自然，給人溫暖感覺的妳  
                 
-做了十支與您分享，一支450  
+做了十支與您分享，一支$450  
   
 成分:  
 純植物油  
@@ -39,9 +39,9 @@ message: '霏吻護唇口紅NO.3    橘色的夢 Orange dreams                  
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/onl9FVs.jpg"><img class="postImage" src="https://i.imgur.com/onl9FVsh.jpg" />  
-霏吻護唇口紅NO.3
+<a href="https://i.imgur.com/ZSSGPD7.jpg"><img class="postImage" src="https://i.imgur.com/ZSSGPD7h.jpg" />  
+霏吻護唇口紅NO.2
 
-橘色的夢 Orange dreams
-              ..  
+晚霞  Sunset 
+              適合喜歡自然，..  
  </a>   
