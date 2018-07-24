@@ -4,19 +4,19 @@ title: '對話。對畫。  個'
 date: 2018-03-08T11:38:20+0000 
 categories: [] 
 media:
-  - id: Xj0i8oK
+  - id: TGMNE9a
     name: KV8EMNg886Tk6Orl4jzkupOn6n
     description: '對話。對畫。  個案六  姓名; 小月  時間; 2018 0306  地點; 胡作霏為工作室 ..'   
     height: 720
     width: 506
     type: image/jpeg
-    link: https://i.imgur.com/Xj0i8oK.jpg
+    link: https://i.imgur.com/TGMNE9a.jpg
     prevLoc: MlENLYz3K7IJ3xxpPRq5uL1XNlvL1rTWjMkKZkD5hgKQXy7jnAcM5gmzRR3LIgYoR53V63t7MLvLAXBzc81211j67pTPp1wYB2WpFAW70YDLjRi2yv374AzksOqGY6gAoPIRpxljVxJnhMgG3OG5kAiR1x6DjN1jTKQPYKkgmlFEDDBQzmoLCBk6RAAW0xCmwqDGjlkOIVgjOKKy0piR7X8My8WPc0oxx8n1JzsBX5K494ANsyDBMg4AMrHPpwwRRxXjcRp
     parentId: KV8EMNg886Tk6Orl4jzkupOn6n
     postId: Vj8k4JwjJoHZWY3EwrQOu2okzYEWW5CE15xMr91OfBVWYq8ZPju50
     factor: 1.42
     portrait: 1
-    mInfo: 6ndbyOw9kb9vEkI
+    mInfo: F0k8SD67gr0igUx
 message: '對話。對畫。  個案六  姓名; 小月  時間; 2018 0306  地點; 胡作霏為工作室    今天的個案--小月。    從小月..'  
 ---
 
@@ -73,7 +73,7 @@ message: '對話。對畫。  個案六  姓名; 小月  時間; 2018 0306  地�
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/Xj0i8oK.jpg"><img class="postImage" src="https://i.imgur.com/Xj0i8oKh.jpg" />  
+<a href="https://i.imgur.com/TGMNE9a.jpg"><img class="postImage" src="https://i.imgur.com/TGMNE9ah.jpg" />  
 對話。對畫。
 個案(六)
 姓名: 小月
