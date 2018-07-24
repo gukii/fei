@@ -4,19 +4,19 @@ title: '對話。對畫。20x'
 date: 2017-01-02T11:08:54+0000 
 categories: [] 
 media:
-  - id: tHlVltq
+  - id: SnJIK6o
     name: JxV2OE4xKPIo1JZLKNWGFv3yBo
     description: '對話。對畫。20x30  個案 2  人物; Green   時間; 20161225  創作者..'   
     height: 720
     width: 504
     type: image/jpeg
-    link: https://i.imgur.com/tHlVltq.jpg
+    link: https://i.imgur.com/SnJIK6o.jpg
     prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBQNQ3uz1lOMR5wpF5QGPXjO2qSYo080vZNBUXNDnNk4lEU3B16jrYNLuMAOPrZRREiDq70Ql5ErS7RB1YDr4xfqPLXREOooc74PoADwYJhWvAgVrr0NtvW18jg006Fp6Y1Bp97OU6DEzL88ZnIrPXKEVqlnTKZ91nNK6yF08gl2QvyoHm0OmwyL7RiM672qB7xlSGYB4Nlm3V
     parentId: JxV2OE4xKPIo1JZLKNWGFv3yBo
     postId: PE2906nE6gh6jPW2GYVyhgpr05ZrL2i04Gw9NrlVFkKNWw6prqspN
     factor: 1.43
     portrait: 1
-    mInfo: B1gJsFIxDglJ9jY
+    mInfo: gRgB12bzTt13Xo2
 message: '對話。對畫。20x30  個案 2  人物; Green   時間; 20161225  創作者; 施邑霏  地點; 邑霏的工作室  個..'  
 ---
 
@@ -58,7 +58,7 @@ ps.右下方兩顆紫色的可以吃嗎😋
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/tHlVltq.jpg"><img class="postImage" src="https://i.imgur.com/tHlVltqh.jpg" />  
+<a href="https://i.imgur.com/SnJIK6o.jpg"><img class="postImage" src="https://i.imgur.com/SnJIK6oh.jpg" />  
 對話。對畫。20x30
 個案 2
 人物: Green 
