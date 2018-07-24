@@ -1,29 +1,30 @@
 ---
 layout: post
 title: '＜對話。對畫＞  ' 
-date: 2018-04-05T14:20:33+0000 
+date: 2018-04-05T14:15:36+0000 
 categories: [] 
 media:
-  - id: wD6wnfo
-    name: KyPZL4Mp6VUkBKZX85Z0t1NZvrM
-    description: '＜對話。對畫＞個案八;琳達時間;２０１８０404地點;胡作霏為工作室今天在還沒有和林達見面的時候 ， 直覺告訴我 必須要問一下林達有關他父親的事。 見了面 我們開始談到有關父親母親的議題， 才知道原來琳達的父親在他很小的時候就過世了，而從小父親曾經對他開玩笑的一句謊言一直到現在都還讓他感到受傷。 對於母親的部分 也有很多的糾結很拉扯。 然而雖然看似是一個不快樂的童年， 甚至到長大之後還是帶著很多的負面情緒， 我在畫布上很快的竟然出現了一朵桃紅色像蓮花形狀的圖案。 但是這一個蓮花圖案往上連結著一個 憤怒的源頭 --'   
+  - id: Rb72Jop
+    name: pjZomrzJ16Hw8NJgKq64UJ0KN3
+    description: '＜對話。對畫＞  個案八;琳達  時間;２０１８０404  地點;胡作霏為工作室    今天在還..'   
     height: 720
     width: 518
     type: image/jpeg
-    link: https://i.imgur.com/wD6wnfo.jpg
-    prevLoc: WywpYgN3KWS4qzz13P5jH7plr437pGSVAjrxkrn8HN2V91DAg3tlLKJrl0l1tqXJ0Yj97DtRwGk47rqLUwG46Bz1LqIRql8Jo88KSkwjxkZ3l4TpX2DZo2l0sQ9qxWGNy2Co8RpwPzgMtMryElggJ1F6QVv7YJXGfkMWDkZJj7HEJJomNQLvCZvnV99BjPSMKZAqKwxZhmEJGKjO3rFxBp7lRDGQC7KpqKvJnYhEqPlp78WzUyZPw38wRXcjQwYy12PLCxy
-    parentId: KyPZL4Mp6VUkBKZX85Z0t1NZvrM
-    postId: LzQ9Xw7PO2c2YE3z5JJwU0B7Ej6xZgsmQ60KZMB8s4N6EmAqGLsLDB
+    link: https://i.imgur.com/Rb72Jop.jpg
+    prevLoc: q0V6KP4zpAI2NLLgBz8OuKr4YGkKrAHVOW6YK6wMHzy7XQ18AWinwryA883Ot50yZ8rlkrhyzRrR0x75uGjNjDOK9LtvgwjAZPXKSVGg5EGkzrTOxB8xK07OI192v2mryDSZ1m74ZmKQirzAz4kzvnFyo0wgP3RncKMnrKXGzAFVkkNvjn4zU56KXQQzNZhZ3x2NQWgVSrDgxmL7R3f5BEQ30W1RFnpZWKw6mrUznKrOjLPJf4l0r931E0iXYVAVRKV9s7z
+    parentId: pjZomrzJ16Hw8NJgKq64UJ0KN3
+    postId: PE2906nE6gh6jPW2GYVyhgpr05ZBBJtjNvn5N1VNc8ovP1PG4mcMl
     factor: 1.39
     portrait: 1
-    mInfo: OilJPQ4x80iNjib
-message: '＜對話。對畫＞  個案八;琳達  時間;２０１８０404  地點;胡作霏為工作室  今天在還沒有和林達見面的時候 ， 直覺告訴我 必須要問一下林達有關他父親的事。 見了面 我們開始談到有關父親母親的議題， 才知道原來琳達的父親在他很小的時候就過世了，而從小父親曾經對他開玩笑的一句謊言一直到現在都還讓他感到受傷。 '  
+    mInfo: 9LkVabvFIGUkvoC
+message: '＜對話。對畫＞  個案八;琳達  時間;２０１８０404  地點;胡作霏為工作室    今天在還沒有和林達見面的時候 ， 直覺告訴我 必..'  
 ---
 
 ＜對話。對畫＞  
 個案八：琳達  
 時間：２０１８０404  
 地點：胡作霏為工作室  
+  
 今天在還沒有和林達見面的時候 ， 直覺告訴我 必須要問一下林達有關他父親的事。 見了面 我們開始談到有關父親母親的議題， 才知道原來琳達的父親在他很小的時候就過世了，而從小父親曾經對他開玩笑的一句謊言一直到現在都還讓他感到受傷。 對於母親的部分 也有很多的糾結很拉扯。 然而雖然看似是一個不快樂的童年， 甚至到長大之後還是帶著很多的負面情緒， 我在畫布上很快的竟然出現了一朵桃紅色像蓮花形狀的圖案。 但是這一個蓮花圖案往上連結著一個 憤怒的源頭 --火紅色的憤怒源源不斷的下降到那朵蓮花上，覆蓋且糾纏住他生活上的每一個層面， 但是這朵蓮花又大又開， 而且下面有著藍白色的底， 於是我直的覺得告訴琳達:  
 其實這些憤怒蓋住了他原本的清澈。 真正的她是像一面鏡子一樣的清澈， 像一朵蓮花一樣的生命。 原本應該是出淤泥而不染的， 卻無奈的在 生命的成長過程中生出了憤怒、糾結 和無奈。  
 我也可以感受出 這一些累積出來的糾結 似乎形成了一些僵硬的能量場 ，有一點不流動，也影響到自己的自信。於是成長過程中帶著這樣的眼光在看身邊的人; 似乎無法真正的欣賞他人，讚美他人。 我們談著聊著這一些種種的憤怒糾結的源頭到底是從哪裡來的 。我告訴林達 我自己會對自己做一些宣示 在這些宣示裡面去放掉，去原諒，去轉化。因為與其知道源頭，不如選擇完全的原放開。  
@@ -36,5 +37,11 @@ message: '＜對話。對畫＞  個案八;琳達  時間;２０１８０404  �
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/wD6wnfo.jpg"><img src="https://i.imgur.com/wD6wnfo.jpg" height="300" width="215" /></a> 
- 
+<a href="https://i.imgur.com/Rb72Jop.jpg"><img class="postImage" src="https://i.imgur.com/Rb72Joph.jpg" />  
+＜對話。對畫＞
+個案八：琳達
+時間：２０１８０404
+地點：胡作霏為工作室
+
+今天在還..  
+ </a>   
