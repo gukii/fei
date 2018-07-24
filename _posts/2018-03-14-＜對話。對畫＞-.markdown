@@ -4,19 +4,19 @@ title: '＜對話。對畫＞  '
 date: 2018-03-14T06:00:39+0000 
 categories: [] 
 media:
-  - id: 3GVNfS1
+  - id: FVBzb5T
     name: m9qXBrB6yDcMgZnXx1MRSQkkGK
     description: '＜對話。對畫＞  個案七;美惠  時間;２０１８０３１３  地點;胡作霏為工作室  當美惠進來工..'   
     height: 720
     width: 499
     type: image/jpeg
-    link: https://i.imgur.com/3GVNfS1.jpg
+    link: https://i.imgur.com/FVBzb5T.jpg
     prevLoc: EMZ1zNo3XKTqx11wyg3WT6Q2Kvl6QWh1DPVyGVq7s2rKlRGxP5HZpRjNooz6T7vE2Rkn0kUx4RzRp59jCVwNwwwNELHzgx0Xno43iLNqEWBv1mtqN5qpWyPlUzgq2xyRGoiVM7gOXKwzFkgnq14RvWS5Ook0Nw34hYjXWYy89KFoPPXzAQjvtnXRxkk5P0cB89vYwWrLc2zkO6AAG0Ip34yZ4gYQhQG49Ag5xrtV3EZLg9QvsyBQz5K5MLc2zrYqj3BZFLn
     parentId: m9qXBrB6yDcMgZnXx1MRSQkkGK
     postId: ZnlokZAnZvCjk0lw4ZBOul6PjWNXXQtEOW8AjPNAc6VxyOLLR4I93
     factor: 1.44
     portrait: 1
-    mInfo: mVayJVhc7ZrIkMb
+    mInfo: jSwHostlDohMpKx
 message: '＜對話。對畫＞  個案七;美惠  時間;２０１８０３１３  地點;胡作霏為工作室  當美惠進來工作室坐在我的面前時， 我立即感受到的是一..'  
 ---
 
@@ -82,7 +82,7 @@ NAMASTE
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/3GVNfS1.jpg"><img class="postImage" src="https://i.imgur.com/3GVNfS1h.jpg" />  
+<a href="https://i.imgur.com/FVBzb5T.jpg"><img class="postImage" src="https://i.imgur.com/FVBzb5Th.jpg" />  
 ＜對話。對畫＞
 個案七：美惠
 時間：２０１８０３１３
