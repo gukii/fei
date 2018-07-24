@@ -1,23 +1,23 @@
 ---
 layout: post
-title: "歷經了一年之後，我" 
-date: 2017-12-24T02:04:56+0000 
+title: '歷經了一年之後，我' 
+date: 2017-12-24T01:37:32+0000 
 categories: [] 
 media:
-  - id: w0K0si2
-    name: Vj4mVE8BpLc8Mj8DwnwxTp59nDq
-    description: "歷經了一年之後，我的第三位「對話對畫」主角出現了。人物;Moss時間;２０１７１２２２地點;胡作霏為工作室這是一個有趣的過程。當Moss回到小時候去和自己的內在孩子對話時，我幾乎同時間在畫上看見那個在跳舞的女孩。隔天，Moss告訴我，她記得小時候許了一個願望;希望長大也能一直蹦蹦跳跳的。對畫的過程中，覺得我的手被畫板侷限住了，必須在延伸出一張。於是右邊的一團綠色出現，裡面似乎隱含著另一個人物－－母親。我看到的是這個女人張開雙手想要包覆住，或說…保護這個女孩，所以我們開始談到父母…兩張畫同時被紅色的網連結，似乎是在說，雖然她渴望自由，一生永久的獨自（感覺上要獨自）的跳舞，自在的呼吸，但是仍然有無形的網困住了她的靈魂？一開始作畫時，我的手不停的想要跳動，一直用紫色在畫板上跳著，很久我都不想改變顏色。後來我想，紫色代表靈性，或許反應著芷菱對靈性成長探索的渴望？Moss，你覺得呢？"   
+  - id: DCwFhGT
+    name: l9YjjL2w8yIMZO91xOP5F1wMWK
+    description: ''   
     height: 525
     width: 720
     type: image/jpeg
-    link: https://i.imgur.com/w0K0si2.jpg
-    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK70GGqgCvNzPGM0WMi7W5E5XY20cDK9KJwjGWfLGJJnwwJNFyRPz12AO2tL8w6Wr3kOHWOzR9yN9wfPNXLowP8JiLXXz4jjjkh8OzqVx4z5IE7JLnyZWWhoMVGoEnAqs1L90oM7B3U3wYrN703KCojw9rJJXPh6G5WWWw65s9xADpn8WpUqlxE0129rFk9OvlzNQ5clrGZrZYWot78N
-    parentId: Vj4mVE8BpLc8Mj8DwnwxTp59nDq
-    postId: 1NgwmPW9OnsXEvZQK77BiPL2lYNqBYiv7XqEg4jgHYLP7832LrfX9q
+    link: https://i.imgur.com/DCwFhGT.jpg
+    prevLoc: zJBQW2jM4qTrq88XDxMRTzwrJ93zwPsZKMAz7ANlcVLvw31oxkHWo06gW9WZFR7L582x1qu68m7KOYxnTp3NQLoynLSDM7NzRZGXh3QjV5ZzEmCJEJBGqMl8hD2xnlLG7yuZJ7y8l9V2iEQKxEDwN9F3jA16WLxRuX0Rg9O1qES3RyYOg31As19JPW8nqwIAo0z6QOg0HlgQXE1zB0hlMMOZw292UqyOmkNKjNtmNwG0DDA1F8pjGAnZ6YF9EDYE4Xk
+    parentId: l9YjjL2w8yIMZO91xOP5F1wMWK
+    postId: 3XopkYzXYEU4yOqPA1NLSR6vqkEYgMULMnEOMG39uADoLEr6m7iLQ
     factor: 1.37
     portrait: 0
-    mInfo: E3JAXeJO5XXUpuH
-message: "歷經了一年之後，我的第三位「對話對畫」主角出現了。    人物;Moss  時間;２０１７１２２２  地點;胡作霏為工作室    這是一個有趣的過程。當Moss回到小時候去和自己的內在孩子對話時，我幾乎同時間在畫上看見那個在跳舞的女孩。隔天，Moss告訴我，她記得小時候許了一個願望;希望長大也能一直蹦蹦跳跳的。    對畫的過程中，覺得我的手被畫板侷限住了，必須在延伸出一張。於是右邊的一團綠色出現，裡面似乎隱含著另一個人物－－母親。    我看到的是這個女人張開雙手想要包覆住，或說…保護這個女孩，所以我們開始談到父母…    兩張畫同時被紅色的網連結，似乎是在說，雖然她渴望自由，一生永久的獨自（感覺上要獨自）的跳舞，自在的呼吸，但是仍然有無形的網困住了她的靈魂？    一開始作畫時，我的手不停的想要跳動，一直用紫色在畫板上跳著，很久我都不想改變顏色。後來我想，紫色代表靈性，或許反應著芷菱對靈性成長探索的渴望？    Moss，你覺得呢？"
+    mInfo: 20JS96dGpHDewHw
+message: '歷經了一年之後，我的第三位「對話對畫」主角出現了。    人物;Moss  時間;２０１７１２２２  地點;胡作霏為工作室    這是一..'  
 ---
 
 歷經了一年之後，我的第三位「對話對畫」主角出現了。  
@@ -36,9 +36,28 @@ message: "歷經了一年之後，我的第三位「對話對畫」主角出現�
   
 一開始作畫時，我的手不停的想要跳動，一直用紫色在畫板上跳著，很久我都不想改變顏色。後來我想，紫色代表靈性，或許反應著芷菱對靈性成長探索的渴望？  
   
-Moss，你覺得呢？
+Moss，你覺得呢？  
+---------------------------------------------------------------------  
+  
+From Moss:  
+我看到自己往綠色大地母親的地方跳去，  
+在回歸的路上，似乎遠方有一片草原可以過去。  
+我對地球的生命充滿熱情  
+交錯的線像是家庭、工作、以及我所有關心事物的交織。  
+也是組成我的一部分，  
+他們牽引我到下一個地方，  
+而我總是跳來跳去好像停不下來。  
+可能會跳出框框，  
+我跟線雖然融在一起，  
+如果跟太緊的確想擺脫她，  
+但也相信他們會成為生命的養分，  
+紫色剛好是我最近很喜歡的顏色!  
+看到老師拿著紫色跳動時，  
+自己也是非常開心的!  
+很希望靈性是我的背景，也是我的過去  
+希望跟隨她、受她啟發
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/w0K0si2.jpg"><img src="https://i.imgur.com/w0K0si2.jpg" height="218" width="300" /></a> 
- 
+<a href="https://i.imgur.com/DCwFhGT.jpg"><img class="postImage" src="https://i.imgur.com/DCwFhGTh.jpg" />  
+</a>   
