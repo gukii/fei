@@ -4,19 +4,19 @@ title: '對話。對畫。  個'
 date: 2018-01-29T14:41:44+0000 
 categories: [] 
 media:
-  - id: 6U1Z3wg
+  - id: HkzqABr
     name: 1v6388wRKKTXlJJo5QWrcYqPlM
     description: '對話。對畫。  個案5  人物; @陳盟升  時間; 20180126  地點; 台北市伯朗咖啡..'   
     height: 720
     width: 508
     type: image/jpeg
-    link: https://i.imgur.com/6U1Z3wg.jpg
+    link: https://i.imgur.com/HkzqABr.jpg
     prevLoc: QpNjP3E9KATRPBBnV3k6TZA2vXzZANhxXJym9yNAhjw1Erq9LRt9PwVz33MAhzOrWLGvpGU790X0pz84crKoKJpZwJs6mY0Dl31RFW7Jw3Z9PQcq4zQ2DKnEsnPDqYEZOOup0Lwyz9zgTYXP6QkK8xcpYPGNwWErI6AmD6zG1jFEVV6YyOlgCDzkXNNYBPhxgZ60276gSMX6vMnEOpsg5o5VlyWwTBvWAG5YkNsVZ5KDywOgfXRVVXn0WmHxMAwwkQ9KT5Z
     parentId: 1v6388wRKKTXlJJo5QWrcYqPlM
     postId: pmOqN94m9BTwV7mJMr6XhE62DMk77BsVMz8El7G8sYKPzL58QDtBy
     factor: 1.42
     portrait: 1
-    mInfo: SbUgHzUJR6NHTWq
+    mInfo: njQghCL1jZSaroN
 message: '對話。對畫。  個案5  人物; @陳盟升  時間; 20180126  地點; 台北市伯朗咖啡廳  創作者;施邑霏  -=--=--=..'  
 ---
 
@@ -56,7 +56,7 @@ PS:畫作完成前的幾個階段中， 我發現我只想用亮的顏色。 雖
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/6U1Z3wg.jpg"><img class="postImage" src="https://i.imgur.com/6U1Z3wgh.jpg" />  
+<a href="https://i.imgur.com/HkzqABr.jpg"><img class="postImage" src="https://i.imgur.com/HkzqABrh.jpg" />  
 對話。對畫。
 個案#5
 人物: @陳盟升
