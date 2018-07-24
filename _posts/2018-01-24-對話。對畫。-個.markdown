@@ -4,19 +4,19 @@ title: '對話。對畫。  個'
 date: 2018-01-24T11:21:11+0000 
 categories: [] 
 media:
-  - id: 0afKv31
+  - id: 9W1ete6
     name: 1v638vwkLQuZPRqM5y2mSYV9O1
     description: '對話。對畫。  個案４  人物; 佳儀   時間; 201８０１２３  創作者; 施邑霏  地點..'   
     height: 583
     width: 720
     type: image/jpeg
-    link: https://i.imgur.com/0afKv31.jpg
+    link: https://i.imgur.com/9W1ete6.jpg
     prevLoc: zJBQW2jM4qTrq88XDxMRTzwrJ93zwPsZKMAz7ANlcVLvw31oxkHWo06gXX12IR5zoXKGWEF4DrNAX9G8c7zVgKooqBtwvNDQBzrYf3BXQxVXApSN4G6QvABGir0ygpkyrPfZr8BJ08YqFE4ZyYqYqYTxJV3RN7NLSOM3PgqgXBsBDQL4MPy5S2VnO8E2jXsDMnO0wPwvipr9gX3E98IlVqyzxWXNFqj8KWMkzKTQJ8G27Al6U5VVgWGGDgu1moJxVOpvt612xq9Vq
     parentId: 1v638vwkLQuZPRqM5y2mSYV9O1
     postId: qnPrOAgnA6C2EVZx0AwmI54rXAvqqWsxkOZm9V2GCXZX5YqEXWtzP
     factor: 1.23
     portrait: 0
-    mInfo: 7vl8kAi4I3UocO5
+    mInfo: bLmnSJt9doL0hI5
 message: '對話。對畫。  個案４  人物; 佳儀   時間; 201８０１２３  創作者; 施邑霏  地點; 邑霏的工作室    －－－－－－－－..'  
 ---
 
@@ -68,7 +68,7 @@ message: '對話。對畫。  個案４  人物; 佳儀   時間; 201８０１�
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/0afKv31.jpg"><img class="postImage" src="https://i.imgur.com/0afKv31h.jpg" />  
+<a href="https://i.imgur.com/9W1ete6.jpg"><img class="postImage" src="https://i.imgur.com/9W1ete6h.jpg" />  
 對話。對畫。
 個案４
 人物: 佳儀 
