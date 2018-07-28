@@ -4,19 +4,6 @@ title: '即將參加529 "'
 date: 2016-05-17T03:19:17+0000 
 categories: [] 
 media:
-  - id: UPdMYuY
-    name: zzrV868DmRuzxALO53wmULwDwBQ
-    description: ''   
-    height: 720
-    width: 405
-    type: image/jpeg
-    link: https://i.imgur.com/UPdMYuY.jpg
-    prevLoc: AGQWvJk3X8HROrrx0nN9TjMPwxDjMWskMJ1G91Pzu1E0ROX78WurAYVg449niL9zmYlO7lHD3L8LG4o1Tygr4Pz52PF82vZzX0nncXRY6rN2LrcXpP4Lo8YRCqvGD3oPnZI2z0prnNWpuxyw6v7oqwhAwvyV13o6u1xB01jEOPINPP6kv97wFvYKDBBr7GCxm1ADglWXfKEgLRQ1y4fgQ51GAm1mfBnKPQVnokSBZKV4VG6Pf8jjg2DL7vC5OBZ4yAwksvX
-    parentId: lgZjyRylOzSlAv70ZRJoSnmyloO
-    postId: 9NqrxP12oysjYoOwP55NtDogjPzKkkh6RB2znlvzuxYjQzqDA6H1P0
-    factor: 1.78
-    portrait: 1
-    mInfo: pEsBT6BhruWsSp6
   - id: ww8IsyS
     name: ol3pBZBoYDcmB04rympZCRogoWx
     description: ''   
@@ -30,6 +17,19 @@ media:
     factor: 1.58
     portrait: 1
     mInfo: 3J8nXEfnXj0HSXd
+  - id: UPdMYuY
+    name: zzrV868DmRuzxALO53wmULwDwBQ
+    description: ''   
+    height: 720
+    width: 405
+    type: image/jpeg
+    link: https://i.imgur.com/UPdMYuY.jpg
+    prevLoc: AGQWvJk3X8HROrrx0nN9TjMPwxDjMWskMJ1G91Pzu1E0ROX78WurAYVg449niL9zmYlO7lHD3L8LG4o1Tygr4Pz52PF82vZzX0nncXRY6rN2LrcXpP4Lo8YRCqvGD3oPnZI2z0prnNWpuxyw6v7oqwhAwvyV13o6u1xB01jEOPINPP6kv97wFvYKDBBr7GCxm1ADglWXfKEgLRQ1y4fgQ51GAm1mfBnKPQVnokSBZKV4VG6Pf8jjg2DL7vC5OBZ4yAwksvX
+    parentId: lgZjyRylOzSlAv70ZRJoSnmyloO
+    postId: 9NqrxP12oysjYoOwP55NtDogjPzKkkh6RB2znlvzuxYjQzqDA6H1P0
+    factor: 1.78
+    portrait: 1
+    mInfo: pEsBT6BhruWsSp6
   - id: QWeuOrN
     name: pm4rDZDpgEFZvBDD2P7mtoAQvvE
     description: ''   
@@ -56,11 +56,13 @@ message: '即將參加529 "上古藝術畫廊"第13屆 的拍賣展。  本周�
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/UPdMYuY.jpg"><img src="https://i.imgur.com/UPdMYuY.jpg" height="300" width="168" /></a> 
-  
+<a href="https://i.imgur.com/ww8IsyS.jpg"><img class="postImage" src="https://i.imgur.com/ww8IsySh.jpg" />  
+</a>    
 
-<a href="https://i.imgur.com/ww8IsyS.jpg"><img src="https://i.imgur.com/ww8IsyS.jpg" height="300" width="189" /></a> 
-  
 
-<a href="https://i.imgur.com/QWeuOrN.jpg"><img src="https://i.imgur.com/QWeuOrN.jpg" height="300" width="288" /></a> 
- 
+<a href="https://i.imgur.com/UPdMYuY.jpg"><img class="postImage" src="https://i.imgur.com/UPdMYuYh.jpg" />  
+</a>    
+
+
+<a href="https://i.imgur.com/QWeuOrN.jpg"><img class="postImage" src="https://i.imgur.com/QWeuOrNh.jpg" />  
+</a>   
