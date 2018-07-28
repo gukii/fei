@@ -6,7 +6,7 @@ categories: ["wall","acrylic"]
 media:
   - id: TsmgKz3
     name: 7B7nx6BOAwuRKrrL5mD2TqG5K8
-    description: 'The Wall Man112x146cmacrylic'   
+    description: 'The Wall Man  112x146cm  acrylic'   
     height: 720
     width: 562
     type: image/jpeg
@@ -31,5 +31,8 @@ acrylic
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/TsmgKz3.jpg"><img src="https://i.imgur.com/TsmgKz3.jpg" height="300" width="234" /></a> 
- 
+<a href="https://i.imgur.com/TsmgKz3.jpg"><img class="postImage" src="https://i.imgur.com/TsmgKz3h.jpg" />  
+The Wall Man
+112x146cm
+acrylic  
+ </a>   
