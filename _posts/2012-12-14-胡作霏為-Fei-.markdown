@@ -19,7 +19,7 @@ media:
     mInfo: jgpicm69rLV8zUS
   - id: AV7olMv
     name: 0rRvvPxAnKUzpzAKMqKDiOjw6A
-    description: '20121214-- UnsettledAcrylic on paper15 x 21 cm'   
+    description: '20121214-- Unsettled  Acrylic on paper  15 x 21 cm'   
     height: 640
     width: 463
     type: image/jpeg
@@ -37,8 +37,13 @@ story: '胡作霏為 Fei Fei Art added 2 new photos.'
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/3ozZMO0.jpg"><img src="https://i.imgur.com/3ozZMO0.jpg" height="225" width="300" /></a> 
-  
+<a href="https://i.imgur.com/3ozZMO0.jpg"><img class="postImage" src="https://i.imgur.com/3ozZMO0h.jpg" />  
+20121204-- The Dance  
+ </a>    
 
-<a href="https://i.imgur.com/AV7olMv.jpg"><img src="https://i.imgur.com/AV7olMv.jpg" height="300" width="217" /></a> 
- 
+
+<a href="https://i.imgur.com/AV7olMv.jpg"><img class="postImage" src="https://i.imgur.com/AV7olMvh.jpg" />  
+20121214-- Unsettled
+Acrylic on paper
+15 x 21 cm  
+ </a>   
