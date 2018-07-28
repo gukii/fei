@@ -69,14 +69,17 @@ The source 源頭
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/xBzMibm.jpg"><img src="https://i.imgur.com/xBzMibm.jpg" height="255" width="300" /></a> 
-  
+<a href="https://i.imgur.com/xBzMibm.jpg"><img class="postImage" src="https://i.imgur.com/xBzMibmh.jpg" />  
+</a>    
 
-<a href="https://i.imgur.com/leOV46s.jpg"><img src="https://i.imgur.com/leOV46s.jpg" height="300" width="225" /></a> 
-  
 
-<a href="https://i.imgur.com/5Yqxuwm.jpg"><img src="https://i.imgur.com/5Yqxuwm.jpg" height="300" width="225" /></a> 
-  
+<a href="https://i.imgur.com/leOV46s.jpg"><img class="postImage" src="https://i.imgur.com/leOV46sh.jpg" />  
+</a>    
 
-<a href="https://i.imgur.com/YFct7om.jpg"><img src="https://i.imgur.com/YFct7om.jpg" height="237" width="300" /></a> 
- 
+
+<a href="https://i.imgur.com/5Yqxuwm.jpg"><img class="postImage" src="https://i.imgur.com/5Yqxuwmh.jpg" />  
+</a>    
+
+
+<a href="https://i.imgur.com/YFct7om.jpg"><img class="postImage" src="https://i.imgur.com/YFct7omh.jpg" />  
+</a>   
