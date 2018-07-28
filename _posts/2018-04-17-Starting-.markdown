@@ -19,7 +19,6 @@ media:
     mInfo: casdOJOw4IHbXfM
 story: '胡作霏為 Fei Fei Art shared 胡作霏為之  對話  對畫's post.'  
 message: 'Starting to have a conversation with myself   開始與自己的"對話對畫"'  
-
 ---
 
 Starting to have a conversation with myself  
