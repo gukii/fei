@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "對話對畫---4 " 
+title: '對話對畫---4 ' 
 date: 2018-01-24T14:43:31+0000 
-categories: [] 
+categories: ["talking","canvas"] 
 media:
   - id: h9yiq1Q
     name: W05nAnvKRyT8yGDwLOm0U5xKAwR
-    description: "對話對畫---4Talking Canvas project ---4https;www.facebook.comEfei.Talking.Canvas"   
+    description: '對話對畫-=-4  Talking Canvas project -=-4    https;w..'   
     height: 583
     width: 720
     type: image/jpeg
@@ -17,7 +17,7 @@ media:
     factor: 1.23
     portrait: 0
     mInfo: yU3uiHGqwaJclsn
-message: "對話對畫---4  Talking Canvas project ---4    https;www.facebook.comEfei.Talking.Canvas"
+message: '對話對畫-=-4  Talking Canvas project -=-4    https;www.facebook.comEfei...'  
 ---
 
 對話對畫---4  
@@ -27,5 +27,9 @@ https://www.facebook.com/Efei.Talking.Canvas/
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/h9yiq1Q.jpg"><img src="https://i.imgur.com/h9yiq1Q.jpg" height="242" width="300" /></a> 
- 
+<a href="https://i.imgur.com/h9yiq1Q.jpg"><img class="postImage" src="https://i.imgur.com/h9yiq1Qh.jpg" />  
+對話對畫---4
+Talking Canvas project ---4
+
+https:/..  
+ </a>   
