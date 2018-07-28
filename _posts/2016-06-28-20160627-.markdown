@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "20160627 " 
+title: '20160627 ' 
 date: 2016-06-28T07:01:47+0000 
-categories: ["crayon"] 
+categories: ["crayon","acrylic","paper"] 
 media:
   - id: Lyh1goF
     name: xxpO05ZzD7tj1Y5pnkrVfkPvV80
-    description: "20160627 acrylic, crayon on paper時空錯置 系列 之二"   
+    description: '20160627   acrylic, crayon on paper  時空錯置 系列 之二'   
     height: 501
     width: 720
     type: image/jpeg
@@ -17,7 +17,7 @@ media:
     factor: 1.44
     portrait: 0
     mInfo: fxz3jTFEWY8q7H0
-message: "20160627   acrylic, crayon on paper  時空錯置 系列 之二"
+message: '20160627   acrylic, crayon on paper  時空錯置 系列 之二'  
 ---
 
 20160627   
@@ -26,5 +26,8 @@ acrylic, crayon on paper
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/Lyh1goF.jpg"><img src="https://i.imgur.com/Lyh1goF.jpg" height="208" width="300" /></a> 
- 
+<a href="https://i.imgur.com/Lyh1goF.jpg"><img class="postImage" src="https://i.imgur.com/Lyh1goFh.jpg" />  
+20160627 
+acrylic, crayon on paper
+時空錯置 系列 之二  
+ </a>   
