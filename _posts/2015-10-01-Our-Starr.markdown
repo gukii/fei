@@ -6,7 +6,7 @@ categories: ["crayon","wood"]
 media:
   - id: 7eVDcmH
     name: qkXVEjEWgEFvz3Dg0lPouN9DDz
-    description: 'Our Starry Night2014, spring , crayon on wood pads2 pieces'   
+    description: 'Our Starry Night  2014, spring , crayon on wood ..'   
     height: 263
     width: 720
     type: image/jpeg
@@ -25,5 +25,7 @@ Our Starry Night
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/7eVDcmH.jpg"><img src="https://i.imgur.com/7eVDcmH.jpg" height="109" width="300" /></a> 
- 
+<a href="https://i.imgur.com/7eVDcmH.jpg"><img class="postImage" src="https://i.imgur.com/7eVDcmHh.jpg" />  
+Our Starry Night
+2014, spring , crayon on wood ..  
+ </a>   
