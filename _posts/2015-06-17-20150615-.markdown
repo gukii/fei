@@ -1,36 +1,33 @@
 ---
 layout: post
 title: '20150615 ' 
-date: 2015-06-17T06:37:22+0000 
-categories: [] 
+date: 2015-06-17T06:36:28+0000 
+categories: ["canvas","acrylic"] 
 media:
-  - id: cl52gpx
-    name: og9joG2o2WHmrOLyAX6ACO0GGD
-    description: '20150615  Untitled'   
+  - id: dQivESu
+    name: GV7MJB6J6NS8MWvZ8K96ikyJxj
+    description: '20150615  To Find Peas  Acrylic on canvas'   
     height: 537
     width: 720
     type: image/jpeg
-    link: https://i.imgur.com/cl52gpx.jpg
-    prevLoc: EMZ1zNo3XKTqx11wyg3WT6Q2Kvl6QWh1DPVyGVq7s2rKlRGxP5HZpRjNZYZ3u7Xgv6D5ALfxgZ8rYLE2cV7rYL62VzSv8q0ZGJRYcL20K7RDywIlnwWAE2R3iLGY9kBon5iVjoV6RJJkik16VBZJXls5kKKlPxq9uYQqKlAAy5fo4Gxnzww5unNpJ7n1BrF9vk3VgA9JT1gnlwN6YnfpAyko4MODf24Al8qJpBUN0nD1NxPqCqYJxw4JjVI27JY02Lmj
-    parentId: og9joG2o2WHmrOLyAX6ACO0GGD
-    postId: jKERGNZnjkF0ypOxk77GTwWXN1VGK0s7Rl2zZkn3un0wwDwBqGCAm
+    link: https://i.imgur.com/dQivESu.jpg
+    prevLoc: 5plV2qGNwATl9ggy8xZ0fK8LjrXK8gH31MOBqOnmFomzOxQ9KLhj9Y1JjxjEiR7N31nwMXumLEJk7qBPi9EAK2AqJnuxLxLwEGwjhWZALg8Q53TqAl17y6ZWCMPP14n5wOuQk0n4nv4mupMK3xJGE1fVqWE4jyjQHkZ6VBJJEjtMlQ4z3PPjTpKNmMp9ZyHZ10lLG2z9h7GPRxqVmJCB84Gkgm9vUmzg7vyjPWFDv1K8WPzzt6Xxl7AxLDcG7W9MzY6N
+    parentId: GV7MJB6J6NS8MWvZ8K96ikyJxj
+    postId: KyPrWv16N2Ckr31R0jjMiZMzPpLNWRuk6DZy7n8nHPo22DPwkvHo3
     factor: 1.34
     portrait: 0
-    mInfo: 9nfcluKdBh518jh
-story: '胡作霏為 Fei Fei Art added a new photo.'  
-message: '20150615  Untitled'  
+    mInfo: y9T57Z2I5lgqg2R
+message: '20150615  To Find Peas  Acrylic on canvas'  
 ---
 
 20150615  
-Untitled
- 
- 
-[//]: #story:
-胡作霏為 Fei Fei Art added a new photo.
+To Find Peas  
+Acrylic on canvas
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/cl52gpx.jpg"><img class="postImage" src="https://i.imgur.com/cl52gpxh.jpg" />  
+<a href="https://i.imgur.com/dQivESu.jpg"><img class="postImage" src="https://i.imgur.com/dQivESuh.jpg" />  
 20150615
-Untitled  
+To Find Peas
+Acrylic on canvas  
  </a>   
