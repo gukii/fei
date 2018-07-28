@@ -6,7 +6,7 @@ categories: []
 media:
   - id: jLJY1Rv
     name: 0r36Bkgy7puzGOoBvLjkUO4rQ9
-    description: '20150301 A Very Disturbing woman'   
+    description: '20150301   A Very Disturbing woman'   
     height: 720
     width: 395
     type: image/jpeg
@@ -25,5 +25,7 @@ A Very Disturbing woman
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/jLJY1Rv.jpg"><img src="https://i.imgur.com/jLJY1Rv.jpg" height="300" width="164" /></a> 
- 
+<a href="https://i.imgur.com/jLJY1Rv.jpg"><img class="postImage" src="https://i.imgur.com/jLJY1Rvh.jpg" />  
+20150301 
+A Very Disturbing woman  
+ </a>   
