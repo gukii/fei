@@ -6,7 +6,7 @@ categories: ["acrylic","paper"]
 media:
   - id: 9yzVSJn
     name: 8D2PgzWp66igJDM9AmjytognBk
-    description: 'the whisper of fallacrylic on paper30.5 x 23 cmEfei shih'   
+    description: 'the whisper of fall  acrylic on paper  30.5 x 23..'   
     height: 454
     width: 605
     type: image/jpeg
@@ -32,5 +32,8 @@ Efei shih
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/9yzVSJn.jpg"><img src="https://i.imgur.com/9yzVSJn.jpg" height="225" width="300" /></a> 
- 
+<a href="https://i.imgur.com/9yzVSJn.jpg"><img class="postImage" src="https://i.imgur.com/9yzVSJnh.jpg" />  
+the whisper of fall
+acrylic on paper
+30.5 x 23..  
+ </a>   
