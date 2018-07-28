@@ -6,7 +6,7 @@ categories: ["healing"]
 media:
   - id: GBhWZ6O
     name: W0xkE0AX0yc4KOGwDYJLh5p7jw9
-    description: '20170727The Healing Series NO.2 ; Please Forgive Me'   
+    description: '20170727  The Healing Series NO.2 ; Please Forgi..'   
     height: 720
     width: 504
     type: image/jpeg
@@ -25,5 +25,7 @@ The Healing Series NO.2 : Please Forgive Me
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/GBhWZ6O.jpg"><img src="https://i.imgur.com/GBhWZ6O.jpg" height="300" width="210" /></a> 
- 
+<a href="https://i.imgur.com/GBhWZ6O.jpg"><img class="postImage" src="https://i.imgur.com/GBhWZ6Oh.jpg" />  
+20170727
+The Healing Series NO.2 : Please Forgi..  
+ </a>   
