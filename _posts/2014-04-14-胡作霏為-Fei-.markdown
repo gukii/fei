@@ -6,7 +6,7 @@ categories: []
 media:
   - id: 4TUFeRY
     name: xr9oyWom66fX7XZQ65LqiRN86r
-    description: 'The complete " The cracked wall series"105 x 60cm'   
+    description: 'The complete " The cracked wall series"  105 x 6..'   
     height: 438
     width: 720
     type: image/jpeg
@@ -24,5 +24,7 @@ story: '胡作霏為 Fei Fei Art added 2 new photos.'
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/4TUFeRY.jpg"><img src="https://i.imgur.com/4TUFeRY.jpg" height="182" width="300" /></a> 
- 
+<a href="https://i.imgur.com/4TUFeRY.jpg"><img class="postImage" src="https://i.imgur.com/4TUFeRYh.jpg" />  
+The complete " The cracked wall series"
+105 x 6..  
+ </a>   
