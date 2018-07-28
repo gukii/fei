@@ -42,8 +42,9 @@ message: '20150928'
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/deiiOTq.jpg"><img src="https://i.imgur.com/deiiOTq.jpg" height="300" width="195" /></a> 
-  
+<a href="https://i.imgur.com/deiiOTq.jpg"><img class="postImage" src="https://i.imgur.com/deiiOTqh.jpg" />  
+</a>    
 
-<a href="https://i.imgur.com/Z6aLchQ.jpg"><img src="https://i.imgur.com/Z6aLchQ.jpg" height="168" width="300" /></a> 
- 
+
+<a href="https://i.imgur.com/Z6aLchQ.jpg"><img class="postImage" src="https://i.imgur.com/Z6aLchQh.jpg" />  
+</a>   
