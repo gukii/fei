@@ -4,19 +4,6 @@ title: 'Time to p'
 date: 2015-07-17T11:29:42+0000 
 categories: [] 
 media:
-  - id: QZgcgbk
-    name: Y9B5VZX3kXi9n9mwR2ZXTMxm7M
-    description: ''   
-    height: 720
-    width: 540
-    type: image/jpeg
-    link: https://i.imgur.com/QZgcgbk.jpg
-    prevLoc: 3njEZoDLrYs4K77j3GpmHMv6jG3MvkTjMX6PZ6YWhnoOAgWGYBSXEKYxXjXRIkXVOmMq2rSMXAk8RzG4t3ZqQ72AZ2H9RN2mKM0nHwDZPPEjR5TZyMgXNpo1snZ4zvlOROu054gxOPG0sRJyEWNjBQSklN95O2DwcBR3v9DD7Xt1q9mO0EEgI0329O026Vt6Kgpj3RBkckBY9ADwG7C9Z1MRngM0U7W2glYyWyTRwLgxYP0rtkpLYD6LVncnz8O96B4y
-    parentId: qkXZAo8zP8t2EvWyNpWNFN2GBQ
-    postId: YmjEkNWMwnuX6G9yPzzpi80LRMnzXRSq31PBlmmPH7mr6lOqVOSrW
-    factor: 1.33
-    portrait: 1
-    mInfo: 5n2gMElMM0Rg87l
   - id: gqaEMOj
     name: J9jQE1X3VXin6Vp8p8K1iv99Vo
     description: ''   
@@ -30,6 +17,19 @@ media:
     factor: 1.33
     portrait: 1
     mInfo: TBb57DzX7Cshjpc
+  - id: QZgcgbk
+    name: Y9B5VZX3kXi9n9mwR2ZXTMxm7M
+    description: ''   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/QZgcgbk.jpg
+    prevLoc: 3njEZoDLrYs4K77j3GpmHMv6jG3MvkTjMX6PZ6YWhnoOAgWGYBSXEKYxXjXRIkXVOmMq2rSMXAk8RzG4t3ZqQ72AZ2H9RN2mKM0nHwDZPPEjR5TZyMgXNpo1snZ4zvlOROu054gxOPG0sRJyEWNjBQSklN95O2DwcBR3v9DD7Xt1q9mO0EEgI0329O026Vt6Kgpj3RBkckBY9ADwG7C9Z1MRngM0U7W2glYyWyTRwLgxYP0rtkpLYD6LVncnz8O96B4y
+    parentId: qkXZAo8zP8t2EvWyNpWNFN2GBQ
+    postId: YmjEkNWMwnuX6G9yPzzpi80LRMnzXRSq31PBlmmPH7mr6lOqVOSrW
+    factor: 1.33
+    portrait: 1
+    mInfo: 5n2gMElMM0Rg87l
 story: '胡作霏為 Fei Fei Art added 2 new photos.'  
 message: 'Time to paint. Care for a drink ?'  
 ---
@@ -42,8 +42,9 @@ Time to paint. Care for a drink ?
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/QZgcgbk.jpg"><img src="https://i.imgur.com/QZgcgbk.jpg" height="300" width="225" /></a> 
-  
+<a href="https://i.imgur.com/gqaEMOj.jpg"><img class="postImage" src="https://i.imgur.com/gqaEMOjh.jpg" />  
+</a>    
 
-<a href="https://i.imgur.com/gqaEMOj.jpg"><img src="https://i.imgur.com/gqaEMOj.jpg" height="300" width="225" /></a> 
- 
+
+<a href="https://i.imgur.com/QZgcgbk.jpg"><img class="postImage" src="https://i.imgur.com/QZgcgbkh.jpg" />  
+</a>   
