@@ -31,7 +31,7 @@ media:
     portrait: 0
     mInfo: aYtf81sSmbeJPRA
 story: '胡作霏為 Fei Fei Art added 2 new photos.'  
-message: 'Getting ready for the art show next Feb.   My "cracked walled series" are finally framed.  為了明年二月畫展作準備。我的"裂牆系列"十張作品終於裱好框了。'  
+message: 'Getting ready for the art show next Feb.   My "cracked walled series..'  
 ---
 
 Getting ready for the art show next Feb.   
@@ -44,8 +44,9 @@ My "cracked walled series" are finally framed.
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/46riGun.jpg"><img src="https://i.imgur.com/46riGun.jpg" height="225" width="300" /></a> 
-  
+<a href="https://i.imgur.com/46riGun.jpg"><img class="postImage" src="https://i.imgur.com/46riGunh.jpg" />  
+</a>    
 
-<a href="https://i.imgur.com/YmTfeP1.jpg"><img src="https://i.imgur.com/YmTfeP1.jpg" height="225" width="300" /></a> 
- 
+
+<a href="https://i.imgur.com/YmTfeP1.jpg"><img class="postImage" src="https://i.imgur.com/YmTfeP1h.jpg" />  
+</a>   
