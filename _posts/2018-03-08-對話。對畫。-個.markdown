@@ -1,22 +1,22 @@
 ---
 layout: post
 title: '對話。對畫。  個' 
-date: 2018-03-08T11:38:20+0000 
+date: 2018-03-08T12:44:11+0000 
 categories: [] 
 media:
-  - id: TGMNE9a
-    name: KV8EMNg886Tk6Orl4jzkupOn6n
+  - id: FoIP1Ci
+    name: ZnkVzRnxN6iYo2Q57WODs1pv1k9
     description: '對話。對畫。  個案六  姓名; 小月  時間; 2018 0306  地點; 胡作霏為工作室 ..'   
     height: 720
     width: 506
     type: image/jpeg
-    link: https://i.imgur.com/TGMNE9a.jpg
-    prevLoc: MlENLYz3K7IJ3xxpPRq5uL1XNlvL1rTWjMkKZkD5hgKQXy7jnAcM5gmzRR3LIgYoR53V63t7MLvLAXBzc81211j67pTPp1wYB2WpFAW70YDLjRi2yv374AzksOqGY6gAoPIRpxljVxJnhMgG3OG5kAiR1x6DjN1jTKQPYKkgmlFEDDBQzmoLCBk6RAAW0xCmwqDGjlkOIVgjOKKy0piR7X8My8WPc0oxx8n1JzsBX5K494ANsyDBMg4AMrHPpwwRRxXjcRp
-    parentId: KV8EMNg886Tk6Orl4jzkupOn6n
-    postId: Vj8k4JwjJoHZWY3EwrQOu2okzYEWW5CE15xMr91OfBVWYq8ZPju50
+    link: https://i.imgur.com/FoIP1Ci.jpg
+    prevLoc: ZBwv2lQ7GZIjgPP1vD5MuOP6m45OPWsGLxqNVq64cR9vZK8VYmiDAgNwDBDZTQxZKpWJGMU4WrzJjQD1cVgVvoQnMwCXQvKDOvzoFmPLAO5wErcYprN9GzNmsLoE7P52zBh2kzOGWYrwhWgogDLllqTlELoxrMnwuM3QpMOKvkh855q1zGQLc6AErNNDBDtzAQG2g2njCvJ9GEPEo1tJjnn0X3ljTX90oX4vlxCEw9Y7wpwzhE2kvR1vmVH8YLPo4qLOcyZ
+    parentId: ZnkVzRnxN6iYo2Q57WODs1pv1k9
+    postId: GrL6Pov9J2T9Lj8zoVVOH6Kz3kjEV0FKDlRq24BNS0RjZANqkQfZ4p
     factor: 1.42
     portrait: 1
-    mInfo: F0k8SD67gr0igUx
+    mInfo: FZIQm1CikGrewrp
 message: '對話。對畫。  個案六  姓名; 小月  時間; 2018 0306  地點; 胡作霏為工作室    今天的個案--小月。    從小月..'  
 ---
 
@@ -30,11 +30,11 @@ message: '對話。對畫。  個案六  姓名; 小月  時間; 2018 0306  地�
   
 從小月一坐下來開始進入對話，我的手幾乎也沒有停過。 儘管一開始似乎感覺到一股往下沉的能量，但是我卻直覺性的先用天空藍和金黃色做為一開始下筆的顏色。 而且那一片天空藍和金黃色感覺上是要超過畫布的框框外面的。  
   
- 小月的生命歷程 似乎是一言難盡。她似乎有許許多多的 人生體驗一直不斷的湧現出來， 而我的手 也隨著這個能量的節奏不停地在畫布上跳動著。接著， 我的手把我帶領到畫布的下方，因為有一股比較黑暗跟沉重的能量在往下拖著 ，使得那個天空藍和金黃色 很難自由自在的繼續 發光發熱。好似廣大無邊無盡的光亮在與下面的黑暗沉重對抗。 我可以感覺到 小月背負著蠻多的苦還有隱性的"憤怒"， 然而幸運的是小月天生的強大的生命力和光明面 讓她從這個 充滿挑戰的世界裡面 一步一步的往上 提升。 而我也感受到真是因為他自己本身的光明和正能量讓她克服了許多過去的黑暗和沉重， 並且她的身邊應該是圍繞著很多在支持和幫助他的天使和指導靈。(也或說她的漸漸覺醒的高我在指引。)  
+小月的生命歷程 似乎是一言難盡。她似乎有許許多多的 人生體驗一直不斷的湧現出來， 而我的手 也隨著這個能量的節奏不停地在畫布上跳動著。接著， 我的手把我帶領到畫布的下方，因為有一股比較黑暗跟沉重的能量在往下拖著 ，使得那個天空藍和金黃色 很難自由自在的繼續 發光發熱。好似廣大無邊無盡的光亮在與下面的黑暗沉重對抗。 我可以感覺到 小月背負著蠻多的苦還有隱性的"憤怒"， 然而幸運的是小月天生的強大的生命力和光明面 讓她從這個 充滿挑戰的世界裡面 一步一步的往上 提升。 而我也感受到真是因為他自己本身的光明和正能量讓她克服了許多過去的黑暗和沉重， 並且她的身邊應該是圍繞著很多在支持和幫助他的天使和指導靈。(也或說她的漸漸覺醒的高我在指引。)  
   
 當畫布的上半部 充滿著光明而下半部帶著黑暗和沉重時，於是 中間空出了一塊 白色的亮光區塊。 我知道這中間的區域一定代表著什麼 ， 似乎有一個角色會出現在這個畫面的最中間 。之後當小月提到他的女兒時， 雖然是平鋪直述， 但我可以感覺小月的女兒是他人生中的快樂的泉源， 女兒的出生也是她生命的轉折點。 於是我的手 直覺性的拿起粉紅色， 而中間的光明 區域就多了一個類似小女孩的形體。 一開始覺得這一個小女孩的形體代表的是小月的女兒， 但是其實我覺得這個女孩是小月她自己。  
   
- 小月已經背向黑暗朝著光明的那一面前進。 畫面的右半部也就是小女孩的背面， 充滿著比較多的雜亂和黑暗，反之小女孩的正面是比較輕，比較柔和和光亮的。  
+小月已經背向黑暗朝著光明的那一面前進。 畫面的右半部也就是小女孩的背面， 充滿著比較多的雜亂和黑暗，反之小女孩的正面是比較輕，比較柔和和光亮的。  
   
 所以原來中間的那個白色光明區域要放入的是小月她自己， 這顯示了小月才是她自己人生的主宰，不該是傳統社會的價值觀，不該是從小到大的教育，不該是社會的期待。 隨著對話愈來愈深入，我亦愈來愈感受到小月的心量有很大的滿滿的愛和光。 但是，她必須真正的好好的對自己更好。唯有如此那些所有壓抑著的，無奈的，委曲的才能開始完全被釋放。  
   
@@ -42,7 +42,7 @@ message: '對話。對畫。  個案六  姓名; 小月  時間; 2018 0306  地�
   
 畫的最後，我似乎仍感到少了什麼---於是我發現唯有加上一圈圈一層層帶有咖啡色的亮光才能讓這張畫作圓滿的結束。因為就如同整個對話中我感受到的---小月充滿了光明和愛，就像畫面中的向前飛奔的，敞開心的女子，這個愛是源源不斷的在給予的。即使有那些荊棘般的黑暗的生出之物(也許是過去的傷害、挫折、憤怒)在與之對抗，但在不斷的在學習對自己更好，更愛自己和接受自己之後，這些看似負面的過去都會成為祝福和向光推進的動力。  
   
------------------------------------  
+-------------------------------  
 小月的分享:  
   
 在幻物社團看到有人分享與霏的作畫分享，引起我的好奇心，特地點進霏的臉書查看一下，蠻特別的，又引起我那勇於嘗試的好奇心。  
@@ -73,7 +73,7 @@ message: '對話。對畫。  個案六  姓名; 小月  時間; 2018 0306  地�
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/TGMNE9a.jpg"><img class="postImage" src="https://i.imgur.com/TGMNE9ah.jpg" />  
+<a href="https://i.imgur.com/FoIP1Ci.jpg"><img class="postImage" src="https://i.imgur.com/FoIP1Cih.jpg" />  
 對話。對畫。
 個案(六)
 姓名: 小月
