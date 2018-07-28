@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "20170320 " 
+title: '20170320 ' 
 date: 2017-03-20T15:22:56+0000 
 categories: [] 
 media:
   - id: hJLMYXB
     name: Ymjpg2LKwxfXLyyg5Km7Ik8Pl62
-    description: ""   
+    description: ''   
     height: 720
     width: 571
     type: image/jpeg
@@ -17,7 +17,7 @@ media:
     factor: 1.26
     portrait: 1
     mInfo: H65qSLfL8m1XRRR
-message: "20170320  Getting busy on Spring Equinox   今年的春至一整天都在做自己喜歡的事，除了打掃家裡以外。  是個好兆頭"
+message: '20170320  Getting busy on Spring Equinox   今年的春至一整天都在做自己喜歡的事，除了打掃家裡以..'  
 ---
 
 20170320  
@@ -27,5 +27,5 @@ Getting busy on Spring Equinox
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/hJLMYXB.jpg"><img src="https://i.imgur.com/hJLMYXB.jpg" height="300" width="237" /></a> 
- 
+<a href="https://i.imgur.com/hJLMYXB.jpg"><img class="postImage" src="https://i.imgur.com/hJLMYXBh.jpg" />  
+</a>   
