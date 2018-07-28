@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "No painti" 
+title: 'No painti' 
 date: 2018-04-02T06:55:36+0000 
 categories: [] 
 media:
   - id: 1EqW5JT
     name: 1NgrGRgMx6UXROAp29vlu0l8jox
-    description: "No paintings make me happier than this one drawn by 3 year old nephew."   
+    description: 'No paintings make me happier than this one drawn..'   
     height: 540
     width: 720
     type: image/jpeg
@@ -17,12 +17,13 @@ media:
     factor: 1.33
     portrait: 0
     mInfo: mCWDy3jn1wYBgrO
-message: "No paintings make me happier than this one drawn by 3 year old nephew."
+message: 'No paintings make me happier than this one drawn by 3 year old nephew.'  
 ---
 
 No paintings make me happier than this one drawn by 3 year old nephew.
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/1EqW5JT.jpg"><img src="https://i.imgur.com/1EqW5JT.jpg" height="225" width="300" /></a> 
- 
+<a href="https://i.imgur.com/1EqW5JT.jpg"><img class="postImage" src="https://i.imgur.com/1EqW5JTh.jpg" />  
+No paintings make me happier than this one drawn..  
+ </a>   
