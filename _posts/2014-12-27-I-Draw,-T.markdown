@@ -6,7 +6,7 @@ categories: []
 media:
   - id: VSwW4Ts
     name: 3xJN8kVy03UvpngkzyV4iQollx
-    description: 'I Draw, Therefore I Am29 x 41cmBy Efei Shih20141216There are times when only diving in colors and paints can wash away the pain. And there are times when it brings you more frustration and migraine.I welcome it, either way.'   
+    description: 'I Draw, Therefore I Am  29 x 41cm  By Efei Shih ..'   
     height: 720
     width: 491
     type: image/jpeg
@@ -18,7 +18,7 @@ media:
     portrait: 1
     mInfo: S5cYJecbgqsKfU4
 story: '胡作霏為 Fei Fei Art added a new photo.'  
-message: 'I Draw, Therefore I Am  29 x 41cm  By Efei Shih  20141216    There are times when only diving in colors and paints can wash away the pain.     And there are times when it brings you more frustration and migraine.    I welcome it, either way.'  
+message: 'I Draw, Therefore I Am  29 x 41cm  By Efei Shih  20141216    There a..'  
 ---
 
 I Draw, Therefore I Am  
@@ -38,5 +38,8 @@ I welcome it, either way.
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/VSwW4Ts.jpg"><img src="https://i.imgur.com/VSwW4Ts.jpg" height="300" width="204" /></a> 
- 
+<a href="https://i.imgur.com/VSwW4Ts.jpg"><img class="postImage" src="https://i.imgur.com/VSwW4Tsh.jpg" />  
+I Draw, Therefore I Am
+29 x 41cm
+By Efei Shih..  
+ </a>   
