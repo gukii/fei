@@ -29,5 +29,6 @@ message: '20130614-- Summer Dream'
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/UYvgJsu.jpg"><img src="https://i.imgur.com/UYvgJsu.jpg" height="219" width="300" /></a> 
- 
+<a href="https://i.imgur.com/UYvgJsu.jpg"><img class="postImage" src="https://i.imgur.com/UYvgJsuh.jpg" />  
+20130614-- Summer Dream  
+ </a>   
