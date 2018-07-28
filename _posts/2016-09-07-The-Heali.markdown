@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "The Heali" 
+title: 'The Heali' 
 date: 2016-09-07T04:59:42+0000 
-categories: ["healing","healing"] 
+categories: ["healing"] 
 media:
   - id: nrUEEG9
     name: mj1lzBXyRqtMnjEWrXEwTJ1Gp8r
-    description: "The Healing Series NO.5; One with All療癒系列  5號;合一20 x 27 cm"   
+    description: 'The Healing Series NO.5; One with All  療癒系列  5號;..'   
     height: 720
     width: 514
     type: image/jpeg
@@ -17,8 +17,8 @@ media:
     factor: 1.40
     portrait: 1
     mInfo: yFOyWs3a53uHAI4
-story: "胡作霏為 Fei Fei Art added a new photo."  
-message: "The Healing Series NO.5; One with All  療癒系列  5號;合一  20 x 27 cm"
+story: '胡作霏為 Fei Fei Art added a new photo.'  
+message: 'The Healing Series NO.5; One with All  療癒系列  5號;合一  20 x 27 cm'  
 ---
 
 The Healing Series NO.5: One with All  
@@ -31,5 +31,7 @@ The Healing Series NO.5: One with All
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/nrUEEG9.jpg"><img src="https://i.imgur.com/nrUEEG9.jpg" height="300" width="214" /></a> 
- 
+<a href="https://i.imgur.com/nrUEEG9.jpg"><img class="postImage" src="https://i.imgur.com/nrUEEG9h.jpg" />  
+The Healing Series NO.5: One with All
+療癒系列  5號:..  
+ </a>   
