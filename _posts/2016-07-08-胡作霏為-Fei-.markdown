@@ -6,7 +6,7 @@ categories: []
 media:
   - id: 36sKA4y
     name: MAkOqmj59MHY6Wzq67zjT540vNY
-    description: '20160627birthcrayon on paper40 x 27.5 cm'   
+    description: '20160627  birth    crayon on paper  40 x 27.5 cm'   
     height: 501
     width: 720
     type: image/jpeg
@@ -24,5 +24,10 @@ story: '胡作霏為 Fei Fei Art added 2 new photos.'
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/36sKA4y.jpg"><img src="https://i.imgur.com/36sKA4y.jpg" height="208" width="300" /></a> 
- 
+<a href="https://i.imgur.com/36sKA4y.jpg"><img class="postImage" src="https://i.imgur.com/36sKA4yh.jpg" />  
+20160627
+birth
+
+crayon on paper
+40 x 27.5 cm  
+ </a>   
