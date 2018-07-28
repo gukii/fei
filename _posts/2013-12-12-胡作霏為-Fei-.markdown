@@ -24,5 +24,6 @@ story: '胡作霏為 Fei Fei Art added 2 new photos.'
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/zI3U9QD.jpg"><img src="https://i.imgur.com/zI3U9QD.jpg" height="114" width="300" /></a> 
- 
+<a href="https://i.imgur.com/zI3U9QD.jpg"><img class="postImage" src="https://i.imgur.com/zI3U9QDh.jpg" />  
+裂牆系列1-4  
+ </a>   
