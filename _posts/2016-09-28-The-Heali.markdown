@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "The Heali" 
+title: 'The Heali' 
 date: 2016-09-28T02:27:49+0000 
-categories: [] 
+categories: ["healing"] 
 media:
   - id: hNMJfAY
     name: GrLn95vklXI91M2DGMmjuG3870m
-    description: "The Healing Series NO.7; Love.  Me.療癒系列 七; 愛。我。"   
+    description: 'The Healing Series NO.7; Love.  Me.  療癒系列 七; 愛。我。'   
     height: 531
     width: 720
     type: image/jpeg
@@ -17,7 +17,7 @@ media:
     factor: 1.36
     portrait: 0
     mInfo: GBpgSpmK1lFfcat
-message: "The Healing Series NO.7; Love.  Me.  療癒系列 七; 愛。我。"
+message: 'The Healing Series NO.7; Love.  Me.  療癒系列 七; 愛。我。'  
 ---
 
 The Healing Series NO.7: Love.  Me.  
@@ -25,5 +25,7 @@ The Healing Series NO.7: Love.  Me.
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/hNMJfAY.jpg"><img src="https://i.imgur.com/hNMJfAY.jpg" height="221" width="300" /></a> 
- 
+<a href="https://i.imgur.com/hNMJfAY.jpg"><img class="postImage" src="https://i.imgur.com/hNMJfAYh.jpg" />  
+The Healing Series NO.7: Love.  Me.
+療癒系列 七: 愛。我。  
+ </a>   
