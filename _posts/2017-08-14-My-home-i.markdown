@@ -97,7 +97,6 @@ media:
     mInfo: Q0yABXBSTn2qAWa
 story: '胡作霏為 Fei Fei Art added 7 new photos.'  
 message: 'My home is my gallery.    All the paintings that weren't sold at the..'  
-
 ---
 
 My home is my gallery.  
@@ -115,20 +114,26 @@ You're welcome to visit if you bring me flowers and a dessert.
 <a href="https://i.imgur.com/RE8kRP3.jpg"><img class="postImage" src="https://i.imgur.com/RE8kRP3h.jpg" />  
 </a>    
 
+
 <a href="https://i.imgur.com/PmDQt3X.jpg"><img class="postImage" src="https://i.imgur.com/PmDQt3Xh.jpg" />  
 </a>    
+
 
 <a href="https://i.imgur.com/EBw7gPg.jpg"><img class="postImage" src="https://i.imgur.com/EBw7gPgh.jpg" />  
 </a>    
 
+
 <a href="https://i.imgur.com/MCggyB9.jpg"><img class="postImage" src="https://i.imgur.com/MCggyB9h.jpg" />  
 </a>    
+
 
 <a href="https://i.imgur.com/uJZjG6x.jpg"><img class="postImage" src="https://i.imgur.com/uJZjG6xh.jpg" />  
 </a>    
 
+
 <a href="https://i.imgur.com/zxBGDxy.jpg"><img class="postImage" src="https://i.imgur.com/zxBGDxyh.jpg" />  
 </a>    
+
 
 <a href="https://i.imgur.com/fKEibsY.jpg"><img class="postImage" src="https://i.imgur.com/fKEibsYh.jpg" />  
 </a>   
