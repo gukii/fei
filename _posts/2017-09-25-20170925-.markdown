@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "20170925 " 
+title: '20170925 ' 
 date: 2017-09-25T13:08:51+0000 
-categories: [] 
+categories: ["acrylic","wood"] 
 media:
   - id: aoJX1dg
     name: BmDBK3J7wkIn49k6oEnPtR1Z3Jo
-    description: "20170925DisconnectionAcrylic on wood pad"   
+    description: '20170925  Disconnection  Acrylic on wood pad'   
     height: 513
     width: 720
     type: image/jpeg
@@ -17,7 +17,7 @@ media:
     factor: 1.40
     portrait: 0
     mInfo: FgyAiwYvNcgt165
-message: "20170925  Disconnection  Acrylic on wood pad"
+message: '20170925  Disconnection  Acrylic on wood pad'  
 ---
 
 20170925  
@@ -26,5 +26,8 @@ Acrylic on wood pad
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/aoJX1dg.jpg"><img src="https://i.imgur.com/aoJX1dg.jpg" height="213" width="300" /></a> 
- 
+<a href="https://i.imgur.com/aoJX1dg.jpg"><img class="postImage" src="https://i.imgur.com/aoJX1dgh.jpg" />  
+20170925
+Disconnection
+Acrylic on wood pad  
+ </a>   
