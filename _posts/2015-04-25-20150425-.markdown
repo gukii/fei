@@ -6,7 +6,7 @@ categories: ["crayon","acrylic","wood"]
 media:
   - id: XPHs0qg
     name: wq8Vo7Z7pOTnpA8Dv361U1LBlA
-    description: '20150425Dancing in the woodsacrylic and crayon29 x 41cm'   
+    description: '20150425  Dancing in the woods  acrylic and cray..'   
     height: 720
     width: 492
     type: image/jpeg
@@ -32,5 +32,8 @@ acrylic and crayon
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/XPHs0qg.jpg"><img src="https://i.imgur.com/XPHs0qg.jpg" height="300" width="205" /></a> 
- 
+<a href="https://i.imgur.com/XPHs0qg.jpg"><img class="postImage" src="https://i.imgur.com/XPHs0qgh.jpg" />  
+20150425
+Dancing in the woods
+acrylic and cray..  
+ </a>   
