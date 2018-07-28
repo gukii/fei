@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "胡作霏為 Fei " 
+title: '胡作霏為 Fei ' 
 date: 2017-05-19T08:31:48+0000 
 categories: [] 
 media:
   - id: evorjNz
     name: Znk6G9jQDPIYm9oYNPmBc1pWKvV
-    description: "20170519霏昇30x21cm"   
+    description: '20170519  霏昇  30x21cm'   
     height: 509
     width: 720
     type: image/jpeg
@@ -17,12 +17,15 @@ media:
     factor: 1.41
     portrait: 0
     mInfo: TPLFs44rJJzVcMk
-story: "胡作霏為 Fei Fei Art added 2 new photos."
+story: '胡作霏為 Fei Fei Art added 2 new photos.'  
 ---
 
 胡作霏為 Fei Fei Art added 2 new photos.
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/evorjNz.jpg"><img src="https://i.imgur.com/evorjNz.jpg" height="212" width="300" /></a> 
- 
+<a href="https://i.imgur.com/evorjNz.jpg"><img class="postImage" src="https://i.imgur.com/evorjNzh.jpg" />  
+20170519
+霏昇
+30x21cm  
+ </a>   
