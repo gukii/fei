@@ -25,5 +25,5 @@ message: '樹的冥想  20150803'
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/iddcj27.jpg"><img src="https://i.imgur.com/iddcj27.jpg" height="300" width="187" /></a> 
- 
+<a href="https://i.imgur.com/iddcj27.jpg"><img class="postImage" src="https://i.imgur.com/iddcj27h.jpg" />  
+</a>   
