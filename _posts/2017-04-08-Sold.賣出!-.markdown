@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Sold.賣出! " 
+title: 'Sold.賣出! ' 
 date: 2017-04-08T09:56:18+0000 
 categories: [] 
 media:
   - id: YuSSw5f
     name: Znk6GzjqKZcYmR3XMVX5H0lnL1p
-    description: "Sold.賣出!我的 summer dream要去溫暖買主的家了！"   
+    description: 'Sold.賣出!  我的 summer dream要去溫暖買主的家了！'   
     height: 405
     width: 720
     type: image/jpeg
@@ -17,7 +17,7 @@ media:
     factor: 1.78
     portrait: 0
     mInfo: npcg9Os8hnR9NHi
-message: "Sold.賣出!  我的 summer dream要去溫暖買主的家了！"
+message: 'Sold.賣出!  我的 summer dream要去溫暖買主的家了！'  
 ---
 
 Sold.賣出!  
@@ -25,5 +25,7 @@ Sold.賣出!
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/YuSSw5f.jpg"><img src="https://i.imgur.com/YuSSw5f.jpg" height="168" width="300" /></a> 
- 
+<a href="https://i.imgur.com/YuSSw5f.jpg"><img class="postImage" src="https://i.imgur.com/YuSSw5fh.jpg" />  
+Sold.賣出!
+我的 summer dream要去溫暖買主的家了！  
+ </a>   
