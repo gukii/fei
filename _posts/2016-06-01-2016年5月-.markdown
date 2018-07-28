@@ -6,7 +6,7 @@ categories: ["healing","canvas"]
 media:
   - id: x2re8Eh
     name: W0xkEWn310i8kxgx1EzDf5NEBAL
-    description: '2016年5月我再次回到以往的繪畫模式---設定好想連結的主題，然後放手去畫。這次我選擇了.I tried to go back to my original painting mode this time-- connecting with the subject i choose, and let my hand go and paint. This time, the subject was, " the birth"開始作畫前我靜心了片刻。我盼望創作除了「表達自己」之外，還能有更深一層的目的--尋找自身生命的答案，甚至，也許有一天，能用這樣的經驗來幫助其他的人。Before i started, i meditated for a while. "Expressing the self" is always an important purpose of painting..'   
+    description: '2016年5月    我再次回到以往的繪畫模式-=-設定好想連結的主題，然後放手去畫。這次我選擇..'   
     height: 720
     width: 549
     type: image/jpeg
@@ -17,7 +17,7 @@ media:
     factor: 1.31
     portrait: 1
     mInfo: LjCsJOHlmJ5uYYc
-message: '2016年5月    我再次回到以往的繪畫模式---設定好想連結的主題，然後放手去畫。這次我選擇了. I tried to go back to my original painting mode this time-- connecting with the subject i choose, and let my hand go and paint. This time, the subject was, " the birth"    開始作畫前我靜心了片刻。我盼望創作除了「表達自己」之外，還能有更深一層的目的--尋找自身生命的答案，甚至，也許有一天，能用這樣的經驗來幫助其他的人。  Before i started, i meditated for a while. "Expressing the self" is always an important purpose of painting..'  
+message: '2016年5月    我再次回到以往的繪畫模式-=-設定好想連結的主題，然後放手去畫。這次我選擇了「出生」。  I tried to g..'  
 ---
 
 2016年5月  
@@ -57,5 +57,8 @@ The process of creating " the birth" brought me some surprises and tears, yet , 
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/x2re8Eh.jpg"><img src="https://i.imgur.com/x2re8Eh.jpg" height="300" width="228" /></a> 
- 
+<a href="https://i.imgur.com/x2re8Eh.jpg"><img class="postImage" src="https://i.imgur.com/x2re8Ehh.jpg" />  
+2016年5月
+
+我再次回到以往的繪畫模式---設定好想連結的主題，然後放手去畫。這次我選擇..  
+ </a>   
