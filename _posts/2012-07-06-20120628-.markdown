@@ -29,5 +29,6 @@ message: '20120628-- Here she comes..'
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/6MfHMve.jpg"><img src="https://i.imgur.com/6MfHMve.jpg" height="236" width="300" /></a> 
- 
+<a href="https://i.imgur.com/6MfHMve.jpg"><img class="postImage" src="https://i.imgur.com/6MfHMveh.jpg" />  
+20120628-- Here she comes..  
+ </a>   
