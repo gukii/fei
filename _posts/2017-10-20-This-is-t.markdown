@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "This is t" 
+title: 'This is t' 
 date: 2017-10-20T14:52:29+0000 
 categories: [] 
 media:
   - id: MwiJjUb
     name: qnOxwRqQJnSv9nYBAGVYSx9Nmqo
-    description: "This is the corner I love at home. The passionate girl seems to fit really well by the green plant. 這是我喜愛的一個家中的角落，畫中的熱情少女好似在樹林中奔跑。"   
+    description: 'This is the corner I love at home.   The passion..'   
     height: 720
     width: 405
     type: image/jpeg
@@ -17,7 +17,7 @@ media:
     factor: 1.78
     portrait: 1
     mInfo: kMxPrQzHZJspOv5
-message: "This is the corner I love at home.   The passionate girl seems to fit really well by the green plant.   這是我喜愛的一個家中的角落，畫中的熱情少女好似在樹林中奔跑。"
+message: 'This is the corner I love at home.   The passionate girl seems to fi..'  
 ---
 
 This is the corner I love at home.   
@@ -26,5 +26,7 @@ The passionate girl seems to fit really well by the green plant.
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/MwiJjUb.jpg"><img src="https://i.imgur.com/MwiJjUb.jpg" height="300" width="168" /></a> 
- 
+<a href="https://i.imgur.com/MwiJjUb.jpg"><img class="postImage" src="https://i.imgur.com/MwiJjUbh.jpg" />  
+This is the corner I love at home. 
+The passion..  
+ </a>   
