@@ -1,33 +1,35 @@
 ---
 layout: post
 title: '20170519 ' 
-date: 2017-05-19T08:32:41+0000 
-categories: [] 
+date: 2017-05-19T08:02:06+0000 
+categories: ["crayon","acrylic","wood"] 
 media:
-  - id: OGrPJOf
-    name: qnOxpkN4XyIv4rp87KJPsxyn0Bw
-    description: '20170519  霏昇  30x21'   
-    height: 509
-    width: 720
+  - id: NDdqUMr
+    name: GrL6XV4q73t8MBl14gNoFGyQpyM
+    description: '20170519  "Screaming to the world"  21x 30 cm  A..'   
+    height: 720
+    width: 517
     type: image/jpeg
-    link: https://i.imgur.com/OGrPJOf.jpg
-    prevLoc: PoMgO2D3K6C6XvvBgoK4CMrpQOKMr5TpwBv2lvK5ImPnkYzJ6Zi2Jr7jvv49HlRYQv4Nz4CMZ4E47XwAFrwAVR9vAgIz7yjKKGEKFwJ7L7z21ru4nBzvXZp8HgWEVjAWEAhnkX9mo9KJCMPnDP0rDof9GjZXl0qmt7Mw9kz544C7qw67OlzPu3n9Pm5ZG0uYDBKm2656iBxYp8MgpVcJp7WY0WXniV68DjY0ENflqR5rmArWujQnQkp9wGfx4KG46E4kFNVR
-    parentId: qnOxpkN4XyIv4rp87KJPsxyn0Bw
-    postId: jKERGNZnjkF0ypOxk77GTwWXN1VGP5iYrJNJxZvDIzDNnZj7AOHmAP
-    factor: 1.41
-    portrait: 0
-    mInfo: LbHBr5r8qnqZUB6
-message: '20170519  霏昇  30x21'  
+    link: https://i.imgur.com/NDdqUMr.jpg
+    prevLoc: AGQWvJk3X8HROrrx0nN9TjMPwxDjMWskMJ1G91Pzu1E0ROX78WurAYVg449niL9zmYlO7lHD3L8LG4o1Tygr4plogPu8rD7g2x2kc6gyGyK004UXrgrKxDN1IqoYXklvmxF3A3BoV1M2HZ2lp6Gj70C8QYQl223mUlKgJM2Ooof3Rjr3JlYXcq3norBZp8uPLpGV65pMSm9VZNq4OjTD8MOPvnkRf8zpZqNkX2u65oxxnMyYFmq5LZrJR6fpOgGOXx9Xc0yB
+    parentId: GrL6XV4q73t8MBl14gNoFGyQpyM
+    postId: RJZ64DOLm0IXg7O38AA0iY9AkqZ4zPtgEJoJPnn8tEmwm86oAjSmQm
+    factor: 1.39
+    portrait: 1
+    mInfo: SlLqRsjLmT0il0x
+message: '20170519  "Screaming to the world"  21x 30 cm  Acrylic , crayon on w..'  
 ---
 
 20170519  
-霏昇  
-30x21
+"Screaming to the world"  
+21x 30 cm  
+Acrylic , crayon on wood pad
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/OGrPJOf.jpg"><img class="postImage" src="https://i.imgur.com/OGrPJOfh.jpg" />  
+<a href="https://i.imgur.com/NDdqUMr.jpg"><img class="postImage" src="https://i.imgur.com/NDdqUMrh.jpg" />  
 20170519
-霏昇
-30x21  
+"Screaming to the world"
+21x 30 cm
+A..  
  </a>   
