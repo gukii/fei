@@ -6,7 +6,7 @@ categories: ["canvas","crayon","acrylic"]
 media:
   - id: ZWQHKWT
     name: 3XkRWPZYrmSvGl5W8yVOUZRX1LP
-    description: '20170208Blessing 2017Crayon  acrylic on canvas22x27cm'   
+    description: '20170208  Blessing 2017  Crayon  acrylic on canv..'   
     height: 720
     width: 587
     type: image/jpeg
@@ -32,5 +32,8 @@ Crayon & acrylic on canvas
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/ZWQHKWT.jpg"><img src="https://i.imgur.com/ZWQHKWT.jpg" height="300" width="244" /></a> 
- 
+<a href="https://i.imgur.com/ZWQHKWT.jpg"><img class="postImage" src="https://i.imgur.com/ZWQHKWTh.jpg" />  
+20170208
+Blessing 2017
+Crayon & acrylic on can..  
+ </a>   
