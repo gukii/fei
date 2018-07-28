@@ -167,38 +167,49 @@ story: '胡作霏為 Fei Fei Art added 13 new photos.'
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/GMNnKrm.jpg"><img src="https://i.imgur.com/GMNnKrm.jpg" height="300" width="225" /></a> 
-  
+<a href="https://i.imgur.com/GMNnKrm.jpg"><img class="postImage" src="https://i.imgur.com/GMNnKrmh.jpg" />  
+</a>    
 
-<a href="https://i.imgur.com/hZsPF6W.jpg"><img src="https://i.imgur.com/hZsPF6W.jpg" height="300" width="187" /></a> 
-  
 
-<a href="https://i.imgur.com/NV5q8mM.jpg"><img src="https://i.imgur.com/NV5q8mM.jpg" height="300" width="168" /></a> 
-  
+<a href="https://i.imgur.com/hZsPF6W.jpg"><img class="postImage" src="https://i.imgur.com/hZsPF6Wh.jpg" />  
+</a>    
 
-<a href="https://i.imgur.com/6Z9RsPD.jpg"><img src="https://i.imgur.com/6Z9RsPD.jpg" height="300" width="252" /></a> 
-  
 
-<a href="https://i.imgur.com/Em9uOds.jpg"><img src="https://i.imgur.com/Em9uOds.jpg" height="225" width="300" /></a> 
-  
+<a href="https://i.imgur.com/NV5q8mM.jpg"><img class="postImage" src="https://i.imgur.com/NV5q8mMh.jpg" />  
+</a>    
 
-<a href="https://i.imgur.com/UgjkO8s.jpg"><img src="https://i.imgur.com/UgjkO8s.jpg" height="300" width="259" /></a> 
-  
 
-<a href="https://i.imgur.com/x6MEMK1.jpg"><img src="https://i.imgur.com/x6MEMK1.jpg" height="300" width="165" /></a> 
-  
+<a href="https://i.imgur.com/6Z9RsPD.jpg"><img class="postImage" src="https://i.imgur.com/6Z9RsPDh.jpg" />  
+</a>    
 
-<a href="https://i.imgur.com/wSjQBbr.jpg"><img src="https://i.imgur.com/wSjQBbr.jpg" height="300" width="206" /></a> 
-  
 
-<a href="https://i.imgur.com/vQ20qLY.jpg"><img src="https://i.imgur.com/vQ20qLY.jpg" height="300" width="182" /></a> 
-  
+<a href="https://i.imgur.com/Em9uOds.jpg"><img class="postImage" src="https://i.imgur.com/Em9uOdsh.jpg" />  
+</a>    
 
-<a href="https://i.imgur.com/MR1DKag.jpg"><img src="https://i.imgur.com/MR1DKag.jpg" height="300" width="225" /></a> 
-  
 
-<a href="https://i.imgur.com/KfhAOrt.jpg"><img src="https://i.imgur.com/KfhAOrt.jpg" height="300" width="225" /></a> 
-  
+<a href="https://i.imgur.com/UgjkO8s.jpg"><img class="postImage" src="https://i.imgur.com/UgjkO8sh.jpg" />  
+</a>    
 
-<a href="https://i.imgur.com/L6XruPI.jpg"><img src="https://i.imgur.com/L6XruPI.jpg" height="300" width="165" /></a> 
- 
+
+<a href="https://i.imgur.com/x6MEMK1.jpg"><img class="postImage" src="https://i.imgur.com/x6MEMK1h.jpg" />  
+</a>    
+
+
+<a href="https://i.imgur.com/wSjQBbr.jpg"><img class="postImage" src="https://i.imgur.com/wSjQBbrh.jpg" />  
+</a>    
+
+
+<a href="https://i.imgur.com/vQ20qLY.jpg"><img class="postImage" src="https://i.imgur.com/vQ20qLYh.jpg" />  
+</a>    
+
+
+<a href="https://i.imgur.com/MR1DKag.jpg"><img class="postImage" src="https://i.imgur.com/MR1DKagh.jpg" />  
+</a>    
+
+
+<a href="https://i.imgur.com/KfhAOrt.jpg"><img class="postImage" src="https://i.imgur.com/KfhAOrth.jpg" />  
+</a>    
+
+
+<a href="https://i.imgur.com/L6XruPI.jpg"><img class="postImage" src="https://i.imgur.com/L6XruPIh.jpg" />  
+</a>   
