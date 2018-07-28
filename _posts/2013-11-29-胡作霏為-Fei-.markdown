@@ -1,22 +1,22 @@
 ---
 layout: post
 title: '胡作霏為 Fei ' 
-date: 2013-11-29T14:40:34+0000 
+date: 2013-11-29T14:44:33+0000 
 categories: [] 
 media:
-  - id: BHr21pj
-    name: Jx4Gn8nnw9FoqYJ76oqxuLO79NZQg
-    description: '裂牆系列---2'   
-    height: 720
-    width: 501
+  - id: AdbGtp9
+    name: mj1lzqzz49cqjnxmQLKDH99OXJpyR
+    description: '裂牆系列1+2'   
+    height: 522
+    width: 720
     type: image/jpeg
-    link: https://i.imgur.com/BHr21pj.jpg
-    prevLoc: PoMgO2D3K6C6XvvBgoK4CMrpQOKMr5TpwBv2lvK5ImPnkYzJ6Zi2Jr7j2p28ulpOR069MqIMNRWJq5j9trYop4zKGltERrx88N6MCkoXXAMRJwi414mOJ2KgFgRjPMDVv4in25ZlmEm6HWp4yzn4nWfBjk30O0ZmtgMYJNvRMwF7pBDwYJvlU349EX8xJnC6oj7nyrl5iPG5zoqjvAUJVZ2k4z52TKDO5JNEpjulJvYqqpYwHYGJxpZ
-    parentId: Jx4Gn8nnw9FoqYJ76oqxuLO79NZQg
-    postId: Znk6lNYWxocYoOjWy338ClzB7xnQw3SEOW67kxZgfZ7PBoEmWDcBy
-    factor: 1.44
-    portrait: 1
-    mInfo: pw9ujM7iSrfFnjR
+    link: https://i.imgur.com/AdbGtp9.jpg
+    prevLoc: zJBQW2jM4qTrq88XDxMRTzwrJ93zwPsZKMAz7ANlcVLvw31oxkHWo06gW9WZFR7L582x1qu68m7KOYxnTon8j4KqZkUWmp3Lk9Rps3vDnNOJpqsJGzjW3OjYiD2BjVEoxNUZWmkQN4jlUZnqE5mAAof9rv3ZXQoYUY0W9BLQBgfMyP3Oy6rBFql0VX84ZmCmP72mOX7yf0Eyy6yow5uqwXOgqDAlTYKMLnDnD4fm835YjJXqt2Q4yP
+    parentId: mj1lzqzz49cqjnxmQLKDH99OXJpyR
+    postId: NBVkZyL8g2FpMv6g122PfvmQkrJpLPfBQ1nmxOMpCGmo850Lq5hWJ
+    factor: 1.38
+    portrait: 0
+    mInfo: tfBMxRBgpyaUWP9
 story: '胡作霏為 Fei Fei Art shared your photo.'  
 ---
 
@@ -24,5 +24,6 @@ story: '胡作霏為 Fei Fei Art shared your photo.'
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/BHr21pj.jpg"><img src="https://i.imgur.com/BHr21pj.jpg" height="300" width="208" /></a> 
- 
+<a href="https://i.imgur.com/AdbGtp9.jpg"><img class="postImage" src="https://i.imgur.com/AdbGtp9h.jpg" />  
+裂牆系列1+2  
+ </a>   
