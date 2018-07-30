@@ -17,8 +17,8 @@ media:
     factor: 1.78
     portrait: 0
     mInfo: ZzHdvnAuHwviMsW
-story: '胡作霏為 Fei Fei Art shared 廈門11's video.'  
-message: '這個cracked wall 系列作品已經辛苦的陪我展來展去了…我很好奇最後它會情歸何處?  The "cracked wall ser..'  
+story: '胡作霏為 Fei Fei Art shared 廈門11 s video.'  
+message: '這個cracked wall 系列作品已經辛苦的陪我展來展去了…我很好奇最後它會情歸何處?  The "cracked wall series"..'  
 ---
 
 這個cracked wall 系列作品已經辛苦的陪我展來展去了…我很好奇最後它會情歸何處?  

@@ -17,7 +17,7 @@ media:
     factor: 1.45
     portrait: 1
     mInfo: 1HzgbSSTSFTwWo4
-story: '胡作霏為 Fei Fei Art shared 胡作霏為之  對話  對畫's post.'  
+story: '胡作霏為 Fei Fei Art shared 胡作霏為之  對話  對畫 s post.'  
 ---
 
 胡作霏為 Fei Fei Art shared 胡作霏為之  對話  對畫's post.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '胡作霏為 Fei ' 
+title: '胡作霏為 Fei' 
 date: 2018-04-20T10:42:18+0000 
 categories: [] 
 media:
@@ -17,7 +17,7 @@ media:
     factor: 1.41
     portrait: 0
     mInfo: 86XGkxCtcLAjcgu
-story: '胡作霏為 Fei Fei Art shared 胡作霏為之  對話  對畫's post.'  
+story: '胡作霏為 Fei Fei Art shared 胡作霏為之  對話  對畫 s post.'  
 ---
 
 胡作霏為 Fei Fei Art shared 胡作霏為之  對話  對畫's post.

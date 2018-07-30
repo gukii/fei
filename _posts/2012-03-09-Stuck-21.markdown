@@ -6,7 +6,7 @@ categories: ["crayon","paper"]
 media:
   - id: y6qkOu9
     name: wwYwR5vjgVCNqDDEyAnDf1LBlB
-    description: 'Stuck21 x 30 CMmarker.crayon on paperShih-Efei, 20120309    $US  250------------------------------------------------Originally, the topic was " freedom" before i started drawing, but the more I ' expressed' myself, the more stuck i got.... oftentimes what comes out on paper is the opposite of what i want to create....'   
+    description: 'Stuck21 x 30 CMmarker.crayon on paperShih-Efei, 20120309    $US 250. Originally, the topic was "freedom" before i started drawing, but the more I " expressed" myself, the more stuck i got.... oftentimes what comes out on paper is the opposite of what i want to create....'   
     height: 720
     width: 465
     type: image/jpeg
@@ -18,7 +18,7 @@ media:
     portrait: 1
     mInfo: BDO4C0FjQLZlaCO
 story: '胡作霏為 Fei Fei Art added a new photo.'  
-message: 'Stuck  21 x 30 CM  marker.crayon on paper  Shih-Efei, 20120309    $US  250    ------------------------------------------------  Originally, the topic was " freedom" before i started drawing, but the more I ' expressed' myself, the more stuck i got.... oftentimes what comes out on paper is the opposite of what i want to create....'  
+message: 'Stuck  21 x 30 CM  marker.crayon on paper  Shih-Efei, 20120309    $US 250   Originally, the topic was " freedom" before i started drawing, but the more I "expressed" myself, the more stuck i got.... oftentimes what comes out on paper is the opposite of what i want to create....'  
 ---
 
 Stuck  

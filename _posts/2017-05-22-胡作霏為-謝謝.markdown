@@ -17,7 +17,7 @@ media:
     factor: 1.78
     portrait: 0
     mInfo: KyH885JJiqk2IVb
-story: '胡作霏為 Fei Fei Art shared 玩美新視界青少兒多元影像教學團隊's video.'  
+story: '胡作霏為 Fei Fei Art shared 玩美新視界青少兒多元影像教學團隊 s video.'  
 message: '胡作霏為   謝謝廈門11的剪輯。'  
 ---
 

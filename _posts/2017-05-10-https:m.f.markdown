@@ -17,7 +17,7 @@ media:
     factor: 1.46
     portrait: 1
     mInfo: czlbWEgsVxLrzlN
-story: '胡作霏為 Fei Fei Art shared 廈門11's photo.'  
+story: '胡作霏為 Fei Fei Art shared 廈門11 s photo.'  
 message: 'https;m.facebook.comstory.php?story_fbid=813761172113222substory_ind..'  
 ---
 

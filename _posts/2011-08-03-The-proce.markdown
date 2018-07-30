@@ -6,7 +6,7 @@ categories: []
 media:
   - id: hsv2s1K
     name: olMYgGKEoYFmojYykWrnFO3Y3Y
-    description: 'The process of drawing this one was distressing, painful, full of anger and a sense of hopelessness -- i even thought of giving up drawing and writing and....everything else..This emotion wasn't caused from drawing itself, however. It was caused from some kind of fear and i'm still looking for the source of it.'   
+    description: 'The process of drawing this one was distressing, painful, full of anger and a sense of hopelessness - i even thought of giving up drawing and writing and....everything else..This emotion wasn t caused from drawing itself, however. It was caused from some kind of fear and i m still looking for the source of it.'   
     height: 640
     width: 480
     type: image/jpeg
@@ -17,7 +17,7 @@ media:
     factor: 1.33
     portrait: 1
     mInfo: cW937IHBmCbgJuu
-message: 'The process of drawing this one was distressing, painful, full of anger and a sense of hopelessness -- i even thought of giving up drawing and writing and....everything else..This emotion wasn't caused from drawing itself, however. It was caused from some kind of fear and i'm still looking for the source of it.'  
+message: 'The process of drawing this one was distressing, painful, full of anger and a sense of hopelessness - i even thought of giving up drawing and writing and....everything else.. This emotion wasn t caused from drawing itself, however. It was caused from some kind of fear and i m still looking for the source of it.'  
 ---
 
 The process of drawing this one was distressing, painful, full of anger and a sense of hopelessness -- i even thought of giving up drawing and writing and....everything else..This emotion wasn't caused from drawing itself, however. It was caused from some kind of fear and i'm still looking for the source of it.

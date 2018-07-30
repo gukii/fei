@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'Love's Gr' 
+title: 'Love s Gr' 
 date: 2012-02-07T16:35:37+0000 
 categories: ["acrylic","paper"] 
 media:
   - id: as0PbDd
     name: AlJgPKVLOnhRw8rEvERXTQ5OEQ
-    description: 'Love's Growing  39 x 27 CM  acrylic on paper  Sh..'   
+    description: 'Love s Growing  39 x 27 CM  acrylic on paper  Sh..'   
     height: 320
     width: 215
     type: image/jpeg
@@ -18,7 +18,7 @@ media:
     portrait: 1
     mInfo: mKTo29rD8pVLTax
 story: '胡作霏為 Fei Fei Art added a new photo.'  
-message: 'Love's Growing  39 x 27 CM  acrylic on paper  Shih-Efei, 20120207   ..'  
+message: 'Love s Growing  39 x 27 CM  acrylic on paper  Shih-Efei, 20120207   ..'  
 ---
 
 Love's Growing  

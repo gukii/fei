@@ -17,7 +17,7 @@ media:
     factor: 1.60
     portrait: 0
     mInfo: aG8Zcn3JJBK1S6x
-message: '20180331  When you have to talk to someone who doesn't interest you,..'  
+message: '20180331  When you have to talk to someone who doesn t interest you,..'  
 ---
 
 20180331  

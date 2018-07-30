@@ -6,7 +6,7 @@ categories: ["healing"]
 media:
   - id: aMF3BTl
     name: PEnXwE8oMXfnD8XWRPZNi2klmON
-    description: '20160719 The Healing Series NO.1; I'm sorry  療癒系..'   
+    description: '20160719 The Healing Series NO.1; I m sorry  療癒系..'   
     height: 720
     width: 506
     type: image/jpeg
@@ -18,7 +18,7 @@ media:
     portrait: 1
     mInfo: gcU77uyO2OoLctB
 story: '胡作霏為 Fei Fei Art added a new photo.'  
-message: '20160719 The Healing Series NO.1; I'm sorry  療癒系列 1號; " 對不起"  21 x 3..'  
+message: '20160719 The Healing Series NO.1; I m sorry  療癒系列 1號; "對不起"  21 x 3..'  
 ---
 
 20160719 The Healing Series NO.1: I'm sorry  

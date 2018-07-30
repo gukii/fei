@@ -17,7 +17,7 @@ media:
     factor: 1.25
     portrait: 0
     mInfo: NQGYbM3D14ZuxNo
-story: '胡作霏為 Fei Fei Art shared The Art People's photo.'  
+story: '胡作霏為 Fei Fei Art shared The Art People s photo.'  
 message: 'More and more often i feel i am like this....'  
 ---
 

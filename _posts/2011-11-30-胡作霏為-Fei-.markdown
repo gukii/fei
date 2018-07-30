@@ -6,7 +6,7 @@ categories: []
 media:
   - id: trlCZcq
     name: olN9j290oJSmKogoB1wnFOj75Z
-    description: 'Aliens39 x 27 CMmarker on paperShih-Efei, 2011      $US 100'   
+    description: 'Aliens39 x 27 CMmarker on paper Shih-Efei, 2011 $US 100'   
     height: 720
     width: 504
     type: image/jpeg
