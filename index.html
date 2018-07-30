@@ -85,7 +85,7 @@ layout: simplehome
        /* one item */
        img:first-child:nth-last-child(1) {
        /* -or- li:only-child { */
-          width: 100%
+          width: 100%;
           max-width: 25em;
           height: 18em;
        }
@@ -180,7 +180,7 @@ layout: simplehome
               width: 100%;
               height: 100%;
 
-             	margin: 0 auto;
+             	margin: 0 0 0 0;
               margin-bottom: 1em;
            }
 
@@ -208,6 +208,8 @@ layout: simplehome
            .thumbnailContainerStyle {
              overflow-x: hidden;
              width: 100%;
+             height: 100%;
+
              display: flex;
              align-items: flex-start;
              /*flex-wrap: wrap;*/
@@ -215,9 +217,7 @@ layout: simplehome
              align-items: center;
            }
 
-           .imageStyle2 .imageStyle3 .imageStyle4 {
 
-           }
 
            img {
 
@@ -228,9 +228,9 @@ layout: simplehome
            /* one item */
            img:first-child:nth-last-child(1) {
            /* -or- li:only-child { */
-              width: 100%
-              max-width: 25em;
-              height: 18em;
+              width: 100%;
+              object-fit: contain;
+              /*object-fit: contain;*/
            }
 
            /* two items */
@@ -313,34 +313,40 @@ layout: simplehome
         <div class="postContainerStyle">
 
           <div class="thumbnailContainerStyle">
-              {% for myImg in post.media limit:4 %}
+
+
 
                   {% if post.media.size == 1 %}
-                    <img class="imageStyleX" src="https://i.imgur.com/{{myImg['id']}}m.jpg" />
+
+                    <img class="imageStyleX" src="https://i.imgur.com/{{post.media[0].id}}m.jpg" />
                   
                   {% elsif post.media.size == 2 %}
-                    <img class="imageStyleX" src="https://i.imgur.com/{{myImg['id']}}m.jpg" />
+
+                    <img class="imageStyleX" src="https://i.imgur.com/{{post.media[0].id}}m.jpg" />
+                    <img class="imageStyleX" src="https://i.imgur.com/{{post.media[1].id}}m.jpg" />
                   
                   {% elsif post.media.size == 3 %}
-                  
-                    {% if myImg['height'] > myImg['width']  %}
-                      <img class="imageStyleX" src="https://i.imgur.com/{{myImg['id']}}m.jpg" />
-                    {% else %}
-                      <img class="imageStyleX" src="https://i.imgur.com/{{myImg['id']}}m.jpg" />
-                    {% endif %}
+                
+                    <img class="imageStyleX" src="https://i.imgur.com/{{post.media[0].id}}m.jpg" />
+                    <img class="imageStyleX" src="https://i.imgur.com/{{post.media[1].id}}m.jpg" />                    
+                    <img class="imageStyleX" src="https://i.imgur.com/{{post.media[2].id}}m.jpg" />
 
                   {% elsif post.media.size > 3 %}
                   
-                  {% if myImg['height'] > myImg['width']  %}
-                    <img class="imageStyleX" src="https://i.imgur.com/{{myImg['id']}}m.jpg" />
-                  {% else %}
-                    <img class="imageStyleX" src="https://i.imgur.com/{{myImg['id']}}m.jpg" />
+                    <div class="tophalf">
+                      <img class="imageStyleX" src="https://i.imgur.com/{{post.media[0].id}}m.jpg" />
+                      <img class="imageStyleX" src="https://i.imgur.com/{{post.media[1].id}}m.jpg" />  
+                    </div>
+
+                    <div class="lowerhalf">
+                      <img class="imageStyleX" src="https://i.imgur.com/{{post.media[2].id}}m.jpg" />                      
+                      <img class="imageStyleX" src="https://i.imgur.com/{{post.media[3].id}}m.jpg" />
+                    </div>
+
                   {% endif %}
-                  
-              {% endif %}                
+                      
 
 
-              {% endfor %}
           </div>
 
 
