@@ -70,14 +70,11 @@ layout: simplehome
          /*flex-shrink: 1;
          flex-grow: 1;*/
          display: inline-flex;
-         borderBottomWidth: 1;
          padding: 5;
-         backgroundColor: '#fff';
-         justifyContent: 'space-between';
+
          align-items: center;
          align-content: stretch;
          /*flexDirection: 'column';*/
-         borderColor: '#ddd';
          /*position: 'relative';*/
          padding-bottom: 60px;
        }
@@ -101,7 +98,7 @@ layout: simplehome
            align-items: center;
            align-content: stretch;
            margin-left: 30px;
-           max-width: 50%;
+           width: 100%;
 
            font-size: large;
          }
@@ -129,8 +126,8 @@ layout: simplehome
        img:first-child:nth-last-child(1) {
        /* -or- li:only-child { */
 
-          /*height: 22em;*/
-          height: 100%;
+          max-height: 22em;
+          width: 100%;
           object-fit: contain;
           justify-content: center;
        }
@@ -140,21 +137,12 @@ layout: simplehome
        img:first-child:nth-last-child(2) ~ img {
 
          object-fit: contain;
-         height: 100%;
-         max-height: 16em;
+         width: 100%;
+         max-height: 22em;
 
 
        }
-/*
-       .tophalf .lowerhalf {
-         overflow: hidden;
-         width: 100%;
-         display: flex;
-         align-items: flex-start;
-         /*flex-wrap: wrap;*/
-         justify-content:center;
-         align-items: center;
-       }*/
+
 
 
 
@@ -163,7 +151,8 @@ layout: simplehome
        .tophalf img:first-child:nth-last-child(2) ~ img {
 
             object-fit: cover;
-            height: 100%;
+            width: 99%;
+            max-height: 11em;
             /*flex-basis: 100%; // forces this element to take up any remaining space */
             /*height: 11em;*/
        }
@@ -173,10 +162,8 @@ layout: simplehome
         .lowerhalf img:first-child:nth-last-child(2) ~ img {
 
              object-fit: cover;
-             height: 100%;
-
-
-             /*height: 11em;*/
+             width: 99%;
+             max-height: 11em;
         }
 
 
@@ -194,7 +181,7 @@ layout: simplehome
         .tophalf3 img:first-child:nth-last-child(2) ~ img {
 
             object-fit: contain;
-            height: 100%;
+            width: 99%;
             max-height: 12em;
 
             /*height: 22em;*/
@@ -209,7 +196,7 @@ layout: simplehome
               height: 11em;
               */
               object-fit: contain;
-              height: 100%;
+              width: 99%;
               max-height: 12em;
         }
 
@@ -318,10 +305,11 @@ layout: simplehome
            /* one item */
            img:first-child:nth-last-child(1) {
            /* -or- li:only-child { */
-              height: 100%;
+              width: 100%;
               /*height: 100%;*/
               object-fit: contain;
               justify-content: center;
+              max-height: 18em;
 
            }
 
@@ -334,7 +322,7 @@ layout: simplehome
                 max-height: 18em;
 
                 object-fit: contain;
-                height: 100%;
+                width: 100%;
 
            }
 
@@ -347,8 +335,8 @@ layout: simplehome
 
                 justify-content: right;
                 object-fit: cover;
-                height: 100%;
-                /*height: 11em;*/
+                width: 100%;
+                max-height: 11em;
            }
 
             /* 4 items split, two items,lower half */
@@ -357,8 +345,8 @@ layout: simplehome
 
                 justify-content: left;
                  object-fit: cover;
-                 height: 100%;
-                 /*height: 11em;*/
+                 width: 100%;
+                 max-height: 11em;
             }
 
 
@@ -371,7 +359,7 @@ layout: simplehome
            .tophalf3 img:first-child:nth-last-child(2) ~ img {
 
                 object-fit: cover;
-                height: 100%;
+                width: 100%;
                 max-height: 12em;
            }
 
@@ -380,7 +368,7 @@ layout: simplehome
             .lowerhalf3 img:first-child:nth-last-child(2) ~ img {
 
                  object-fit: cover;
-                 height: 100%;
+                 width: 100%;
                  max-height: 12em;
             }
 
@@ -393,7 +381,7 @@ layout: simplehome
 
              object-fit: cover;
              width: 100%;
-             height: 15em;
+             max-height: 15em;
              /*
              width: 100%
              max-width: 300px;
@@ -408,7 +396,7 @@ layout: simplehome
 
              width: 100%;
              max-width: 25em;
-             height: 100%;
+             max-height: 100%;
            }
 
 
